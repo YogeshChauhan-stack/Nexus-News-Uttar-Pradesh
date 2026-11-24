@@ -6,8 +6,8 @@
 .env.production
 .env.staging
 
-# Local Database (JSON file store)
-data/
+# Local Database (committed as initial seed data for Vercel)
+# data/
 
 # Next.js build output
 .next/

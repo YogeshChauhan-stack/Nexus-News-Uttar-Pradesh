@@ -1,0 +1,2430 @@
+{
+  "users": [
+    {
+      "id": "user-admin",
+      "name": "Alexandra Vance",
+      "email": "editor@nexusnews.org",
+      "role": "ADMIN",
+      "bio": "Senior Investigative Journalist & Chief Managing Editor at Nexus.",
+      "avatarUrl": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=200&auto=format&fit=crop&q=80",
+      "createdAt": "2026-11-22T13:19:14.427Z"
+    },
+    {
+      "id": "user-tech",
+      "name": "Marcus Sterling",
+      "email": "m.sterling@nexusnews.org",
+      "role": "EDITOR",
+      "bio": "Technology columnist covering artificial intelligence, quantum systems, and silicon engineering.",
+      "avatarUrl": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=200&auto=format&fit=crop&q=80",
+      "createdAt": "2026-11-22T13:19:14.442Z"
+    }
+  ],
+  "categories": [
+    {
+      "id": "cat-up",
+      "name": "उत्तर प्रदेश",
+      "slug": "uttar-pradesh",
+      "description": "उत्तर प्रदेश की ताज़ा ख़बरें, राजनीति, विकास और क्षेत्रीय समाचार"
+    },
+    {
+      "id": "cat-1",
+      "name": "World",
+      "slug": "world",
+      "description": "Global affairs, geopolitics, and international diplomacy"
+    },
+    {
+      "id": "cat-2",
+      "name": "Technology",
+      "slug": "technology",
+      "description": "AI, computing, cybersecurity, and emerging tech breakthroughs"
+    },
+    {
+      "id": "cat-3",
+      "name": "Business & Economy",
+      "slug": "business",
+      "description": "Global markets, macroeconomic policy, startups, and commodities"
+    },
+    {
+      "id": "cat-4",
+      "name": "Science & Climate",
+      "slug": "science",
+      "description": "Space exploration, renewable energy, and environmental research"
+    },
+    {
+      "id": "cat-5",
+      "name": "Politics",
+      "slug": "politics",
+      "description": "Governance, elections, legislation, and public policies"
+    },
+    {
+      "id": "cat-6",
+      "name": "Culture & Arts",
+      "slug": "culture",
+      "description": "Cinema, literature, architecture, and contemporary society"
+    }
+  ],
+  "tags": [],
+  "articles": [
+    {
+      "title": "गाजीपुर: मरदह ब्लॉक में आधुनिक किसान कल्याण केंद्र का लोकार्पण",
+      "slug": "samachar-mwt40289-b0vcw",
+      "summary": "मरदह में किसानों को उन्नत बीज, जैविक खाद और मृदा परीक्षण की एक छत के नीचे सुविधा मिलेगी।",
+      "content": "<p>गाजीपुर जनपद के मरदह विकास खंड में किसानों की सुविधा के लिए नवनिर्मित किसान कल्याण केंद्र का विधिवत लोकार्पण किया गया।</p>",
+      "featuredImage": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=1200&auto=format&fit=crop&q=80",
+      "sourceType": "MANUAL",
+      "sourceName": "नेक्सस गाजीपुर डेस्क",
+      "status": "PUBLISHED",
+      "isBreaking": false,
+      "isFeatured": true,
+      "district": "ghazipur",
+      "pointers": [
+        "मरदह और आसपास के गांवों के किसानों को उन्नत बीज व खाद की सीधी आपूर्ति।",
+        "मृदा स्वास्थ्य कार्ड और विशेषज्ञ सलाह मौके पर ही उपलब्ध होगी।",
+        "जिला कृषि अधिकारी ने केंद्र का निरीक्षण कर किसानों से संवाद किया।"
+      ],
+      "authorId": "user-admin",
+      "categoryId": "cat-up",
+      "publishedAt": "2026-11-23T10:14:45.322Z",
+      "tags": [
+        "गाजीपुर",
+        "मरदह",
+        "किसान",
+        "विकास"
+      ],
+      "id": "art-1795428885332-0ucys6",
+      "viewsCount": 1,
+      "createdAt": "2026-11-23T10:14:45.332Z"
+    },
+    {
+      "id": "art-c5c218d7",
+      "title": "गाजीपुर: मरदह ब्लॉक के फेफरा गांव में नई सड़क व पेयजल परियोजना को मिली मंजूरी",
+      "slug": "ghazipur-mardah-fefra-village-road-water-project-approved",
+      "summary": "गाजीपुर जिले के मरदह विकास खंड स्थित ग्राम पंचायत फेफरा में संपर्क मार्ग व हर घर जल योजना के तहत नए पाइपलाइन विस्तार का कार्य शुरू होगा।",
+      "content": "<p>गाजीपुर जिले के मरदह विकास खंड स्थित ग्राम पंचायत फेफरा के ग्रामीणों के लिए बड़ी राहत की खबर है। जिला प्रशासन एवं ग्रामीण विकास विभाग द्वारा गांव के मुख्य संपर्क मार्ग के सुदृढ़ीकरण तथा शुद्ध पेयजल आपूर्ति हेतु नई पाइपलाइन विस्तार कार्य को अंतिम रूप दिया गया है।</p><p>स्थानीय जनप्रतिनिधियों एवं बीडीओ मरदह ने बताया कि फेफरा गांव में आवागमन को सुगम बनाने के लिए सीसी रोड का निर्माण शीघ्र प्रारंभ होगा। इससे फेफरा और आसपास के मजरों को सीधे मरदह बाजार और जिला मुख्यालय से बेहतर कनेक्टिविटी मिलेगी।</p>",
+      "featuredImage": "https://images.unsplash.com/photo-1541888946425-d0fbb186f5f7?w=1200&auto=format&fit=crop&q=80",
+      "sourceType": "MANUAL",
+      "sourceName": "नेक्सस गाजीपुर डेस्क",
+      "status": "PUBLISHED",
+      "isBreaking": false,
+      "district": "ghazipur",
+      "viewsCount": 2340,
+      "authorId": "user-admin",
+      "categoryId": "cat-up",
+      "pointers": [
+        "मरदह ब्लॉक के ग्राम फेफरा में संपर्क मार्ग का होगा कायाकल्प।",
+        "पेयजल पाइपलाइन विस्तार से सैकड़ों परिवारों को मिलेगा स्वच्छ पानी।",
+        "बीडीओ एवं स्थानीय अधिकारियों ने निर्माण स्थल का लिया जायजा।"
+      ],
+      "tags": [
+        "गाजीपुर",
+        "मरदह",
+        "फेफरा",
+        "उत्तर प्रदेश",
+        "विकास"
+      ],
+      "publishedAt": "2026-11-23T06:07:11.760639+00:00",
+      "createdAt": "2026-11-23T06:07:11.760639+00:00"
+    },
+    {
+      "id": "art-25d88c17",
+      "title": "गाजीपुर: मरदह मंडी में धान खरीद केंद्र पर व्यवस्थाएं दुरुस्त, किसानों को मिलेगा समय पर भुगतान",
+      "slug": "ghazipur-mardah-mandi-paddy-procurement-centers-active",
+      "summary": "मरदह क्षेत्र के किसानों की सुविधा के लिए धान क्रय केंद्रों पर टोकन प्रणाली और सीधे बैंक खाते में भुगतान की व्यवस्था की गई।",
+      "content": "<p>गाजीपुर जनपद के मरदह विकास खंड में रबी व खरीफ उपार्जन के तहत धान खरीद केंद्र सक्रिय कर दिए गए हैं। किसानों की सुविधा के लिए ऑनलाइन स्लॉट बुकिंग और ई-पॉप मशीनों से बायोमेट्रिक सत्यापन किया जा रहा है। एसडीएम और जिला खाद्य विपणन अधिकारी ने मरदह केंद्र का निरीक्षण कर किसानों को 48 घंटे के भीतर डीबीटी के माध्यम से भुगतान सुनिश्चित करने के निर्देश दिए।</p>",
+      "featuredImage": "https://images.unsplash.com/photo-1595246140625-573b715d11dc?w=1200&auto=format&fit=crop&q=80",
+      "sourceType": "MANUAL",
+      "sourceName": "नेक्सस पूर्वांचल ब्यूरो",
+      "status": "PUBLISHED",
+      "isBreaking": true,
+      "district": "ghazipur",
+      "viewsCount": 1891,
+      "authorId": "user-admin",
+      "categoryId": "cat-up",
+      "pointers": [
+        "मरदह मंडी और आसपास के केंद्रों पर धान खरीद सुचारू रूप से शुरू।",
+        "बिचौलियों पर लगाम कसने के लिए बायोमेट्रिक ई-पॉप सिस्टम लागू।",
+        "किसानों के बैंक खातों में 48 घंटे के भीतर पहुंचेगा एमएसपी भुगतान।"
+      ],
+      "tags": [
+        "गाजीपुर",
+        "मरदह",
+        "किसान",
+        "मंडी",
+        "धान खरीद"
+      ],
+      "publishedAt": "2026-11-23T06:07:11.760639+00:00",
+      "createdAt": "2026-11-23T06:07:11.760639+00:00"
+    },
+    {
+      "title": "गाजीपुर: गाजीपुर के मरदह में 35 वर्षीय व्यक्ति का शव फंदे से लटका मिला",
+      "slug": "35-24c2a",
+      "summary": "गाजीपुर के मरदह में 35 वर्षीय व्यक्ति का शव फंदे से लटका मिला  Dainik Bhaskar",
+      "content": "<p>गाजीपुर के मरदह में 35 वर्षीय व्यक्ति का शव फंदे से लटका मिला  Dainik Bhaskar</p>",
+      "featuredImage": "https://images.unsplash.com/photo-1548013146-72479768bada?w=1200&auto=format&fit=crop&q=80",
+      "sourceType": "API",
+      "sourceName": "गाजीपुर, मरदह एवं फेफरा बुलेटिन",
+      "externalUrl": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOY1JFSXl2TmJnUDFyczZDaFE5Sk1CaUEyRW1fNWJKUXJmbjk2anAtTnE1NGhhQlB5M3d1V0JYaVZ4NXhjTEM4eU1IWmdfS0VjZGxDM01DNzRQazFrSGU4WWxVZmcxczJoemJtN1ltT19Gd051RWFQU3VJWUxOeXVnSHhLaURLSGh0YkV6R3FDZTBoSnFNVm5ieUNOckJycExRSlNOQVNidTZuM0JUenBuSzh5ZG13SFpyc0MzVkRHQlo4Wkc3ZTRUWWxUMUk?oc=5",
+      "status": "PUBLISHED",
+      "isBreaking": false,
+      "categoryId": "cat-up",
+      "district": "ghazipur",
+      "pointers": [
+        "गाजीपुर: गाजीपुर के मरदह में 35 वर्षीय व्यक्ति का शव फंदे से लटका मिला को लेकर प्रशासन और संबंधित विभागों में अलर्ट जारी।",
+        "स्थानीय स्तर पर स्थिति की लगातार निगरानी की जा रही है।",
+        "विस्तृत जानकारी और आधिकारिक बयान की प्रतीक्षा।"
+      ],
+      "publishedAt": "2026-05-05T07:00:00.000Z",
+      "tags": [
+        "गाजीपुर, मरदह एवं फेफरा बुलेटिन",
+        "UTTAR-PRADESH",
+        "GHAZIPUR"
+      ],
+      "id": "art-1795413758292-byvz6p",
+      "viewsCount": 0,
+      "createdAt": "2026-11-23T06:02:38.293Z"
+    },
+    {
+      "title": "Can a TV be too large? An investigation",
+      "slug": "can-a-tv-be-too-large-an-investigation-ag1r0",
+      "summary": "Can a TV be too large? This writer's recent upgrade to a 65-inch OLED came with some unexpected challenges.",
+      "content": "<p>Can a TV be too large? This writer's recent upgrade to a 65-inch OLED came with some unexpected challenges.</p>",
+      "featuredImage": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1000&auto=format&fit=crop&q=80",
+      "sourceType": "API",
+      "sourceName": "TechCrunch",
+      "externalUrl": "https://techcrunch.com/2026/11/22/can-a-tv-be-too-large-an-investigation/",
+      "status": "PUBLISHED",
+      "isBreaking": false,
+      "categoryId": "cat-2",
+      "pointers": [
+        "Can a TV be too large? An investigation को लेकर प्रशासन और संबंधित विभागों में अलर्ट जारी।",
+        "स्थानीय स्तर पर स्थिति की लगातार निगरानी की जा रही है।",
+        "विस्तृत जानकारी और आधिकारिक बयान की प्रतीक्षा।"
+      ],
+      "publishedAt": "2026-11-22T15:00:00.000Z",
+      "tags": [
+        "TechCrunch",
+        "TECHNOLOGY",
+        "UP"
+      ],
+      "id": "art-1795394418374-3rqh9p",
+      "viewsCount": 0,
+      "createdAt": "2026-11-23T00:40:18.374Z"
+    },
+    {
+      "title": "TechCrunch Mobility: A/B testing robots vs. humans",
+      "slug": "techcrunch-mobility-ab-testing-robots-vs-humans-q1rrr",
+      "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and, now more than ever, the role AI is playing in it.",
+      "content": "<p>Welcome back to TechCrunch Mobility, your hub for the future of transportation and, now more than ever, the role AI is playing in it.</p>",
+      "featuredImage": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1000&auto=format&fit=crop&q=80",
+      "sourceType": "API",
+      "sourceName": "TechCrunch",
+      "externalUrl": "https://techcrunch.com/2026/11/22/techcrunch-mobility-a-b-testing-robots-vs-humans/",
+      "status": "PUBLISHED",
+      "isBreaking": false,
+      "categoryId": "cat-2",
+      "pointers": [
+        "TechCrunch Mobility: A/B testing robots vs. humans को लेकर प्रशासन और संबंधित विभागों में अलर्ट जारी।",
+        "स्थानीय स्तर पर स्थिति की लगातार निगरानी की जा रही है।",
+        "विस्तृत जानकारी और आधिकारिक बयान की प्रतीक्षा।"
+      ],
+      "publishedAt": "2026-11-22T17:06:00.000Z",
+      "tags": [
+        "TechCrunch",
+        "TECHNOLOGY",
+        "UP"
+      ],
+      "id": "art-1795394418366-996m91",
+      "viewsCount": 0,
+      "createdAt": "2026-11-23T00:40:18.366Z"
+    },
+    {
+      "title": "Why data centers are at the center of the Big Tech backlash",
+      "slug": "why-data-centers-are-at-the-center-of-the-big-tech-backlash-24f9f",
+      "summary": "Journalist Paris Marx unpacks his new book \"Hyperscale.\"",
+      "content": "<p>Journalist Paris Marx unpacks his new book \"Hyperscale.\"</p>",
+      "featuredImage": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1000&auto=format&fit=crop&q=80",
+      "sourceType": "API",
+      "sourceName": "TechCrunch",
+      "externalUrl": "https://techcrunch.com/2026/11/22/why-data-centers-are-at-the-center-of-the-big-tech-backlash/",
+      "status": "PUBLISHED",
+      "isBreaking": false,
+      "categoryId": "cat-2",
+      "pointers": [
+        "Why data centers are at the center of the Big Tech backlash को लेकर प्रशासन और संबंधित विभागों में अलर्ट जारी।",
+        "स्थानीय स्तर पर स्थिति की लगातार निगरानी की जा रही है।",
+        "विस्तृत जानकारी और आधिकारिक बयान की प्रतीक्षा।"
+      ],
+      "publishedAt": "2026-11-22T18:08:43.000Z",
+      "tags": [
+        "TechCrunch",
+        "TECHNOLOGY",
+        "UP"
+      ],
+      "id": "art-1795394418358-tj8l9l",
+      "viewsCount": 0,
+      "createdAt": "2026-11-23T00:40:18.358Z"
+    },
+    {
+      "title": "The best apps to make new friends right now",
+      "slug": "the-best-apps-to-make-new-friends-right-now-jlt6c",
+      "summary": "We've compiled a list of friendship apps, from friend discovery platforms like BFF to event-focused ones like Timeleft.",
+      "content": "<p>We've compiled a list of friendship apps, from friend discovery platforms like BFF to event-focused ones like Timeleft.</p>",
+      "featuredImage": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1000&auto=format&fit=crop&q=80",
+      "sourceType": "API",
+      "sourceName": "TechCrunch",
+      "externalUrl": "https://techcrunch.com/2026/11/22/as-people-look-for-ways-to-make-new-friends-here-are-the-apps-promising-to-help/",
+      "status": "PUBLISHED",
+      "isBreaking": false,
+      "categoryId": "cat-2",
+      "pointers": [
+        "The best apps to make new friends right now को लेकर प्रशासन और संबंधित विभागों में अलर्ट जारी।",
+        "स्थानीय स्तर पर स्थिति की लगातार निगरानी की जा रही है।",
+        "विस्तृत जानकारी और आधिकारिक बयान की प्रतीक्षा।"
+      ],
+      "publishedAt": "2026-11-22T21:00:00.000Z",
+      "tags": [
+        "TechCrunch",
+        "TECHNOLOGY",
+        "UP"
+      ],
+      "id": "art-1795394418350-qqy458",
+      "viewsCount": 0,
+      "createdAt": "2026-11-23T00:40:18.350Z"
+    },
+    {
+      "title": "OpenAI’s chief scientist has thoughts on how to limit AI development",
+      "slug": "openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development-ieii2",
+      "summary": "To establish a speed limit on AI development, you need to agree on how to measure speed.",
+      "content": "<p>To establish a speed limit on AI development, you need to agree on how to measure speed.</p>",
+      "featuredImage": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1000&auto=format&fit=crop&q=80",
+      "sourceType": "API",
+      "sourceName": "TechCrunch",
+      "externalUrl": "https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/",
+      "status": "PUBLISHED",
+      "isBreaking": false,
+      "categoryId": "cat-2",
+      "pointers": [
+        "OpenAI’s chief scientist has thoughts on how to limit AI development को लेकर प्रशासन और संबंधित विभागों में अलर्ट जारी।",
+        "स्थानीय स्तर पर स्थिति की लगातार निगरानी की जा रही है।",
+        "विस्तृत जानकारी और आधिकारिक बयान की प्रतीक्षा।"
+      ],
+      "publishedAt": "2026-11-22T21:14:07.000Z",
+      "tags": [
+        "TechCrunch",
+        "TECHNOLOGY",
+        "UP"
+      ],
+      "id": "art-1795394418341-pw86n2",
+      "viewsCount": 3,
+      "createdAt": "2026-11-23T00:40:18.341Z"
+    },
+    {
+      "title": "‘You Can See Everything’ has made more than $100M worldwide",
+      "slug": "you-can-see-everything-has-made-more-than-100m-worldwide-jrdqm",
+      "summary": "The new Elizabeth Holmes documentary is just beginning to roll out internationally.",
+      "content": "<p>The new Elizabeth Holmes documentary is just beginning to roll out internationally.</p>",
+      "featuredImage": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1000&auto=format&fit=crop&q=80",
+      "sourceType": "API",
+      "sourceName": "TechCrunch",
+      "externalUrl": "https://techcrunch.com/2026/11/22/you-can-see-everything-has-made-more-than-100m-worldwide/",
+      "status": "PUBLISHED",
+      "isBreaking": false,
+      "categoryId": "cat-2",
+      "pointers": [
+        "‘You Can See Everything’ has made more than $100M worldwide को लेकर प्रशासन और संबंधित विभागों में अलर्ट जारी।",
+        "स्थानीय स्तर पर स्थिति की लगातार निगरानी की जा रही है।",
+        "विस्तृत जानकारी और आधिकारिक बयान की प्रतीक्षा।"
+      ],
+      "publishedAt": "2026-11-22T21:42:48.000Z",
+      "tags": [
+        "TechCrunch",
+        "TECHNOLOGY",
+        "UP"
+      ],
+      "id": "art-1795394418333-vft1ru",
+      "viewsCount": 0,
+      "createdAt": "2026-11-23T00:40:18.333Z"
+    },
+    {
+      "title": "Miley Cyrus marries Maxx Morando in California ceremony",
+      "slug": "miley-cyrus-marries-maxx-morando-in-california-ceremony-g45we",
+      "summary": "The couple have been together for four years and were engaged in 2025.",
+      "content": "<p>The couple have been together for four years and were engaged in 2025.</p>",
+      "featuredImage": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/623a/live/96a59510-e667-11f1-8ebd-1d2173202734.jpg",
+      "sourceType": "API",
+      "sourceName": "BBC World News",
+      "externalUrl": "https://www.bbc.co.uk/news/articles/cq8e0p87l89lo?at_medium=RSS&at_campaign=rss",
+      "status": "PUBLISHED",
+      "isBreaking": false,
+      "categoryId": "cat-1",
+      "pointers": [
+        "Miley Cyrus marries Maxx Morando in California ceremony को लेकर प्रशासन और संबंधित विभागों में अलर्ट जारी।",
+        "स्थानीय स्तर पर स्थिति की लगातार निगरानी की जा रही है।",
+        "विस्तृत जानकारी और आधिकारिक बयान की प्रतीक्षा।"
+      ],
+      "publishedAt": "2026-11-22T21:22:40.000Z",
+      "tags": [
+        "BBC World News",
+        "WORLD",
+        "UP"
+      ],
+      "id": "art-1795394416563-2871k4",
+      "viewsCount": 0,
+      "createdAt": "2026-11-23T00:40:16.563Z"
+    },
+    {
+      "title": "US Army to detonate tonnes of unstable explosives in Iowa despite court order",
+      "slug": "us-army-to-detonate-tonnes-of-unstable-explosives-in-iowa-despite-court-order-teu48",
+      "summary": "The Army says \"swift action\" is necessary to protect its personnel and nearby communities around its ammunition plant in Iowa.",
+      "content": "<p>The Army says \"swift action\" is necessary to protect its personnel and nearby communities around its ammunition plant in Iowa.</p>",
+      "featuredImage": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c129/live/651f5c40-e68c-11f1-936e-1fd1d31671db.jpg",
+      "sourceType": "API",
+      "sourceName": "BBC World News",
+      "externalUrl": "https://www.bbc.co.uk/news/articles/cvglrx764gdxo?at_medium=RSS&at_campaign=rss",
+      "status": "PUBLISHED",
+      "isBreaking": false,
+      "categoryId": "cat-1",
+      "pointers": [
+        "US Army to detonate tonnes of unstable explosives in Iowa despite court order को लेकर प्रशासन और संबंधित विभागों में अलर्ट जारी।",
+        "स्थानीय स्तर पर स्थिति की लगातार निगरानी की जा रही है।",
+        "विस्तृत जानकारी और आधिकारिक बयान की प्रतीक्षा।"
+      ],
+      "publishedAt": "2026-11-22T18:29:46.000Z",
+      "tags": [
+        "BBC World News",
+        "WORLD",
+        "UP"
+      ],
+      "id": "art-1795394416555-k63fbi",
+      "viewsCount": 0,
+      "createdAt": "2026-11-23T00:40:16.555Z"
+    },
+    {
+      "title": "Democrats win largest House majority since 1992 after flipping North Carolina seat",
+      "slug": "democrats-win-largest-house-majority-since-1992-after-flipping-north-carolina-se-5aftt",
+      "summary": "Democrats have now won at least 258 seats in the midterms compared to Republicans, who hold at least 173 seats.",
+      "content": "<p>Democrats have now won at least 258 seats in the midterms compared to Republicans, who hold at least 173 seats.</p>",
+      "featuredImage": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2aab/live/8ca719f0-e6b0-11f1-b45e-bf1e220bd648.jpg",
+      "sourceType": "API",
+      "sourceName": "BBC World News",
+      "externalUrl": "https://www.bbc.co.uk/news/articles/c6vg29g7dlyno?at_medium=RSS&at_campaign=rss",
+      "status": "PUBLISHED",
+      "isBreaking": false,
+      "categoryId": "cat-1",
+      "pointers": [
+        "Democrats win largest House majority since 1992 after flipping North Carolina seat को लेकर प्रशासन और संबंधित विभागों में अलर्ट जारी।",
+        "स्थानीय स्तर पर स्थिति की लगातार निगरानी की जा रही है।",
+        "विस्तृत जानकारी और आधिकारिक बयान की प्रतीक्षा।"
+      ],
+      "publishedAt": "2026-11-22T20:26:24.000Z",
+      "tags": [
+        "BBC World News",
+        "WORLD",
+        "UP"
+      ],
+      "id": "art-1795394416548-gkllxd",
+      "viewsCount": 0,
+      "createdAt": "2026-11-23T00:40:16.548Z"
+    },
+    {
+      "title": "'Danger seems greater all the time': Ukrainians search for missing after Russian strikes",
+      "slug": "danger-seems-greater-all-the-time-ukrainians-search-for-missing-after-russian-st-on5uz",
+      "summary": "The BBC's Sarah Rainsford reports from the scene of a collapsed residential building in Ukraine's Kyiv region.",
+      "content": "<p>The BBC's Sarah Rainsford reports from the scene of a collapsed residential building in Ukraine's Kyiv region.</p>",
+      "featuredImage": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f57f/live/25f17b40-e69e-11f1-9d9b-5dad4444a651.jpg",
+      "sourceType": "API",
+      "sourceName": "BBC World News",
+      "externalUrl": "https://www.bbc.co.uk/news/videos/cre3dvd1k9y1o?at_medium=RSS&at_campaign=rss",
+      "status": "PUBLISHED",
+      "isBreaking": false,
+      "categoryId": "cat-1",
+      "pointers": [
+        "'Danger seems greater all the time': Ukrainians search for missing after Russian strikes को लेकर प्रशासन और संबंधित विभागों में अलर्ट जारी।",
+        "स्थानीय स्तर पर स्थिति की लगातार निगरानी की जा रही है।",
+        "विस्तृत जानकारी और आधिकारिक बयान की प्रतीक्षा।"
+      ],
+      "publishedAt": "2026-11-22T22:37:43.000Z",
+      "tags": [
+        "BBC World News",
+        "WORLD",
+        "UP"
+      ],
+      "id": "art-1795394416533-3vt05c",
+      "viewsCount": 0,
+      "createdAt": "2026-11-23T00:40:16.533Z"
+    },
+    {
+      "title": "Explosion on Russian ship at Libya port caused by suspected drone attack, officials say",
+      "slug": "explosion-on-russian-ship-at-libya-port-caused-by-suspected-drone-attack-officia-bgf8p",
+      "summary": "Libya's eastern government says the ship had stopped for fuel and supplies on its way back to Russia.",
+      "content": "<p>Libya's eastern government says the ship had stopped for fuel and supplies on its way back to Russia.</p>",
+      "featuredImage": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a198/live/5b2f71d0-e6ae-11f1-a094-5fdc692f3e33.jpg",
+      "sourceType": "API",
+      "sourceName": "BBC World News",
+      "externalUrl": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss",
+      "status": "PUBLISHED",
+      "isBreaking": false,
+      "categoryId": "cat-1",
+      "pointers": [
+        "Explosion on Russian ship at Libya port caused by suspected drone attack, officials say को लेकर प्रशासन और संबंधित विभागों में अलर्ट जारी।",
+        "स्थानीय स्तर पर स्थिति की लगातार निगरानी की जा रही है।",
+        "विस्तृत जानकारी और आधिकारिक बयान की प्रतीक्षा।"
+      ],
+      "publishedAt": "2026-11-22T20:28:09.000Z",
+      "tags": [
+        "BBC World News",
+        "WORLD",
+        "UP"
+      ],
+      "id": "art-1795394416525-mswy3v",
+      "viewsCount": 0,
+      "createdAt": "2026-11-23T00:40:16.525Z"
+    },
+    {
+      "title": "What's next after no deal at COP31 climate talks?",
+      "slug": "whats-next-after-no-deal-at-cop31-climate-talks-czixq",
+      "summary": "The talks have been the longest-running in the summit's history, with negotiations breaking down two days after they had been due to end.",
+      "content": "<p>The talks have been the longest-running in the summit's history, with negotiations breaking down two days after they had been due to end.</p>",
+      "featuredImage": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3c66/live/ad00e440-e6b2-11f1-9607-338132fd22a0.jpg",
+      "sourceType": "API",
+      "sourceName": "BBC World News",
+      "externalUrl": "https://www.bbc.co.uk/news/videos/cr1ewge81q4qo?at_medium=RSS&at_campaign=rss",
+      "status": "PUBLISHED",
+      "isBreaking": false,
+      "categoryId": "cat-1",
+      "pointers": [
+        "What's next after no deal at COP31 climate talks? को लेकर प्रशासन और संबंधित विभागों में अलर्ट जारी।",
+        "स्थानीय स्तर पर स्थिति की लगातार निगरानी की जा रही है।",
+        "विस्तृत जानकारी और आधिकारिक बयान की प्रतीक्षा।"
+      ],
+      "publishedAt": "2026-11-22T18:57:24.000Z",
+      "tags": [
+        "BBC World News",
+        "WORLD",
+        "UP"
+      ],
+      "id": "art-1795394416518-f6a99x",
+      "viewsCount": 0,
+      "createdAt": "2026-11-23T00:40:16.518Z"
+    },
+    {
+      "title": "COP31 fails to reach major climate deal as talks expose deep divisions",
+      "slug": "cop31-fails-to-reach-major-climate-deal-as-talks-expose-deep-divisions-9c7ta",
+      "summary": "The talks fail to make a breakthrough on tackling climate change after a row about mentioning fossil fuels.",
+      "content": "<p>The talks fail to make a breakthrough on tackling climate change after a row about mentioning fossil fuels.</p>",
+      "featuredImage": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/afca/live/39aa8840-e69c-11f1-936e-1fd1d31671db.jpg",
+      "sourceType": "API",
+      "sourceName": "BBC World News",
+      "externalUrl": "https://www.bbc.co.uk/news/articles/cqwy06zrd26lo?at_medium=RSS&at_campaign=rss",
+      "status": "PUBLISHED",
+      "isBreaking": false,
+      "categoryId": "cat-1",
+      "pointers": [
+        "COP31 fails to reach major climate deal as talks expose deep divisions को लेकर प्रशासन और संबंधित विभागों में अलर्ट जारी।",
+        "स्थानीय स्तर पर स्थिति की लगातार निगरानी की जा रही है।",
+        "विस्तृत जानकारी और आधिकारिक बयान की प्रतीक्षा।"
+      ],
+      "publishedAt": "2026-11-22T18:17:59.000Z",
+      "tags": [
+        "BBC World News",
+        "WORLD",
+        "UP"
+      ],
+      "id": "art-1795394416510-ntyjqv",
+      "viewsCount": 0,
+      "createdAt": "2026-11-23T00:40:16.510Z"
+    },
+    {
+      "title": "आगरा की मिट्‌टी में आज-भी जीवित हैं पहले-गुरु की स्मृतियां: आज भी गूंजते हैं गुरुनानक देव के संदेश, 1509 मे...",
+      "slug": "----1509-q6g2u",
+      "summary": "आगरा की मिट्‌टी में आज-भी जीवित हैं पहले-गुरु की स्मृतियां: आज भी गूंजते हैं गुरुनानक देव के संदेश, 1509 मे...  Dainik Bhaskar",
+      "content": "<p>आगरा की मिट्‌टी में आज-भी जीवित हैं पहले-गुरु की स्मृतियां: आज भी गूंजते हैं गुरुनानक देव के संदेश, 1509 मे...  Dainik Bhaskar</p>",
+      "featuredImage": "https://images.unsplash.com/photo-1548013146-72479768bada?w=1200&auto=format&fit=crop&q=80",
+      "sourceType": "API",
+      "sourceName": "मेरठ, आगरा एवं पश्चिम यूपी",
+      "externalUrl": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQalVpQVh6VVdJS2FGZ0tzSF9fdGpIdUNoNWRaVkNpV1QtTEgySlZzX3JTdE1RbkdNWlR6bHY1NGZzRHVuUUotZ0hTZ3hUbzZkM3c3RGs2S2psbkNnNzFFMjEyTklINkViaFUtRDBmeS03Rkh2SGQtOGg3RkFJVktDcHd1elZSejh5NWlBTjY1NnBreEEyVU93V0lXZ3llRVRuSE14OUZFMzNvdVpOZ0NVNk8wVExDUWlvR1hfR1ExVW1NbjlOX1Y5V3BYckxsTWPSAdQBQVVfeXFMTXFOU1hTMnNvWHVwQXExYTBodkZXNDNlWnY5bURjSEZGY2RyNzg0Y2d3ZWc1dFA2WGZhLXpXcG1pNGtodER5Z3h4NGptWGdhRElITmlEc05qNm1oRWVITU52OGsyWEZNZGJpUGxsUGtIQ3lIZG9zZExGVDFvdUVsZUViTEZDdGpWTEZJdnlwY3pNY0NEQkFaeWh2ZnJxOVJfeEtVWnBUaFRXTkZiNHhYQ2hxalR4b3dzZ3JLLVNrejRqT09xa2oxVVBPY0lvTVFrLTlfVUU?oc=5",
+      "status": "PUBLISHED",
+      "isBreaking": false,
+      "categoryId": "cat-up",
+      "district": "agra",
+      "pointers": [
+        "आगरा की मिट्‌टी में आज-भी जीवित हैं पहले-गुरु की स्मृतियां: आज भी गूंजते हैं गुरुनानक देव के संदेश, 1509 मे... को लेकर प्रशासन और संबंधित विभागों में अलर्ट जारी।",
+        "स्थानीय स्तर पर स्थिति की लगातार निगरानी की जा रही है।",
+        "विस्तृत जानकारी और आधिकारिक बयान की प्रतीक्षा।"
+      ],
+      "publishedAt": "2026-11-23T00:30:00.000Z",
+      "tags": [
+        "मेरठ, आगरा एवं पश्चिम यूपी",
+        "UTTAR-PRADESH",
+        "AGRA"
+      ],
+      "id": "art-1795394414719-w0tpmb",
+      "viewsCount": 0,
+      "createdAt": "2026-11-23T00:40:14.719Z"
+    },
+    {
+      "title": "आगरा: ‘बहनजी को CM बनाइए, आगरा को जन्नत बना देंगे’, ताजनगरी में आकाश आनंद ने भरी हुंकार",
+      "slug": "cm-p7gze",
+      "summary": "‘बहनजी को CM बनाइए, आगरा को जन्नत बना देंगे’, ताजनगरी में आकाश आनंद ने भरी हुंकार  AajTak",
+      "content": "<p>‘बहनजी को CM बनाइए, आगरा को जन्नत बना देंगे’, ताजनगरी में आकाश आनंद ने भरी हुंकार  AajTak</p>",
+      "featuredImage": "https://images.unsplash.com/photo-1548013146-72479768bada?w=1200&auto=format&fit=crop&q=80",
+      "sourceType": "API",
+      "sourceName": "मेरठ, आगरा एवं पश्चिम यूपी",
+      "externalUrl": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPaDZmUERSa3VRZ09SMm5WUW0yUVlMX3M2Wi1oa3l0Z01mNHpYZ3djNUlCcEx4T19zNmk1aVlnclN4N3d3TXk5dnVQei04Rmdzd1hYc0VZRXhoeTJ1RTRnU2FsaVNMbFg2bll1bVZJUUNTMUxNUVlwQ2RfUHVsQWhPNWIzZnlwQV9nT1ZEeEpwSFdGWFQ0Y3YzbEtJajVjRzNGQXBRQ2xmRElMcHVDa0Q0czVURG9aN0hDb0gxOWRYdDZwVjBqa0RJRE1kRWZhVy1neW1MN19XU3RYQmljLUdvWXJVMkUtcmlLQzRpdWhrd9IB9AFBVV95cUxOVGFpeHNudjg1V09wM3lUaDN6NlQyd0Jpby0ycjZjeXNsNVcyLVV3WHhhOEpUN2NQUVNha2l2TndnamgycDlIYVdEek9oWVFNd19yZ1RfNGJoZ1ZfNnpPcTA1VlQ2elhPRDdPOGVOcVI1bGpIOUNVZnZpYXNSZTVTSk44MG5obnotRjJlckRIRk9MWEpldkszZWxQX0l2RGluTmdCdzEyX1o0QlBCdGdRMDBQVV90N3NCclMtWGtZay1qaFBWdnNaRjdhLUVkZ2tMUGFCcTF0Mjdqb0VQZU1IazFSZG05MGdoM1FUYm80dDdOaTl5?oc=5",
+      "status": "PUBLISHED",
+      "isBreaking": false,
+      "categoryId": "cat-up",
+      "district": "agra",
+      "pointers": [
+        "आगरा: ‘बहनजी को CM बनाइए, आगरा को जन्नत बना देंगे’, ताजनगरी में आकाश आनंद ने भरी हुंकार को लेकर प्रशासन और संबंधित विभागों में अलर्ट जारी।",
+        "स्थानीय स्तर पर स्थिति की लगातार निगरानी की जा रही है।",
+        "विस्तृत जानकारी और आधिकारिक बयान की प्रतीक्षा।"
+      ],
+      "publishedAt": "2026-11-22T12:22:20.000Z",
+      "tags": [
+        "मेरठ, आगरा एवं पश्चिम यूपी",
+        "UTTAR-PRADESH",
+        "AGRA"
+      ],
+      "id": "art-1795394414707-dcntop",
+      "viewsCount": 0,
+      "createdAt": "2026-11-23T00:40:14.707Z"
+    },
+    {
+      "title": "आगरा: रात-दिन काम कर आगरा FSL के चार वैज्ञानिकों ने 3 महीने में पूरी की 800 बम धमाकों की जांच",
+      "slug": "--fsl-3-800-6lu5j",
+      "summary": "रात-दिन काम कर आगरा FSL के चार वैज्ञानिकों ने 3 महीने में पूरी की 800 बम धमाकों की जांच  ThePrint Hindi",
+      "content": "<p>रात-दिन काम कर आगरा FSL के चार वैज्ञानिकों ने 3 महीने में पूरी की 800 बम धमाकों की जांच  ThePrint Hindi</p>",
+      "featuredImage": "https://images.unsplash.com/photo-1548013146-72479768bada?w=1200&auto=format&fit=crop&q=80",
+      "sourceType": "API",
+      "sourceName": "मेरठ, आगरा एवं पश्चिम यूपी",
+      "externalUrl": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOSWZiSjNZejZnM2x3dm00SU5oWHJuUDhpbGo5OHdSQWFnNWFwek9xVFdvV2c5NU0zTDhiak04alNMOGE2ci1UcHhuOWNpTVVEWkstb0V2YWVLWVFFU0lpcGV6LWtBYzdYTTNNTjdQWVFTZFk2T1ZzNWM3WHJZeXNLWVUySXkyUm5BazVFT1ZRc19ZVzRwQUI4MW5GaEF4bXhfaU9qR2dpbXk2cVdvNGRMdWRxTm9Za0JENDVwa1JfRVRNXzNGZWo2TF9COU5qLWU2bFUyQko2LV9kZWw10gHiAUFVX3lxTE45bDItclBVaEdmM3gtLXVFMWg1emlHcGwzS19hOTVpUUxKeFBVeTJwNFZRUVQ5bG1TcVo4S18yOE5PVmZzM2lxX1pxUml5Qi0zcDVwa2pEQXJnVFRUN2JkWUxTMXM3ZXpHOVBjVks2c2lIUWdDYkExa0RSQlFleVQxNl8yNndhRkg5ZGVVSzZVeHM0Nm9xdHR3MVZZZ1JxTlFGZnZtVXpOY2E1WFN5eVczdWw2X2Nid2NUNEI0UC1heUVobVI0RzZEZG5UdElITWR6SWFKR18yd2NjSE9DLTNreVE?oc=5",
+      "status": "PUBLISHED",
+      "isBreaking": false,
+      "categoryId": "cat-up",
+      "district": "agra",
+      "pointers": [
+        "आगरा: रात-दिन काम कर आगरा FSL के चार वैज्ञानिकों ने 3 महीने में पूरी की 800 बम धमाकों की जांच को लेकर प्रशासन और संबंधित विभागों में अलर्ट जारी।",
+        "स्थानीय स्तर पर स्थिति की लगातार निगरानी की जा रही है।",
+        "विस्तृत जानकारी और आधिकारिक बयान की प्रतीक्षा।"
+      ],
+      "publishedAt": "2026-11-22T11:53:11.000Z",
+      "tags": [
+        "मेरठ, आगरा एवं पश्चिम यूपी",
+        "UTTAR-PRADESH",
+        "AGRA"
+      ],
+      "id": "art-1795394414699-h97xcl",
+      "viewsCount": 0,
+      "createdAt": "2026-11-23T00:40:14.699Z"
+    },
+    {
+      "title": "आगरा: 'मठ, गुजरात और सैफई से आएंगे नेता', आगरा में आकाश आनंद का BJP-सपा पर तीखा वार, कह डाली ये बड़ी बात",
+      "slug": "bjp--a44gz",
+      "summary": "'मठ, गुजरात और सैफई से आएंगे नेता', आगरा में आकाश आनंद का BJP-सपा पर तीखा वार, कह डाली ये बड़ी बात  Navbharat Live",
+      "content": "<p>'मठ, गुजरात और सैफई से आएंगे नेता', आगरा में आकाश आनंद का BJP-सपा पर तीखा वार, कह डाली ये बड़ी बात  Navbharat Live</p>",
+      "featuredImage": "https://images.unsplash.com/photo-1548013146-72479768bada?w=1200&auto=format&fit=crop&q=80",
+      "sourceType": "API",
+      "sourceName": "मेरठ, आगरा एवं पश्चिम यूपी",
+      "externalUrl": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQVlBQUVkzTGF2bFRTTTE2dW9JbnBHVDRNNU41RnY3cGJxejgzT2ZlcWtXR3pqNTdEejdkTUdTdjBybkhNWlZ1aUl4ZnFIVXJKalc0NllabF9YTEE1RTE2ZW5jYWFEWHlvWXNfanNOS2MzdU1hZl82OVY5VUFxaFEyZDVBazdhN0xqUXF5cmpwT09pcnZ4Y0Nkd3E1NkdWbC1mN1pzaXFXSzZOUEk3SFFhRV94RGdBQdIBwwFBVV95cUxOVTFKeHpOT0RCZVY3dkl2X1RGdF9WaVJOWE01Qlhfdld2c29NTDZGWEVqN2t1ZkcxRWtZUzdvUlBMd05hM0JrTUpPbVI0NUVVdXNNay1WeTdOVmlCUDdtMlVzN0xEYzR5VDFLeWJpdFNyVzZwV1RuMjUwRlhIT3RzT0ZlVnVlN3ZVVlUtYklLRGJwdlpxS3hSekI5LUYwbjVidS1DNm1IdlBJNlgxbW4taFZUeHdNU1F5UGlRVUROcGFUcGM?oc=5",
+      "status": "PUBLISHED",
+      "isBreaking": false,
+      "categoryId": "cat-up",
+      "district": "agra",
+      "pointers": [
+        "आगरा: 'मठ, गुजरात और सैफई से आएंगे नेता', आगरा में आकाश आनंद का BJP-सपा पर तीखा वार, कह डाली ये बड़ी बात को लेकर प्रशासन और संबंधित विभागों में अलर्ट जारी।",
+        "स्थानीय स्तर पर स्थिति की लगातार निगरानी की जा रही है।",
+        "विस्तृत जानकारी और आधिकारिक बयान की प्रतीक्षा।"
+      ],
+      "publishedAt": "2026-11-22T12:35:42.000Z",
+      "tags": [
+        "मेरठ, आगरा एवं पश्चिम यूपी",
+        "UTTAR-PRADESH",
+        "AGRA"
+      ],
+      "id": "art-1795394414691-41jo0i",
+      "viewsCount": 0,
+      "createdAt": "2026-11-23T00:40:14.691Z"
+    },
+    {
+      "title": "कानपुर: कानपुर के नवाबगंज में अचानक बजा सायरन, 10 मिनट तक ब्लैक आउट, युद्ध जैसे हालात का अहसास",
+      "slug": "10-vygdl",
+      "summary": "कानपुर के नवाबगंज में अचानक बजा सायरन, 10 मिनट तक ब्लैक आउट, युद्ध जैसे हालात का अहसास  Jagran",
+      "content": "<p>कानपुर के नवाबगंज में अचानक बजा सायरन, 10 मिनट तक ब्लैक आउट, युद्ध जैसे हालात का अहसास  Jagran</p>",
+      "featuredImage": "https://images.unsplash.com/photo-1548013146-72479768bada?w=1200&auto=format&fit=crop&q=80",
+      "sourceType": "API",
+      "sourceName": "कानपुर एवं प्रयागराज",
+      "externalUrl": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOZE8xcmNUVWRONC1TOGpQY2NsWXVzaFV5NFpTRWtYX25GS084MnltY0hHT1hyVEVMODlOaG5ONHhxNUtEaGVxbW5sWk8xVWthS19ONXVuRnl0VkZRTDdINFlRWG5yZ3lfSFBrZ3BhUXdMZVlVZ1FadllUaFhSTWNHel9JVmdzVEJNMDFXeUluNzBXaEFIY21TTG5hcXliSE9aSno0YURDcmk5aGVjb3VLVmFTNXhEWVZmbFE?oc=5",
+      "status": "PUBLISHED",
+      "isBreaking": false,
+      "categoryId": "cat-up",
+      "district": "kanpur",
+      "pointers": [
+        "कानपुर: कानपुर के नवाबगंज में अचानक बजा सायरन, 10 मिनट तक ब्लैक आउट, युद्ध जैसे हालात का अहसास को लेकर प्रशासन और संबंधित विभागों में अलर्ट जारी।",
+        "स्थानीय स्तर पर स्थिति की लगातार निगरानी की जा रही है।",
+        "विस्तृत जानकारी और आधिकारिक बयान की प्रतीक्षा।"
+      ],
+      "publishedAt": "2026-11-22T17:19:00.000Z",
+      "tags": [
+        "कानपुर एवं प्रयागराज",
+        "UTTAR-PRADESH",
+        "KANPUR"
+      ],
+      "id": "art-1795394410264-yuc6ha",
+      "viewsCount": 0,
+      "createdAt": "2026-11-23T00:40:10.265Z"
+    },
+    {
+      "title": "प्रयागराज: प्रयागराज में 342 किलो गांजा बरामद, 85.50 लाख रुपये के मादक पदार्थ ले जा रहा अंतरराज्यीय तस्कर गिरफ्तार",
+      "slug": "342-8550-t8gzn",
+      "summary": "प्रयागराज में 342 किलो गांजा बरामद, 85.50 लाख रुपये के मादक पदार्थ ले जा रहा अंतरराज्यीय तस्कर गिरफ्तार  Navbharat Live",
+      "content": "<p>प्रयागराज में 342 किलो गांजा बरामद, 85.50 लाख रुपये के मादक पदार्थ ले जा रहा अंतरराज्यीय तस्कर गिरफ्तार  Navbharat Live</p>",
+      "featuredImage": "https://images.unsplash.com/photo-1548013146-72479768bada?w=1200&auto=format&fit=crop&q=80",
+      "sourceType": "API",
+      "sourceName": "कानपुर एवं प्रयागराज",
+      "externalUrl": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOb2ZBWkFfOHF3cTRsdmhsbWF6d2RLQlc2R0oxdUVkc1lOVGRZdVU5SmNDY0h4TnAxTTh2Z3NpYjZiLWFJRGtPQ29oS1AzclFjT0IzcEJRdGE5aG9taFEzbjZpQllHdzVTM0pIU3dMOE1zbFhNMDNsQk1RbURRNDZCV1U5SThLektKcVFsMjhwa19OX2xtTEZIOTBWdjFaZUNzZUQ1QVNvbjRoTmgyOHQxb1BKWERRNm5kSl95ckRTcFdiMG9JY21xaFBB0gHXAUFVX3lxTE9iN2lSWVBHN1lsYkNCSXpPZjhic3dtR1JMSTdpTkpBWUtHQXpuR2EyV2h5U08xR3ctaWVmMWVJVHo1d05vYVZGa1NVVXJsam43Smt1SmJnY0JxM0NGZ1lBazViZjdzbHhMRm5mMUhxWGd6OS1Sb2RGNkxtUzAzX1RNMEh4MTA1cnhOSjA3dVJRWGJjSmxVcmxLdGNPejBuRXlYTnlBVUtOWVZjaHFfdm9xTDZkX3dEd0FRTHpaaVdSQnFYaEtpcDhhOTdQS3BwNjd4YTBaVTRR?oc=5",
+      "status": "PUBLISHED",
+      "isBreaking": false,
+      "categoryId": "cat-up",
+      "district": "prayagraj",
+      "pointers": [
+        "प्रयागराज में 342 किलो गांजा बरामद, 85",
+        "50 लाख रुपये के मादक पदार्थ ले जा रहा अंतरराज्यीय तस्कर गिरफ्तार  Navbharat Live"
+      ],
+      "publishedAt": "2026-11-22T05:14:52.000Z",
+      "tags": [
+        "कानपुर एवं प्रयागराज",
+        "UTTAR-PRADESH",
+        "PRAYAGRAJ"
+      ],
+      "id": "art-1795394410254-t8uwus",
+      "viewsCount": 0,
+      "createdAt": "2026-11-23T00:40:10.254Z"
+    },
+    {
+      "title": "प्रयागराज: प्रयागराज में जाम का खेल खत्म! 1 घंटे का सफर अब 5 मिनट में, इस दिन से नए पुल पर दौड़ेंगी गाड़ियां",
+      "slug": "1-5-e52kp",
+      "summary": "प्रयागराज में जाम का खेल खत्म! 1 घंटे का सफर अब 5 मिनट में, इस दिन से नए पुल पर दौड़ेंगी गाड़ियां  Navbharat Live",
+      "content": "<p>प्रयागराज में जाम का खेल खत्म! 1 घंटे का सफर अब 5 मिनट में, इस दिन से नए पुल पर दौड़ेंगी गाड़ियां  Navbharat Live</p>",
+      "featuredImage": "https://images.unsplash.com/photo-1548013146-72479768bada?w=1200&auto=format&fit=crop&q=80",
+      "sourceType": "API",
+      "sourceName": "कानपुर एवं प्रयागराज",
+      "externalUrl": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNVWFVMFZRd0JjbHB4d3ZVYTFuREpjVk45ZXp6OXZOdFpkWE9Xa0hubjlObC04cTBfdm5Zcl9tR2FNYlk2SHJyQkplOE9Mb0Z1OGp6bzdfZ3VzeDVUaGt5REdFOGpySlZfckZhWl9reHBhQTZRdDMybHduWm80WkJlaWdTWEZNS3lHRTFXTVc3eV9BaXpYdk50ejliUFlFMV93OURUcDFvOWt5dzcydnJn0gG8AUFVX3lxTFB2cVdNeC1FemZfWXlpTGk0MHBwR2pYallHWDZMZDQyVmRPVnQ3SlR3T0JwYnVOWE5zX2JvLXoyMjNneTU2UExwMFV5Q25adlRuNnZRTk5weWMwa2RJUTVyNVY2REswOFk2enpZUS16WUVnT3JfZFVMUzd5Q0R3Q1lSRHJzcUdqSkE3ZHdXWjhSQmlZR2ZHZ3lVTDBUbUFTdDgyWE9waGlfTWlzcnlxSW5UanhZWGFRNnlEaTVy?oc=5",
+      "status": "PUBLISHED",
+      "isBreaking": false,
+      "categoryId": "cat-up",
+      "district": "prayagraj",
+      "pointers": [
+        "प्रयागराज: प्रयागराज में जाम का खेल खत्म! 1 घंटे का सफर अब 5 मिनट में, इस दिन से नए पुल पर दौड़ेंगी गाड़ियां को लेकर प्रशासन और संबंधित विभागों में अलर्ट जारी।",
+        "स्थानीय स्तर पर स्थिति की लगातार निगरानी की जा रही है।",
+        "विस्तृत जानकारी और आधिकारिक बयान की प्रतीक्षा।"
+      ],
+      "publishedAt": "2026-11-04T08:00:00.000Z",
+      "tags": [
+        "कानपुर एवं प्रयागराज",
+        "UTTAR-PRADESH",
+        "PRAYAGRAJ"
+      ],
+      "id": "art-1795394410243-b3yqv4",
+      "viewsCount": 0,
+      "createdAt": "2026-11-23T00:40:10.243Z"
+    },
+    {
+      "title": "कानपुर: कानपुर में बनेगा 16 km का एलिवेटेड रेलवे ट्रैक, रिडेवलपमेंट के बाद ऐसा दिखेगा कानपुर सेंट्रल; रेल मंत्री ने",
+      "slug": "16-km-tdmcb",
+      "summary": "कानपुर में बनेगा 16 km का एलिवेटेड रेलवे ट्रैक, रिडेवलपमेंट के बाद ऐसा दिखेगा कानपुर सेंट्रल; रेल मंत्री ने  India TV Hindi",
+      "content": "<p>कानपुर में बनेगा 16 km का एलिवेटेड रेलवे ट्रैक, रिडेवलपमेंट के बाद ऐसा दिखेगा कानपुर सेंट्रल; रेल मंत्री ने  India TV Hindi</p>",
+      "featuredImage": "https://images.unsplash.com/photo-1548013146-72479768bada?w=1200&auto=format&fit=crop&q=80",
+      "sourceType": "API",
+      "sourceName": "कानपुर एवं प्रयागराज",
+      "externalUrl": "https://news.google.com/rss/articles/CBMimwJBVV95cUxNVm5WZnhmWHNHbGxyZWluZzBtQ1dnMTF5c3djWE5xOEJVU3lqLU5na3FsQ0J1T2oxYmlzNHlfTzZJUVpCRU1MT0kwWlpXbXNGZk5Wb0p6Wml1SUpGbHd5UTRQNW9XVFJNWi0xSkZXRkJrbGdjWVlDcWR3N3htY0FfcGFXM2NmTGFpTFFfUThyV3FXRVJlX090a1hKQkFFM0pKWTJaQi1vY1phQUI5WG1xOFMyNlg5UHlzaXBNZEVZLUFPU0tTeVJwa05nTURSLXJTcmlZam9CbkswWTlaS3dJMnRVS0xXd0xPTDBRZlYtTXQwaHA3N01MZDNablhtVTNyWkY1QjQwWmllTEVuSldXREJraVpscHdrVFpF0gGgAkFVX3lxTFBwTWdaYlh3Si1qcjZlcHhDZWJUdU5MdHhaRS1TZHRVVWFCcUdWeWRSVTQxZk1mc19qcUtPM3AwdHZQVVNCMmdhMTc0RWl4cjBlREx2aGhRR21LREQxcG5YT0ZDdFZaOS1OT3hwbDFtSFdVak5lUGNXUWhXUFNYWmxQbVF5WmVlS21lanFfSG93OUxLNGUzYWgyVVQ1RGZ3ZW5UMzZUZmZBQWtYSXkxbldtdzZ4dUVGQ1d1cFVDSzQtS0NUMWNiaWxYQzNqRnVBUlllOFRyNmlDUC1Vc29SamF5TzNxTWZkOHFYd2UtQ01fU2RIcjhfd0doQXJJUlhkN3pjMVpGTjZkaGJSWm9waWZnWGxLSHR6SzZUd21BY2tiaw?oc=5",
+      "status": "PUBLISHED",
+      "isBreaking": false,
+      "categoryId": "cat-up",
+      "district": "kanpur",
+      "pointers": [
+        "कानपुर में बनेगा 16 km का एलिवेटेड रेलवे ट्रैक, रिडेवलपमेंट के बाद ऐसा दिखेगा कानपुर सेंट्रल",
+        "रेल मंत्री ने  India TV Hindi"
+      ],
+      "publishedAt": "2026-11-20T08:10:55.000Z",
+      "tags": [
+        "कानपुर एवं प्रयागराज",
+        "UTTAR-PRADESH",
+        "KANPUR"
+      ],
+      "id": "art-1795394410231-6v4nc6",
+      "viewsCount": 0,
+      "createdAt": "2026-11-23T00:40:10.231Z"
+    },
+    {
+      "title": "UP Train News: कानपुर से दिल्ली के लिए शुरू हुई नई ट्रेन, रात में सफर कर सुबह पहुंचाएगी, इटावा-अलीगढ़ समेत 8 स्टेशनों पर ठहराव",
+      "slug": "up-train-news---8-kul6e",
+      "summary": "UP Train News: कानपुर से दिल्ली के लिए शुरू हुई नई ट्रेन, रात में सफर कर सुबह पहुंचाएगी, इटावा-अलीगढ़ समेत 8 स्टेशनों पर ठहराव  Prabhat Khabar",
+      "content": "<p>UP Train News: कानपुर से दिल्ली के लिए शुरू हुई नई ट्रेन, रात में सफर कर सुबह पहुंचाएगी, इटावा-अलीगढ़ समेत 8 स्टेशनों पर ठहराव  Prabhat Khabar</p>",
+      "featuredImage": "https://images.unsplash.com/photo-1548013146-72479768bada?w=1200&auto=format&fit=crop&q=80",
+      "sourceType": "API",
+      "sourceName": "कानपुर एवं प्रयागराज",
+      "externalUrl": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNb1hPQXBtak1Rc3JKMnc3OUJIZEJfR25MY09XZUg5d0ZnMlNqWGN0aF9Ldk1XTGlXMnViUVYzc2ZDZFU5clI0UF9yMWxsVWo3Z05fYTF5M2FJcGcxN1ozZnRMY3doeHVqemJTNmFYUGN1NmQ1X1NEZHB3S2RaWnU1VzU2N2NxbmJTS1pySFdqUDFLNkx1THVSdjJ6ZEhiSzRYNTVSVEU5Q0cxbFXSAbABQVVfeXFMTkpTQlZlTURjOWExSldpQ1ZaLUl3aGFoRzBMSnM2OTJIYXZRaUlNaGNqUEJuUWNCNlpoUW9Hakl4dS1GbTc4Nzk1bERRRnVSZl9fNzJYVFlXZVVwWlFzaGdUMlJrTFQyX1ZnWHFxVV9nakFLb3k3dkp6OWdHdmpFUFh3V29uV2tvckhyVjZLRl9ER3JIOE5nQldpVnFIUzRxRzRaOF9aOExLdDV0TVRIYTg?oc=5",
+      "status": "PUBLISHED",
+      "isBreaking": false,
+      "categoryId": "cat-up",
+      "district": "kanpur",
+      "pointers": [
+        "UP Train News: कानपुर से दिल्ली के लिए शुरू हुई नई ट्रेन, रात में सफर कर सुबह पहुंचाएगी, इटावा-अलीगढ़ समेत 8 स्टेशनों पर ठहराव को लेकर प्रशासन और संबंधित विभागों में अलर्ट जारी।",
+        "स्थानीय स्तर पर स्थिति की लगातार निगरानी की जा रही है।",
+        "विस्तृत जानकारी और आधिकारिक बयान की प्रतीक्षा।"
+      ],
+      "publishedAt": "2026-11-22T13:00:54.000Z",
+      "tags": [
+        "कानपुर एवं प्रयागराज",
+        "UTTAR-PRADESH",
+        "KANPUR"
+      ],
+      "id": "art-1795394410222-4byq95",
+      "viewsCount": 0,
+      "createdAt": "2026-11-23T00:40:10.222Z"
+    },
+    {
+      "title": "कानपुर: कानपुर चिड़ियाघर में 30 से अधिक वन्यजीवों की मौत निगरानी पर सवाल",
+      "slug": "30-gsgl5",
+      "summary": "कानपुर चिड़ियाघर में 30 से अधिक वन्यजीवों की मौत निगरानी पर सवाल  Jagran",
+      "content": "<p>कानपुर चिड़ियाघर में 30 से अधिक वन्यजीवों की मौत निगरानी पर सवाल  Jagran</p>",
+      "featuredImage": "https://images.unsplash.com/photo-1548013146-72479768bada?w=1200&auto=format&fit=crop&q=80",
+      "sourceType": "API",
+      "sourceName": "कानपुर एवं प्रयागराज",
+      "externalUrl": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOS3VjbVJpalM4bDg0LVBLTDNOQXVaZjhKeUJNRU91dlIzcVNEY2tidjg5WF9TQU5aRnpfRHdPRDlmLVhzTE5rcVl0X0tvdE5EWmJaaVFRMWxBTDlCZi1ZSVhRMlFMODlDb3I2Vng2Um1uSWpjR1hwelp4TlRUdVVfYW1QQjBnWUlQQjJtbDhpLWNQVVZMcVFIUGtnWHpYdW9MdW1kemF4T2taNDU1QU5PY0N1Z1lxSmlDVVVoSEhRV1J6QQ?oc=5",
+      "status": "PUBLISHED",
+      "isBreaking": false,
+      "categoryId": "cat-up",
+      "district": "kanpur",
+      "pointers": [
+        "कानपुर: कानपुर चिड़ियाघर में 30 से अधिक वन्यजीवों की मौत निगरानी पर सवाल को लेकर प्रशासन और संबंधित विभागों में अलर्ट जारी।",
+        "स्थानीय स्तर पर स्थिति की लगातार निगरानी की जा रही है।",
+        "विस्तृत जानकारी और आधिकारिक बयान की प्रतीक्षा।"
+      ],
+      "publishedAt": "2026-11-22T18:51:00.000Z",
+      "tags": [
+        "कानपुर एवं प्रयागराज",
+        "UTTAR-PRADESH",
+        "KANPUR"
+      ],
+      "id": "art-1795394410215-3v7jdh",
+      "viewsCount": 0,
+      "createdAt": "2026-11-23T00:40:10.215Z"
+    },
+    {
+      "title": "कानपुर: कानपुर में इंडिया गठबंधन को लेकर धर्मेंद्र यादव का बड़ा दावा ➡️2027 में भाजपा को सत्ता से बाहर करेंगे #kanpurnews #dharmendrayadav #samajwadiparty #mulayamsinghyadavjayanti #uppolitics",
+      "slug": "2027-kanpurnews-dharmendrayadav-samajwadiparty-mulayamsinghyadavjayanti-uppoliti-iyu3h",
+      "summary": "कानपुर में इंडिया गठबंधन को लेकर धर्मेंद्र यादव का बड़ा दावा ➡️2027 में भाजपा को सत्ता से बाहर करेंगे #kanpurnews #dharmendrayadav #samajwadiparty #mulayamsinghyadavjayanti #uppolitics  Facebook",
+      "content": "<p>कानपुर में इंडिया गठबंधन को लेकर धर्मेंद्र यादव का बड़ा दावा ➡️2027 में भाजपा को सत्ता से बाहर करेंगे #kanpurnews #dharmendrayadav #samajwadiparty #mulayamsinghyadavjayanti #uppolitics  Facebook</p>",
+      "featuredImage": "https://images.unsplash.com/photo-1548013146-72479768bada?w=1200&auto=format&fit=crop&q=80",
+      "sourceType": "API",
+      "sourceName": "कानपुर एवं प्रयागराज",
+      "externalUrl": "https://news.google.com/rss/articles/CBMi6gZBVV95cUxNT3VhbHZNWVdaTDFQMDlTQjRCUW10YWJ5UmFGcWptZ0dyeFZaczE4Y0hsVjF5eU80bTktbkFDNTlaWlZ2UW9LS3RTYVVhLWFNdnVQeDNQN01wUHlOUGJJa1ViQmgyZ0tVSGNiaDJzQ3diZk9ndlA2WXhLWlBkTDdKWDdTV1cwSkIyLS1CeThFaW83R25wN3hoZW8xSWw4VFZGay1yV2hkNGl3TWMzVFA4U2JIMGtES0FleE1iOUpsQkZRbVpteHVoYUhCaGNJWlBacDRLMDhWLUZnMXhWYVhySHJ3N3lySWw1dHlQSGhsUFN1SjVINi1LTnc0SmM2UEhaNWVfRkJSdllmUzYxS29ycXdfT0djN1JCOUg0TlhTeTl3YjJ4SUcxcElLTXFoSEFSVTRpWHJKajk3TXI2M2R0bDNZVl9HaGIybEpKSXM1UU9hNjRfQlViNXRackt5UlFVUGtpcHFFUXdhNGZSaWkxWFg1bmZ2OEFsT1J1TnF5a0U2UWVvemNrVEIybVRBUFg0T0xYTTJpWDRJRzhGNERjaGM3LWZhQkh6MGVFemxRbDNzcGcwMkZRUXBaMkZ5VDBVcnlVajdBRWhPamh6Tld5TGpTZUlFQkc3N3hIYnFLaEc5OVRYRW5lVm9Vd2VGSmFpSWhHUnpnTE5fX2RkSUx0NjZFRTdxY2FNdkFtdHNpcXd6ZmRoRzUwVlVoNG94N3Zqc01ic1o2YVp6bmd4YWtIVmtRUU1EN3poUTd2NXc4cjU0UGpCYm0zcDFhTmVvN3dsQUNCeWs0a1NDeHM3OFBKTmdpUHJmVC1Edm9rTzNnc3BlMnQ3b2N2Q1NnQWxPdS1pTXZFX3dJUDh4STVyWEN6R0h4bzFOdnRha3RmNjZjN2thQkR2YlNaQjFnalI0LWdSNWw4eGhZOFVTaEJqVDBCNTFTMHNobHJrZEdyaDByMm9UQmllYVRyWW9Ka2NYQXZCX29IZXlMdjI1ejZpSy1HYnNKQkJxUmZZcl9IQVFFVkpMNG0zWElhUHl0cnhIS2stLTRqdjlybkVfWmNReHBuUGE0dWJTQ0VhTExXdHFIVHVJVjk1Nm1ZSnhHR2hESHc4V1NRblRvVUZ0OGQyWGZKaE00ZGhfay1mX1U0aENYM3dTQmJtUjhJQmln?oc=5",
+      "status": "PUBLISHED",
+      "isBreaking": false,
+      "categoryId": "cat-up",
+      "district": "kanpur",
+      "pointers": [
+        "कानपुर: कानपुर में इंडिया गठबंधन को लेकर धर्मेंद्र यादव का बड़ा दावा ➡️2027 में भाजपा को सत्ता से बाहर करेंगे #kanpurnews #dharmendrayadav #samajwadiparty #mulayamsinghyadavjayanti #uppolitics को लेकर प्रशासन और संबंधित विभागों में अलर्ट जारी।",
+        "स्थानीय स्तर पर स्थिति की लगातार निगरानी की जा रही है।",
+        "विस्तृत जानकारी और आधिकारिक बयान की प्रतीक्षा।"
+      ],
+      "publishedAt": "2026-11-22T14:55:29.000Z",
+      "tags": [
+        "कानपुर एवं प्रयागराज",
+        "UTTAR-PRADESH",
+        "KANPUR"
+      ],
+      "id": "art-1795394410207-srmta1",
+      "viewsCount": 0,
+      "createdAt": "2026-11-23T00:40:10.207Z"
+    },
+    {
+      "title": "कानपुर: आरोपी को 1 लाख रंगदारी दी, FIR में नाम गायब; कानपुर में भाजपा विधायक के PRO की FIR पर उठे सवाल",
+      "slug": "1-fir-pro-fir-bvf7y",
+      "summary": "आरोपी को 1 लाख रंगदारी दी, FIR में नाम गायब; कानपुर में भाजपा विधायक के PRO की FIR पर उठे सवाल  Navbharat Live",
+      "content": "<p>आरोपी को 1 लाख रंगदारी दी, FIR में नाम गायब; कानपुर में भाजपा विधायक के PRO की FIR पर उठे सवाल  Navbharat Live</p>",
+      "featuredImage": "https://images.unsplash.com/photo-1548013146-72479768bada?w=1200&auto=format&fit=crop&q=80",
+      "sourceType": "API",
+      "sourceName": "कानपुर एवं प्रयागराज",
+      "externalUrl": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPVGlpU0tYWXNMMUg4OVpmLUVVRW00VjZJVUJ5eUkxamV5dHp3c1R1clN3amVqbG9nZWtVQzRzWGhHeWhFUzBhQVdvSl9MNTVLQ2VjbFoyWUtuMEdYVEVwbXVYM3UtbmlHUkZSRkZEZUU4V1JMbmFpbGEzZlczWWVKdkV4U2JncE5oY3BuZzB6M21uaS11bFVua3hJdkRpVW5wZ0FDbVJPZXdRV3hGZXJFY2dnU28wMnp1ZFHSAccBQVVfeXFMTVIxdEI2VThqeHFpRzNscHcybmNJWmpHSGU4WE0tRl9wbzVVYmpnUVp3bUFid0hCVTFvTjFvMWFuNXd0RkpIUExSVUFkVVpzYVNfbXQ0bnpNc2hZYmNld3dIbHo1eUZra0pQOHVqNWU4QndKcEJPVnVVdXFDbE80S2ViQVZ2VnBaVGtFXzBNNXNNTHZ0QTBIWDA1cld4dWtaQ0E0eVg3NGFTU1pGc0dWN3JXeWtOcThGM1czY3FBVWhhTFUxUTlWQQ?oc=5",
+      "status": "PUBLISHED",
+      "isBreaking": false,
+      "categoryId": "cat-up",
+      "district": "kanpur",
+      "pointers": [
+        "आरोपी को 1 लाख रंगदारी दी, FIR में नाम गायब",
+        "कानपुर में भाजपा विधायक के PRO की FIR पर उठे सवाल  Navbharat Live"
+      ],
+      "publishedAt": "2026-11-22T15:04:43.000Z",
+      "tags": [
+        "कानपुर एवं प्रयागराज",
+        "UTTAR-PRADESH",
+        "KANPUR"
+      ],
+      "id": "art-1795394410188-jthxna",
+      "viewsCount": 0,
+      "createdAt": "2026-11-23T00:40:10.189Z"
+    },
+    {
+      "title": "वाराणसी: वाराणसी में देव दीपावली पर कई रास्ते रहेंगे बंद, 57 पार्किंग, 3 ग्रीन कॉरिडोर बनेंगे, देखें ट्रैफिक डायवर्जन",
+      "slug": "57-3-oeecw",
+      "summary": "वाराणसी में देव दीपावली पर कई रास्ते रहेंगे बंद, 57 पार्किंग, 3 ग्रीन कॉरिडोर बनेंगे, देखें ट्रैफिक डायवर्जन  Navbharat Live",
+      "content": "<p>वाराणसी में देव दीपावली पर कई रास्ते रहेंगे बंद, 57 पार्किंग, 3 ग्रीन कॉरिडोर बनेंगे, देखें ट्रैफिक डायवर्जन  Navbharat Live</p>",
+      "featuredImage": "https://images.unsplash.com/photo-1548013146-72479768bada?w=1200&auto=format&fit=crop&q=80",
+      "sourceType": "API",
+      "sourceName": "वाराणसी एवं अयोध्या धाम",
+      "externalUrl": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQYlFkT0ZQakxoYzRhOVp4Z1dpbXEtVG00OXFpT0t2bUwyZ2VHZnBLOWktU1d1S0ROTmg5d0lZX0xsd1VReldXNHB6OVl6Q1VQTkNQLXQ0YnJQY3pYTzJ0dENpY2hpZmFnNy0tdXRiN1ZscWQxM1VYT19EYlBNRTFPbkR5Sm5uY0k0ejBENklvVXQ3akdrTWRiQ3RIcnpneWFiR01iVTdjSnZrbjNPRjVucmpCeWHSAcIBQVVfeXFMTWhuNkZVNjlLeGdVNlZMaTE1aElZYlFKcXRCNGRNRHFDYUFSdG1FZEltYUQ2Wi0wU1BqNXZ6MWNYTml3dzMyUzJzOEd5UVIyTmxoU25vY3hLUFUxdFV1RV9hU3hobURRMkotenlLNExzUG9TRXhXdmRIWkQySjhDbDNSLTI2dWhfRG40bjAtNU9UMHR6czFoZkIwXzRLMlpqaGkyeFB6RVlaLWs5TnJ2clBjZEczdlN6QjBKb0E2bF9feWc?oc=5",
+      "status": "PUBLISHED",
+      "isBreaking": false,
+      "categoryId": "cat-up",
+      "district": "varanasi",
+      "pointers": [
+        "वाराणसी: वाराणसी में देव दीपावली पर कई रास्ते रहेंगे बंद, 57 पार्किंग, 3 ग्रीन कॉरिडोर बनेंगे, देखें ट्रैफिक डायवर्जन को लेकर प्रशासन और संबंधित विभागों में अलर्ट जारी।",
+        "स्थानीय स्तर पर स्थिति की लगातार निगरानी की जा रही है।",
+        "विस्तृत जानकारी और आधिकारिक बयान की प्रतीक्षा।"
+      ],
+      "publishedAt": "2026-11-22T15:38:45.000Z",
+      "tags": [
+        "वाराणसी एवं अयोध्या धाम",
+        "UTTAR-PRADESH",
+        "VARANASI"
+      ],
+      "id": "art-1795394405264-b6cmty",
+      "viewsCount": 0,
+      "createdAt": "2026-11-23T00:40:05.264Z"
+    },
+    {
+      "title": "अयोध्या: 23 नवंबर को अयोध्या से नेपाल के लिए प्रस्थान करेगी नई ट्रेन, चेक करें पूरा रूट और टाइम टेबल",
+      "slug": "23-ardut",
+      "summary": "23 नवंबर को अयोध्या से नेपाल के लिए प्रस्थान करेगी नई ट्रेन, चेक करें पूरा रूट और टाइम टेबल  India TV Hindi",
+      "content": "<p>23 नवंबर को अयोध्या से नेपाल के लिए प्रस्थान करेगी नई ट्रेन, चेक करें पूरा रूट और टाइम टेबल  India TV Hindi</p>",
+      "featuredImage": "https://images.unsplash.com/photo-1548013146-72479768bada?w=1200&auto=format&fit=crop&q=80",
+      "sourceType": "API",
+      "sourceName": "वाराणसी एवं अयोध्या धाम",
+      "externalUrl": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPQ04zTkJPVG52aFlCSEszamlPRFFfTVI4LWZRN0hKUFJRQmlNNEZzTmhQX3A0TFd6S3NsMzJiOTBkb0tvVm1aWldkZ2xNZkFFazdreWx3VG9rdWxxRjFPQmxLVk04bk82Wjkya0FxSDZWRG1kMnRPdm9fVHdQRTVfcm9YNUxrOEVlY1VRNW8xNmo3TkZVdHJDcTJpdHFxbzBTRFhfMFFvSVZGWUJkMnlLZ1g3RW1RLW9KS1RQb205a1d3TEhVbVY0dDBORFp6c2loX3M4dmRNeDRkSU92dFhndUlESzVsR2l5TFHSAe8BQVVfeXFMUE56V3lwZEtNZ3FnbW15aG9UZ2dBdElOZjJSQTFuMGx1OTVhTmduU1AyUUdvN3lkdENoTEIxN3VjTk9FbnJUcHJMbGhtRGxIQzRzUHFSNzlVZ1hibmpiVDFYX0RBamhZdjZEak02YUtHWk5oOVpVZ2lqYU1heDFXcVp2TUgwVFhuQ1locTdpTnpSbnZkdDhWcFNIT0ZpTm5DdWY2bkZlT2M4N0R6cWRUX2paaXBLN3JkRHVtOGpfYUZhajk0TS02TmZ3ZEh1NGUwenlFaXRwa0ZQb21zSm5uekFyb3VOeTlQUnpRay1wZTA?oc=5",
+      "status": "PUBLISHED",
+      "isBreaking": false,
+      "categoryId": "cat-up",
+      "district": "ayodhya",
+      "pointers": [
+        "अयोध्या: 23 नवंबर को अयोध्या से नेपाल के लिए प्रस्थान करेगी नई ट्रेन, चेक करें पूरा रूट और टाइम टेबल को लेकर प्रशासन और संबंधित विभागों में अलर्ट जारी।",
+        "स्थानीय स्तर पर स्थिति की लगातार निगरानी की जा रही है।",
+        "विस्तृत जानकारी और आधिकारिक बयान की प्रतीक्षा।"
+      ],
+      "publishedAt": "2026-11-22T11:36:07.000Z",
+      "tags": [
+        "वाराणसी एवं अयोध्या धाम",
+        "UTTAR-PRADESH",
+        "AYODHYA"
+      ],
+      "id": "art-1795394405248-uuepsv",
+      "viewsCount": 0,
+      "createdAt": "2026-11-23T00:40:05.248Z"
+    },
+    {
+      "title": "Lucknow News: लखनऊ वालों ने लगाई सेहत की दौड़, रवि और काजल बने चैंपियन",
+      "slug": "lucknow-news-rsdlm",
+      "summary": "Lucknow News: लखनऊ वालों ने लगाई सेहत की दौड़, रवि और काजल बने चैंपियन  Amar Ujala",
+      "content": "<p>Lucknow News: लखनऊ वालों ने लगाई सेहत की दौड़, रवि और काजल बने चैंपियन  Amar Ujala</p>",
+      "featuredImage": "https://images.unsplash.com/photo-1548013146-72479768bada?w=1200&auto=format&fit=crop&q=80",
+      "sourceType": "API",
+      "sourceName": "लखनऊ एवं मध्य यूपी",
+      "externalUrl": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxObmF1QmR5T0ZpTTdnWkRoaFN6NkhHT3NxNlNaUzJhQ21aeXlkeVQ5X2JKMUdranlzOGNzYm10MWIyUWZIZWppdk50ZFZoOGlZTzl0eklOSE1rQklGNy1Ib3F3WkFTRXFmT1lkVUU0WU1aSW0ybG95MzB3a28yc01GMy1Wd00ydG9hOTNXVnFqM25BOTVVTkRsZVlfVUpqWC1oTDFsakZZbmktc29FejVhbXIxNEpteDhCdnk0WjZMOVdkWmJrSTYwR3hqSk53RWNadUxFc09HcUtYSzMtREJlajhOZTZzaS1ZRkpsTDZ5UjDSAfYBQVVfeXFMT0Y3TGJqZnZUbi1BVm1aeDlxQWJFemc2MkVTTjVvbnhpNFlpLXJtN2lIMWU0U3pOV3h1QzFKNnZPOVRKei0zR2hTdy0wTnFWZDk1eW1kX2JpQlQyZUhaNl9BTFlITmZueS1OMW1jMTAwcGtaM0FmaTJfLUFhVnRtaUp6SENQV2t6V0x4M1pSM3RNeTVZSWs1S0NHZnBiLXB6cEQyaHVzRVZTZHVMUFc4Z29Sby1kWWtCV0NMa0RWZ3NtLVlKWll0elBBdERqb3NvTFlsaXhRUkdScEhMVnM1RkRJb2lQQ3hrZThOV0xTaDdUQWNJM2d3?oc=5",
+      "status": "PUBLISHED",
+      "isBreaking": false,
+      "categoryId": "cat-up",
+      "district": "lucknow",
+      "pointers": [
+        "Lucknow News: लखनऊ वालों ने लगाई सेहत की दौड़, रवि और काजल बने चैंपियन को लेकर प्रशासन और संबंधित विभागों में अलर्ट जारी।",
+        "स्थानीय स्तर पर स्थिति की लगातार निगरानी की जा रही है।",
+        "विस्तृत जानकारी और आधिकारिक बयान की प्रतीक्षा।"
+      ],
+      "publishedAt": "2026-11-22T20:44:55.000Z",
+      "tags": [
+        "लखनऊ एवं मध्य यूपी",
+        "UTTAR-PRADESH",
+        "LUCKNOW"
+      ],
+      "id": "art-1795394402601-utkoff",
+      "viewsCount": 5,
+      "createdAt": "2026-11-23T00:40:02.601Z"
+    },
+    {
+      "title": "लखनऊ: लखनऊ की 13 वर्षीय आर्ना ने 1 मिनट में किए 57 योगासन | Tap to know more | Inshorts",
+      "slug": "13-1-57-tap-to-know-more-inshorts-a9a9l",
+      "summary": "लखनऊ की 13 वर्षीय आर्ना ने 1 मिनट में किए 57 योगासन | Tap to know more | Inshorts  Inshorts",
+      "content": "<p>लखनऊ की 13 वर्षीय आर्ना ने 1 मिनट में किए 57 योगासन | Tap to know more | Inshorts  Inshorts</p>",
+      "featuredImage": "https://images.unsplash.com/photo-1548013146-72479768bada?w=1200&auto=format&fit=crop&q=80",
+      "sourceType": "API",
+      "sourceName": "लखनऊ एवं मध्य यूपी",
+      "externalUrl": "https://news.google.com/rss/articles/CBMijwNBVV95cUxNdl83bFQxVFJwZGhCcUdZLU5reV9NQmJKYVc2ZklydTJYb2o4X05iTUJuRjhaV3dUU3ZURFYyMFhhSTFia0JkN05jTVFSZ0h1Vnh3M2ZDODBhb2dEZGlmYkx4QlNfYTFkTlZBYkJoay0zb183X180b2VDTlhsU2xjbTFzSXc3Tkl2bTYzQW1LYVpreHUzLTNDVFJBeTN0WWFMVWdqNlJDVnFlLUU2cVZqZ19RdHU0aXhDdXV0ZnZ1Q2RrRXNiN2Z2ZWNYRk94THl1VkNEWWc5N3BNZ054S0dOX1czR2RLSUlmY2o2U1hDUTFNUlBNb2FvQkhneFRIaWVvc01tQzYxQlVEXzFEZzJJVTNFR0Z0WkdYYWl0bjhlY0ZOMldHUFJNdUVLdU8xWndzeDdEVWVMaXZSMndPUkhpYndYZ0hTNVRHVTctMXlCaFZBZnV0LThoZVVaM3lxckpINnRFWEUxaEo2UDZjMzZZaERMdE5RbTRETUhxUEdUT0VRTHFjWWQxNXc4eTF2OVXSAZQDQVVfeXFMT3lXUjRMekZtSnpDZEphOEVzS2VudmYtWndYVGI1MkpELVN0eFkxNEh1TnFnZzJKUXBNajJ5UGF2TEFDVUFwOGl4T0JhdV9URE9PdkVsd2tnSlZCNG9FenE1NjEwNUNTdzNSTkNYMFJ3c1d5cEtHWGxqdjBUc19Wcm1jZEFOcWdWZDNwRFBXalppM1ZGV1RoQUxwTGI5enBHdHhFYll0TkItX1pfMWlmOVhTUkV4ZlBiMnhtaVQ0NXpJRmdKZHM2NHZzMmJBTmdHSGwxNjdvenMweE9FNUV2UHpkblB5NjB5SGhrOGZFZnp1Tl92OXVxcnF6R0tQa3ExUHZpaGd5Qjk5dUJtMUIwb3pLRXFpT2wzSXNsdXhhLU9VRVBwTDRVMHNhX3V6cXlPVXB1VWRQMFloMVpLUy04N1owQ05hVVJPWkZsYzd5Q2I4QVU2ZmtQMTg0d0NldldHd0duSS0wbkJSNmxqWEtNcnI1SGZEbnNiWmE4Nk5Qc1V1NjZERnRkdDVqcXhmaGpLVU5BZk4?oc=5",
+      "status": "PUBLISHED",
+      "isBreaking": false,
+      "categoryId": "cat-up",
+      "district": "lucknow",
+      "pointers": [
+        "लखनऊ: लखनऊ की 13 वर्षीय आर्ना ने 1 मिनट में किए 57 योगासन | Tap to know more | Inshorts को लेकर प्रशासन और संबंधित विभागों में अलर्ट जारी।",
+        "स्थानीय स्तर पर स्थिति की लगातार निगरानी की जा रही है।",
+        "विस्तृत जानकारी और आधिकारिक बयान की प्रतीक्षा।"
+      ],
+      "publishedAt": "2026-11-22T07:50:21.000Z",
+      "tags": [
+        "लखनऊ एवं मध्य यूपी",
+        "UTTAR-PRADESH",
+        "LUCKNOW"
+      ],
+      "id": "art-1795394402595-az0nme",
+      "viewsCount": 0,
+      "createdAt": "2026-11-23T00:40:02.595Z"
+    },
+    {
+      "title": "लखनऊ: तेलीबाग से आउटर रिंग रोड तक 4 लेन की 8 KM सड़क, सिंगल पिलर वाली पुलिया पर फर्राटे भरेंगी गाड़ियां, लखनऊ वाल...",
+      "slug": "4-8-km-754kb",
+      "summary": "तेलीबाग से आउटर रिंग रोड तक 4 लेन की 8 KM सड़क, सिंगल पिलर वाली पुलिया पर फर्राटे भरेंगी गाड़ियां, लखनऊ वाल...  News18 Hindi",
+      "content": "<p>तेलीबाग से आउटर रिंग रोड तक 4 लेन की 8 KM सड़क, सिंगल पिलर वाली पुलिया पर फर्राटे भरेंगी गाड़ियां, लखनऊ वाल...  News18 Hindi</p>",
+      "featuredImage": "https://images.unsplash.com/photo-1548013146-72479768bada?w=1200&auto=format&fit=crop&q=80",
+      "sourceType": "API",
+      "sourceName": "लखनऊ एवं मध्य यूपी",
+      "externalUrl": "https://news.google.com/rss/articles/CBMinAJBVV95cUxQTC1LM1g0eTA2M3M1Y2xad2h0OEItdHEzZjZULW5LcDVZcEQwRU9Da2VPZWFkelJrOFoycHBYZTZRc0lGTkNaUVg0eERXWFBiT3QxdkNNWlotb2tTb010SGplOTlpaWp3bGdMdmMxdzBJLUJaOWIxcDRjN0FsRjhPVGxRdjNjZEFUZVg4NHBoNm1rbXhYRW85OGx3ZHotTzRFMVdrSU52SnpjQ2ozOHREVlBmZUZMbGYtYklOaDg3d3Zsb0x5aUlEMEVtNkZIMWs3X3lVV2h6M2k4RmM0S2YtOWplZnhWOXdNRy1kaHQtQU5MWEFNUWZ6TFJKdTJuWnBtSkg3RjRYbjFtVnNxYmh2MEhJd0VXQW4yeWphUtIBogJBVV95cUxNc2V3a0ExSGczcUczVE1qMm9JbXVwcWE1N1hUanBBWkp0ZEZwZlFGQW10Rzh3dFVTRVBnWTdnOVZHbnRzc0tOZ3dOOFZrZXJoNDJ3WUU0ZmZEcC1WaE9BX01sZGh1V3JKby1qVnEwbkJyY0xJakNSajRzbDBoVkM1dXpaQWhiZlFZTlZhbENiQ0pMeGVScFlVbmtsUVlVNHZhSUg2QWRiaUJ3QUd1WDJjY29TMG92SXlIOEtUc2hOaWVHSlcyNEQtcVNCZkhyTlJITjVJOGRfd1NZWm11b2JaalBrZmF3X0tmUHkyY0xCTkpBbU5pZDEwemgyY3hqa1ZqSDBMYWx0UDNfNXZIYzhxV0Mwb09YX0FxNWV0Zmp5Nkpydw?oc=5",
+      "status": "PUBLISHED",
+      "isBreaking": false,
+      "categoryId": "cat-up",
+      "district": "lucknow",
+      "pointers": [
+        "लखनऊ: तेलीबाग से आउटर रिंग रोड तक 4 लेन की 8 KM सड़क, सिंगल पिलर वाली पुलिया पर फर्राटे भरेंगी गाड़ियां, लखनऊ वाल... को लेकर प्रशासन और संबंधित विभागों में अलर्ट जारी।",
+        "स्थानीय स्तर पर स्थिति की लगातार निगरानी की जा रही है।",
+        "विस्तृत जानकारी और आधिकारिक बयान की प्रतीक्षा।"
+      ],
+      "publishedAt": "2026-11-22T17:21:59.000Z",
+      "tags": [
+        "लखनऊ एवं मध्य यूपी",
+        "UTTAR-PRADESH",
+        "LUCKNOW"
+      ],
+      "id": "art-1795394402586-enmgzs",
+      "viewsCount": 0,
+      "createdAt": "2026-11-23T00:40:02.586Z"
+    },
+    {
+      "title": "लखनऊ: लखनऊ में मॉकड्रिल में पहुंचे सीएम योगी आदित्यनाथ, बोले- कोई भी विपत्ति तिथि देकर नहीं आती, तैयारी बेहद जरूरी - cm yogi adityanath saw mockdrill in lucknow says disasters do not arrive with prior notice being prepared",
+      "slug": "--novyh",
+      "summary": "लखनऊ में मॉकड्रिल में पहुंचे सीएम योगी आदित्यनाथ, बोले- कोई भी विपत्ति तिथि देकर नहीं आती, तैयारी बेहद जरूरी - cm yogi adityanath saw mockdrill in lucknow says disasters do not arrive with prior notice being prepared  Jagran",
+      "content": "<p>लखनऊ में मॉकड्रिल में पहुंचे सीएम योगी आदित्यनाथ, बोले- कोई भी विपत्ति तिथि देकर नहीं आती, तैयारी बेहद जरूरी - cm yogi adityanath saw mockdrill in lucknow says disasters do not arrive with prior notice being prepared  Jagran</p>",
+      "featuredImage": "https://images.unsplash.com/photo-1548013146-72479768bada?w=1200&auto=format&fit=crop&q=80",
+      "sourceType": "API",
+      "sourceName": "लखनऊ एवं मध्य यूपी",
+      "externalUrl": "https://news.google.com/rss/articles/CBMijwJBVV95cUxQZFFCWFFnRlRKTTdUVkxQNTQ3c2Yza3QwVUJ4OEVhS0s0Z3BtdG5qMlFpTzBTdzRaRU03QkNVSmFHSWJzTDdLR2JVZC15SWttcjhnLW1rd0ZPdWRQMXhKSTJ1NXZMS1FhMTFHLXBZdGNqa19zNTZrX19sWHBXUFVNVVRXblptdnp3NDVvcGFlSkpfUWhTelV0V2c2ZklwZFpoSnVDTnd4SmRSU0p4aTI2OTRZajRfeVRpN29zTEFZVDBfOEVNbWh4LUpJLWtuMkM3QlBFVGppdGtTbktsQVAxV2pEcVBLSlE0QkxOZ1dIOHlqeGstWjB5azVCdWM5UFBsQUdpVDQwRnJfd2lJSWhj?oc=5",
+      "status": "PUBLISHED",
+      "isBreaking": false,
+      "categoryId": "cat-up",
+      "district": "lucknow",
+      "pointers": [
+        "लखनऊ: लखनऊ में मॉकड्रिल में पहुंचे सीएम योगी आदित्यनाथ, बोले- कोई भी विपत्ति तिथि देकर नहीं आती, तैयारी बेहद जरूरी - cm yogi adityanath saw mockdrill in lucknow says disasters do not arrive with prior notice being prepared को लेकर प्रशासन और संबंधित विभागों में अलर्ट जारी।",
+        "स्थानीय स्तर पर स्थिति की लगातार निगरानी की जा रही है।",
+        "विस्तृत जानकारी और आधिकारिक बयान की प्रतीक्षा।"
+      ],
+      "publishedAt": "2026-11-22T14:30:00.000Z",
+      "tags": [
+        "लखनऊ एवं मध्य यूपी",
+        "UTTAR-PRADESH",
+        "LUCKNOW"
+      ],
+      "id": "art-1795394402576-1pd82v",
+      "viewsCount": 0,
+      "createdAt": "2026-11-23T00:40:02.576Z"
+    },
+    {
+      "title": "लखनऊ: प्रधानमंत्री श्री नरेन्द्र मोदी ने लखनऊ, उत्तर प्रदेश में 5वें कौशल दीक्षांत समारोह में भाग लिया",
+      "slug": "5-vm2np",
+      "summary": "प्रधानमंत्री श्री नरेन्द्र मोदी ने लखनऊ, उत्तर प्रदेश में 5वें कौशल दीक्षांत समारोह में भाग लिया  PM India",
+      "content": "<p>प्रधानमंत्री श्री नरेन्द्र मोदी ने लखनऊ, उत्तर प्रदेश में 5वें कौशल दीक्षांत समारोह में भाग लिया  PM India</p>",
+      "featuredImage": "https://images.unsplash.com/photo-1548013146-72479768bada?w=1200&auto=format&fit=crop&q=80",
+      "sourceType": "API",
+      "sourceName": "लखनऊ एवं मध्य यूपी",
+      "externalUrl": "https://news.google.com/rss/articles/CBMi8gJBVV95cUxNdHRKMTVPeEZJangtM2VKVWdDa1ZJZHAyd1QxRTBuWGZRa2ZkQjA0eFREUUZLQzRsSFhteTF5Z2R5QlNlU3JzaUhscFMzMFNQNHluWjRwRHgyX2xlZTg4bkoxdkFvUko4YTdWbjRnMVRXUGdudzQ0Q0pxdXZSNXIzYXRWQnJsMUFPb096djNZMTB0TGNvY05fWGFMOExTQnFRQUM0aGJOMzZxdlJmMnloWTVIb1pLd1h0ek0wTzJ5dUJRNWt2M3dHMFVUUzY3M2F4QzVRZ3Z2UWxBdmVwRzk0S3E1T2RUMDBTeE9WYlJpTHhWY1pIRXFhRUVkc1NKaW9hRVpxV2Zfc1VqZlJQY1p4Yzl1cXVxVmZpSWxjNVh3cXkyNmlpR3IwZkpKeERLQ25wTVQ1UWRTUVFybWJIdGZWampoTjJsMV9ubGtreE8zWnN6Nm9tejJqLVI3LWJDc1lnMlpDdE5DUVpvd1JQYy0zRll3?oc=5",
+      "status": "PUBLISHED",
+      "isBreaking": false,
+      "categoryId": "cat-up",
+      "district": "lucknow",
+      "pointers": [
+        "लखनऊ: प्रधानमंत्री श्री नरेन्द्र मोदी ने लखनऊ, उत्तर प्रदेश में 5वें कौशल दीक्षांत समारोह में भाग लिया को लेकर प्रशासन और संबंधित विभागों में अलर्ट जारी।",
+        "स्थानीय स्तर पर स्थिति की लगातार निगरानी की जा रही है।",
+        "विस्तृत जानकारी और आधिकारिक बयान की प्रतीक्षा।"
+      ],
+      "publishedAt": "2026-11-22T04:25:40.000Z",
+      "tags": [
+        "लखनऊ एवं मध्य यूपी",
+        "UTTAR-PRADESH",
+        "LUCKNOW"
+      ],
+      "id": "art-1795394402571-gs5wzy",
+      "viewsCount": 0,
+      "createdAt": "2026-11-23T00:40:02.571Z"
+    },
+    {
+      "title": "लखनऊ: 'दुनिया को कागजी डिग्री वालों से ज्यादा हुनरमंदों की जरूरत' लखनऊ में अपनी विदेश यात्राओं का जिक्र कर बोले PM मोदी",
+      "slug": "pm-m1ca6",
+      "summary": "'दुनिया को कागजी डिग्री वालों से ज्यादा हुनरमंदों की जरूरत' लखनऊ में अपनी विदेश यात्राओं का जिक्र कर बोले PM मोदी  AajTak",
+      "content": "<p>'दुनिया को कागजी डिग्री वालों से ज्यादा हुनरमंदों की जरूरत' लखनऊ में अपनी विदेश यात्राओं का जिक्र कर बोले PM मोदी  AajTak</p>",
+      "featuredImage": "https://images.unsplash.com/photo-1548013146-72479768bada?w=1200&auto=format&fit=crop&q=80",
+      "sourceType": "API",
+      "sourceName": "लखनऊ एवं मध्य यूपी",
+      "externalUrl": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNRnZRRGVsNlUwcjVWcXc0dUg5QTVLWmpDczNLMTZmWnlPSzltaDBDNEZzaUlnRHpjbFR5UklHVF80M3gtS1RXVTF6TzZ0QzE5M1dJeFphVGdyLWZidDdLR0tHYVBUNmxoOUdnOW5Yd1JadUFfZW5uSTZxOXVzUVNReGpkcVd4WFp2cHlvdVIwR3lGTUpUbXZWbHpkaVBmZlFseUQxVTBQVU95bTlNYUtMbGEtT0ZRanl3cXdDeGVCQ05mZFVHV3pNY3dsZzNHRmtFUjFvSERTNmJ4Wk93NU5sTzZUQkjSAeoBQVVfeXFMTnNKYnFkUm1yRGJGRGJUejEyVkdHdk1IR3pQYjZnT3VhVl9ndmVJenJzR1BZRG5nWDVGckszQXNSS3ZCaWJEd2tVSzBCNWxjR181YndlOXREWi1wcDJlQUZqVDRWLU5KTGUyX1N4T3FVTGpSSDJRVE1oV2hDOFlUVEpBMDFObGU0b29oRWdvSU5qVmFFZVpyTGYxTmlGYlVGLUdxVGJZLWxOS2Frcm0zNzNNN0ZkZjlDam9xLWtBb2VnSnJ2ZWE0TEVBUU0tdWw3TmhhLW5oVzhMbTBrMVJvWlhLeV85amxQdzR3?oc=5",
+      "status": "PUBLISHED",
+      "isBreaking": false,
+      "categoryId": "cat-up",
+      "district": "lucknow",
+      "pointers": [
+        "लखनऊ: 'दुनिया को कागजी डिग्री वालों से ज्यादा हुनरमंदों की जरूरत' लखनऊ में अपनी विदेश यात्राओं का जिक्र कर बोले PM मोदी को लेकर प्रशासन और संबंधित विभागों में अलर्ट जारी।",
+        "स्थानीय स्तर पर स्थिति की लगातार निगरानी की जा रही है।",
+        "विस्तृत जानकारी और आधिकारिक बयान की प्रतीक्षा।"
+      ],
+      "publishedAt": "2026-11-21T14:21:03.000Z",
+      "tags": [
+        "लखनऊ एवं मध्य यूपी",
+        "UTTAR-PRADESH",
+        "LUCKNOW"
+      ],
+      "id": "art-1795394402564-s5mt0n",
+      "viewsCount": 0,
+      "createdAt": "2026-11-23T00:40:02.564Z"
+    },
+    {
+      "title": "उत्तर प्रदेश विधानसभा चुनाव अपडेट्स LIVE: 'कौशल विकास परियोजना में पहुंचे पीएम मोदी, CM योगी ने किया स्वागत...",
+      "slug": "live-cm-kzjsf",
+      "summary": "उत्तर प्रदेश विधानसभा चुनाव अपडेट्स LIVE: 'कौशल विकास परियोजना में पहुंचे पीएम मोदी, CM योगी ने किया स्वागत...  News18 Hindi",
+      "content": "<p>उत्तर प्रदेश विधानसभा चुनाव अपडेट्स LIVE: 'कौशल विकास परियोजना में पहुंचे पीएम मोदी, CM योगी ने किया स्वागत...  News18 Hindi</p>",
+      "featuredImage": "https://images.unsplash.com/photo-1548013146-72479768bada?w=1200&auto=format&fit=crop&q=80",
+      "sourceType": "API",
+      "sourceName": "उत्तर प्रदेश मुख्य समाचार",
+      "externalUrl": "https://news.google.com/rss/articles/CBMizAJBVV95cUxQZTNETzc0VmVySl91NW50VFVyQVQwaWRRTC01WFdtdFo0cDUyWkNaYmdRRDdBWkRYdXJMZ3hOcjNhQlA4U2J2VHVlV0h5eVpZT0F2UUl3R1J4b19GeE02ano2T1dIakdtWnJGWTdUcV9raWdVN0NhLTNoRGo0R1NkSWpwMlZnblpjQjlzTi1pVEo4OS1UcDRaQjQwdDRSY0ltWWdxSXhNV1NKbm1qNVQycnBjY3llNFRqSnhNTlJJdzN2QjJLWm9tN3VhdkF6UHJLZG5wUFktNHZaZGFQT3ZhblFJR1lWdDRHaFlXdlRPRmxHcWZtQnFHSTA5WE84dVpoY01EYkpqbUNoRGMzV0J3ckp1OFJjZFhTTEJfSGNrZDJMRy1MVHM2V1ViTnRFOWxzRWNTQWNvemM5Tk5KRFNidi1jUDBaMk5CN1BMdtIB0gJBVV95cUxPTWs0MnI0cWQwcG9PeFdOQjhqWXRaVUZNZ0pOZDdPdVJrQjlFNUNtSW1hYzRtcHpWVXktNnpkdTZjZjFaQkoxd0xiQW5YVFVKOFh1dndHQlRlMExkcjdIc0JXQnZ6Q3VxaHRkOTN3Y1Q1a1p5THYxVmx5UUhKaUcxN0c0QmlsNFN6dy1TUWFmNkloWlFwZEtEeVl4WGd5N0dHRUlrNXlQVHBPeGxmOEFxUTdGWFREaG1oZVFReVdrd3QzWnI1ZmQ0c0ZORlhpcFd3dzVXSzJrTGpCU3pvSnZXVFhqRktPZkNtc083SUlBWXBNamxkT0RaUjh6d3FHa2M5NmVKNl9laElLQTFuU291dTctREowSGN5WGJsU19NaVRBN2M0UnVLb2VEWUpNaFFuRjJtOVdjcW83c3NZd29lZG1DeHJIaG5FS21jN2Ntd0ptZw?oc=5",
+      "status": "PUBLISHED",
+      "isBreaking": false,
+      "categoryId": "cat-up",
+      "district": "lucknow",
+      "pointers": [
+        "उत्तर प्रदेश विधानसभा चुनाव अपडेट्स LIVE: 'कौशल विकास परियोजना में पहुंचे पीएम मोदी, CM योगी ने किया स्वागत... को लेकर प्रशासन और संबंधित विभागों में अलर्ट जारी।",
+        "स्थानीय स्तर पर स्थिति की लगातार निगरानी की जा रही है।",
+        "विस्तृत जानकारी और आधिकारिक बयान की प्रतीक्षा।"
+      ],
+      "publishedAt": "2026-11-21T14:18:55.000Z",
+      "tags": [
+        "उत्तर प्रदेश मुख्य समाचार",
+        "UTTAR-PRADESH",
+        "LUCKNOW"
+      ],
+      "id": "art-1795394400851-skqicf",
+      "viewsCount": 0,
+      "createdAt": "2026-11-23T00:40:00.851Z"
+    },
+    {
+      "title": "यूपी में शाम 6 बजे गुल होगी बिजली, दो मिनट तक बजेगा आपातकालीन सायरन, 75 जिलों में ब्लैकआउट मॉकड्रिल",
+      "slug": "6-75-npunl",
+      "summary": "यूपी में शाम 6 बजे गुल होगी बिजली, दो मिनट तक बजेगा आपातकालीन सायरन, 75 जिलों में ब्लैकआउट मॉकड्रिल  Navbharat Live",
+      "content": "<p>यूपी में शाम 6 बजे गुल होगी बिजली, दो मिनट तक बजेगा आपातकालीन सायरन, 75 जिलों में ब्लैकआउट मॉकड्रिल  Navbharat Live</p>",
+      "featuredImage": "https://images.unsplash.com/photo-1548013146-72479768bada?w=1200&auto=format&fit=crop&q=80",
+      "sourceType": "API",
+      "sourceName": "उत्तर प्रदेश मुख्य समाचार",
+      "externalUrl": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNTDZMcHViNDFRSTNkU0RCOFZ6a2NMV2VaRXluYVdBWUxObTJtd3lsUUEzdEtjM3JIYWhmUUpmUGp6Qk5MVTZQTTI1TlpkVDc5TEJwWmowcENqbU1FXzNmYlp5N3dLcHZuQUFSbldoeGJ0bURBSjNhWjdvN3FKMTNOZ3lacjFfRTNrdEdzOGM3ZWZNZU9TMXZPejdWYmtvZ3dzYW9FSFVOVWtTYk5oWVEzVkYyTG1pQlFUc1haY9IBygFBVV95cUxONV9HZWRvMVdVVjdJRWRIdEZDcHRBNzZYR1lyVHA4VlBTWVZvcm8xaU9oOHM5OWdUU1BGSkpDclBCdzQ1eE1CTUZLNnEzaDBsci1qdWxkODZRbmdidDBzNEpCVEliWkJjS2JCUGhSVXloMTdyQlEwNFJ3MlpHd0JlV1Rjdnc2ZXpuNHBXYzNsWWFXTnRGN2wxd2lQTGRXNldxeHpWazBvdXVGbEl3VjBXaUdNOFczMXpha1Z5VUpCQ2RzUXJPcDdQV2VR?oc=5",
+      "status": "PUBLISHED",
+      "isBreaking": false,
+      "categoryId": "cat-up",
+      "district": "lucknow",
+      "pointers": [
+        "यूपी में शाम 6 बजे गुल होगी बिजली, दो मिनट तक बजेगा आपातकालीन सायरन, 75 जिलों में ब्लैकआउट मॉकड्रिल को लेकर प्रशासन और संबंधित विभागों में अलर्ट जारी।",
+        "स्थानीय स्तर पर स्थिति की लगातार निगरानी की जा रही है।",
+        "विस्तृत जानकारी और आधिकारिक बयान की प्रतीक्षा।"
+      ],
+      "publishedAt": "2026-11-22T08:52:24.000Z",
+      "tags": [
+        "उत्तर प्रदेश मुख्य समाचार",
+        "UTTAR-PRADESH",
+        "LUCKNOW"
+      ],
+      "id": "art-1795394400845-ug742h",
+      "viewsCount": 0,
+      "createdAt": "2026-11-23T00:40:00.845Z"
+    },
+    {
+      "title": "\"धमाकों की आवाज और हवाई हमले, जगह-जगह बजे सायरन\", यूपी के 75 जिलों में मॉक ड्रिल के दौरान ब्लैकआउट",
+      "slug": "--75-zv9l7",
+      "summary": "\"धमाकों की आवाज और हवाई हमले, जगह-जगह बजे सायरन\", यूपी के 75 जिलों में मॉक ड्रिल के दौरान ब्लैकआउट  India TV Hindi",
+      "content": "<p>\"धमाकों की आवाज और हवाई हमले, जगह-जगह बजे सायरन\", यूपी के 75 जिलों में मॉक ड्रिल के दौरान ब्लैकआउट  India TV Hindi</p>",
+      "featuredImage": "https://images.unsplash.com/photo-1548013146-72479768bada?w=1200&auto=format&fit=crop&q=80",
+      "sourceType": "API",
+      "sourceName": "उत्तर प्रदेश मुख्य समाचार",
+      "externalUrl": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOTVVfbGR2UjA0bWJXYTZzZ0RhS241ejJmUTFlT25rTENNaE9sVm5pQkNTeWN0V1BVQi1VbEJtMksxSnJSLVJpeklSSWxfZ2JDU29JcW96LUFka1dsMFJRWUoxUmRJVG93MlZDWjJQYjIwcG9jREFOZk84Sjhmbk04ZTlCd3I2U2hNUzdUVU5nNDNWZnlkRi1XRjJiU1ZjY3lSSFpLTUV4c1paZWlqeU5MXzNOcDNBbDNsRTFiUkFQcldBRjlaRGRNcGc2QnpINF9lMGtqM3dIUTl3bnVvdTdvS2hNLVZLd9IB6wFBVV95cUxPTzNSRXdvNVNzd253Qmg5V2FLczJvbnV6ZWtsUklWTHhjMDV2SW8xa2JhTTY3T3o2NVBtTnVhQVhGZGk4NjJSelpVOVRmMTh0Nm80eGpxMHo2WVRaSEdmZkVkRHRBT1RST2tLMFU1bGRrQ1NjellkeFJXaHhNNGVSZDBmbTNKV19ZTlJVcVMxaG5fYm8xTVBTMWhDeHBoNEtXZVROR1ZRbUh3NkVJc3ZtMm80MXh3d3dRVGV4b1lFMDZSalRubVVHY3lhN0xYenNOTmNSZ0pnOFlXMmRkaVdGemstRTNFMzIxTEI0?oc=5",
+      "status": "PUBLISHED",
+      "isBreaking": false,
+      "categoryId": "cat-up",
+      "district": "lucknow",
+      "pointers": [
+        "\"धमाकों की आवाज और हवाई हमले, जगह-जगह बजे सायरन\", यूपी के 75 जिलों में मॉक ड्रिल के दौरान ब्लैकआउट को लेकर प्रशासन और संबंधित विभागों में अलर्ट जारी।",
+        "स्थानीय स्तर पर स्थिति की लगातार निगरानी की जा रही है।",
+        "विस्तृत जानकारी और आधिकारिक बयान की प्रतीक्षा।"
+      ],
+      "publishedAt": "2026-11-22T13:32:24.000Z",
+      "tags": [
+        "उत्तर प्रदेश मुख्य समाचार",
+        "UTTAR-PRADESH",
+        "LUCKNOW"
+      ],
+      "id": "art-1795394400840-y1cd61",
+      "viewsCount": 0,
+      "createdAt": "2026-11-23T00:40:00.840Z"
+    },
+    {
+      "title": "यूपी: 75 जिलों में 10 मिनट का हुआ ब्लैकआउट, सायरन बजते ही बंद हुई बिजली; लखनऊ में सीएम योगी ने देखा मॉकड्रिल",
+      "slug": "75-10-6k2k3",
+      "summary": "यूपी: 75 जिलों में 10 मिनट का हुआ ब्लैकआउट, सायरन बजते ही बंद हुई बिजली; लखनऊ में सीएम योगी ने देखा मॉकड्रिल  Amar Ujala",
+      "content": "<p>यूपी: 75 जिलों में 10 मिनट का हुआ ब्लैकआउट, सायरन बजते ही बंद हुई बिजली; लखनऊ में सीएम योगी ने देखा मॉकड्रिल  Amar Ujala</p>",
+      "featuredImage": "https://images.unsplash.com/photo-1548013146-72479768bada?w=1200&auto=format&fit=crop&q=80",
+      "sourceType": "API",
+      "sourceName": "उत्तर प्रदेश मुख्य समाचार",
+      "externalUrl": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNaEVkSVhJMHNhWVdkdUlvOTFBNTJUU0JIdHNnOENYRVJzX0NuQ2RhbHFBZzhBQ1NvdkxmMGQtWHAxSzRscmVTS0oyRmVxbFMwQXdvcF9tdmpmQmNpa1ZoTGNsVm5yQU51TDFXeGlucjZqcVVMeHRiRGJra1kxMjRQTV9HeFdTYTUxcDkzU2RWa2tBSVlYbWtRbldZU2x5c01GSndITlFIYkRYTmFsNDVTRWZFSG1RQjZ3WjlyLWpKYWc4cTBsN3A4elhFTzlZV3hOM1UxcFpsUE0wSEszTEx3SXFuZF9LQdIB6wFBVV95cUxPZW1BbEVFNWdHSWVZV0wxS09oWE1nWWxUbHoyWFRkRWhaT1EzZUY1b3VnZllLbS03MjVpRGsydWM1WkJIbS13RllneDZFVWFYaGplQzM2bHp3YzBvOUhrOE1reVhZd0lHS2FPaXhNRzVnOFZoOXpnYmVVRnBuYUtMZ0JFN2hQajBITzBHSXcwR2dqWnhhWEp2di1HSi1icFJqWU1UdVI3U29jUE9BRmVXbTczT1pHcHN5QXJQUnA1eENEMHVpOWltWS1VUVo5YmRIS01NWDl4aHo4T2tJa1Qyd3NiZVlVT2dxNnB3?oc=5",
+      "status": "PUBLISHED",
+      "isBreaking": false,
+      "categoryId": "cat-up",
+      "district": "lucknow",
+      "pointers": [
+        "यूपी: 75 जिलों में 10 मिनट का हुआ ब्लैकआउट, सायरन बजते ही बंद हुई बिजली",
+        "लखनऊ में सीएम योगी ने देखा मॉकड्रिल  Amar Ujala"
+      ],
+      "publishedAt": "2026-11-22T12:45:36.000Z",
+      "tags": [
+        "उत्तर प्रदेश मुख्य समाचार",
+        "UTTAR-PRADESH",
+        "LUCKNOW"
+      ],
+      "id": "art-1795394400826-ur6agf",
+      "viewsCount": 0,
+      "createdAt": "2026-11-23T00:40:00.827Z"
+    },
+    {
+      "title": "'UP में बीजेपी की विदाई का समय आ गया', अखिलेश का हमला",
+      "slug": "up-l55jb",
+      "summary": "'UP में बीजेपी की विदाई का समय आ गया', अखिलेश का हमला  AajTak",
+      "content": "<p>'UP में बीजेपी की विदाई का समय आ गया', अखिलेश का हमला  AajTak</p>",
+      "featuredImage": "https://images.unsplash.com/photo-1548013146-72479768bada?w=1200&auto=format&fit=crop&q=80",
+      "sourceType": "API",
+      "sourceName": "उत्तर प्रदेश मुख्य समाचार",
+      "externalUrl": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNMi1JVXNYTEdEeHZXdm9FcHg3T3NPdWlrZkk1bXhhNzFDUVkwX3VTRDZXWUh1YVVBdWlkNng1NF9HM1RfUVhCZzdQRGwzZ0FuRzRSZ0NGSlNWWWFHcWlfZW82QjZFSFhTV1JBZmhEV1FRaDNsdkEySlhkVGlNV2h6aDNaOWFnNG9WS0Y4RWxIN0MzcGpJRnV4bXFzcG9MYmFNamZwUi1LSDJWMTA1OUFaekZxa2NkVU1CaHFPZTBqZmwyTkpMQU5MbktoQXNEbzRleHF1UkRGalNSemFmNEtPQ18xTjhiV3lrNUQ1UVhiWVVqTEXSAfgBQVVfeXFMTlVYdUVvQmF4ZFZwdWI4OWpCdzJWdlZ6R0loX2pQQUFjRVRCQUNKLVlFNEdsSU45U09STmRXLW5vN2ZBTl9MTi1McXFqQ0t4S3pKVVFhSnRWT25yQTNxU2JrUW9nRV9Tb1g1SFhmQ0w0RDk0VlFISjVYUGQtOXplcDVRMER2UThOV2FDTE9lVHh2NGROUGllUHo2QVdXRXZnU24yVC1vSHRJSDU4ZkhtbXFmYnBxVFAwVkhiempTR1BFTEdzMXhTbXFtTmVqc2JYODlPcXNOS2pUWHRnTkNQM0k0ajBZenRmV3NZcldHczZLbGFlWVpOMHc?oc=5",
+      "status": "PUBLISHED",
+      "isBreaking": false,
+      "categoryId": "cat-up",
+      "district": "lucknow",
+      "pointers": [
+        "'UP में बीजेपी की विदाई का समय आ गया', अखिलेश का हमला को लेकर प्रशासन और संबंधित विभागों में अलर्ट जारी।",
+        "स्थानीय स्तर पर स्थिति की लगातार निगरानी की जा रही है।",
+        "विस्तृत जानकारी और आधिकारिक बयान की प्रतीक्षा।"
+      ],
+      "publishedAt": "2026-11-22T09:18:30.000Z",
+      "tags": [
+        "उत्तर प्रदेश मुख्य समाचार",
+        "UTTAR-PRADESH",
+        "LUCKNOW"
+      ],
+      "id": "art-1795394400821-semxhp",
+      "viewsCount": 0,
+      "createdAt": "2026-11-23T00:40:00.821Z"
+    },
+    {
+      "title": "यूपी विधानसभा चुनाव के लिए सीट शेयरिंग पर घमासान तेज, सपा-कांग्रेस के बीच कल होगी बैठक",
+      "slug": "--ef8bi",
+      "summary": "यूपी विधानसभा चुनाव के लिए सीट शेयरिंग पर घमासान तेज, सपा-कांग्रेस के बीच कल होगी बैठक  India TV Hindi",
+      "content": "<p>यूपी विधानसभा चुनाव के लिए सीट शेयरिंग पर घमासान तेज, सपा-कांग्रेस के बीच कल होगी बैठक  India TV Hindi</p>",
+      "featuredImage": "https://images.unsplash.com/photo-1548013146-72479768bada?w=1200&auto=format&fit=crop&q=80",
+      "sourceType": "API",
+      "sourceName": "उत्तर प्रदेश मुख्य समाचार",
+      "externalUrl": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPX0VJTnZHWlNoRVdGMWt2OWFwVTJjWGpRSm04c1E3TlFYZHZUNE5sZzJfcGdfdVMzd3ZPc1dxa1hXOFhkOGdlbE04aVpvajhzTmY4R1NBLVN1a1JiVHpFcWp0aG5Md1d6Uk5TRjdNLWdsSWwtaEJDakx6T3RMUUJ3cDYtVWF1YUdRSUxKQUx5MDVGd1RmUWRKM2hkZ2hZVzh3R3lhUDhFLUZVc1J0aFpNMVdnbTlKdmdNM01RV1EwUFFWVUtRLXhKb2RYOU92X0x3Zk1yeFNSN1FCUFhiS2pJ0gHkAUFVX3lxTE9KUU5YY25lNmZLelBMY0VNMFVjVVFwVm5kTzM0NENYdEp2aUV4VFpmVHVRTFlMU0s0UUJabTZod1FXcVVaQndwUnRyLUowck1taUs1VzE1blktYkl5Z2NMUF9CTGFHbkRBZTJlZmp3ZVJpVHk5dERSREtJeDN0am1ZRWo2VUVPcWVRYkx4QWoyaG0xalFYRjB3UGd0Nzh6SUxPOEVGMXQzUkFqNzU0cS13WWhZMGZmSzRwckJZYlZxU25UM1BUYXhSYl85YkV6a0k4QkNZWVFPcVZZTFBCQTc5c25lcA?oc=5",
+      "status": "PUBLISHED",
+      "isBreaking": false,
+      "categoryId": "cat-up",
+      "district": "lucknow",
+      "pointers": [
+        "यूपी विधानसभा चुनाव के लिए सीट शेयरिंग पर घमासान तेज, सपा-कांग्रेस के बीच कल होगी बैठक को लेकर प्रशासन और संबंधित विभागों में अलर्ट जारी।",
+        "स्थानीय स्तर पर स्थिति की लगातार निगरानी की जा रही है।",
+        "विस्तृत जानकारी और आधिकारिक बयान की प्रतीक्षा।"
+      ],
+      "publishedAt": "2026-11-22T10:22:42.000Z",
+      "tags": [
+        "उत्तर प्रदेश मुख्य समाचार",
+        "UTTAR-PRADESH",
+        "LUCKNOW"
+      ],
+      "id": "art-1795394400814-feges1",
+      "viewsCount": 0,
+      "createdAt": "2026-11-23T00:40:00.814Z"
+    },
+    {
+      "title": "UP Weather: उत्तर प्रदेश का मौसम बदलेगा, अगले दो दिनों तक कोहरे की चादर ओढ़े रह सकता है पूर्वी हिस्सा",
+      "slug": "up-weather-byylj",
+      "summary": "UP Weather: उत्तर प्रदेश का मौसम बदलेगा, अगले दो दिनों तक कोहरे की चादर ओढ़े रह सकता है पूर्वी हिस्सा  Jagran",
+      "content": "<p>UP Weather: उत्तर प्रदेश का मौसम बदलेगा, अगले दो दिनों तक कोहरे की चादर ओढ़े रह सकता है पूर्वी हिस्सा  Jagran</p>",
+      "featuredImage": "https://images.unsplash.com/photo-1548013146-72479768bada?w=1200&auto=format&fit=crop&q=80",
+      "sourceType": "API",
+      "sourceName": "उत्तर प्रदेश मुख्य समाचार",
+      "externalUrl": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQRDFubGRoTEFpQUhCdzZlVXR4N3JLSkhRbVRET0RsYnZUSlQtQ25KWktCQk9MVVNsNkU0U0ZPRUVNUWtuazNwXzhsRVpKYTBmaVNoSjJxakxxLS0zTFZTbnVGMTYzd0w0bzRyNDdzVG9Lenk4QjlWSm1ISWlwTzdGY1VNcXl4OFkzbTFZcDdQNlJkTDBsS1FuOVkxV1hJYnAwSS1QOExRRHRFaWhMc0dKNGFuMFZCU3pUNkIxbzBxLWtkWnhHdHJsY1JybC1SVjBSSHZnVmVXUWJOemZOcmROekMxekc?oc=5",
+      "status": "PUBLISHED",
+      "isBreaking": false,
+      "categoryId": "cat-up",
+      "district": "agra",
+      "pointers": [
+        "UP Weather: उत्तर प्रदेश का मौसम बदलेगा, अगले दो दिनों तक कोहरे की चादर ओढ़े रह सकता है पूर्वी हिस्सा को लेकर प्रशासन और संबंधित विभागों में अलर्ट जारी।",
+        "स्थानीय स्तर पर स्थिति की लगातार निगरानी की जा रही है।",
+        "विस्तृत जानकारी और आधिकारिक बयान की प्रतीक्षा।"
+      ],
+      "publishedAt": "2026-11-22T13:50:00.000Z",
+      "tags": [
+        "उत्तर प्रदेश मुख्य समाचार",
+        "UTTAR-PRADESH",
+        "AGRA"
+      ],
+      "id": "art-1795394400810-itoceo",
+      "viewsCount": 0,
+      "createdAt": "2026-11-23T00:40:00.810Z"
+    },
+    {
+      "title": "12 राज्यों में बारिश का अलर्ट, पहाड़ों पर बर्फबारी; दिल्ली-UP-बिहार में बढ़ेगी ठंड, पढ़ें मौसम अपडेट्स",
+      "slug": "12--up--llt54",
+      "summary": "12 राज्यों में बारिश का अलर्ट, पहाड़ों पर बर्फबारी; दिल्ली-UP-बिहार में बढ़ेगी ठंड, पढ़ें मौसम अपडेट्स  India TV Hindi",
+      "content": "<p>12 राज्यों में बारिश का अलर्ट, पहाड़ों पर बर्फबारी; दिल्ली-UP-बिहार में बढ़ेगी ठंड, पढ़ें मौसम अपडेट्स  India TV Hindi</p>",
+      "featuredImage": "https://images.unsplash.com/photo-1548013146-72479768bada?w=1200&auto=format&fit=crop&q=80",
+      "sourceType": "API",
+      "sourceName": "उत्तर प्रदेश मुख्य समाचार",
+      "externalUrl": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNMzM4dlUwLU1LOExVblBXcl90UUVxN0oyZlBGd3h5U0lfNm5pWlVwWV85aFZiQWdqTUpTY2FsTHRvUFItdFd2Si1vTU0wb0lPSGFnb0dpeHBrN0pRUzRGVW9XUDgzZzdzdi1pMXQ0UmRtRHVndVZTdFAtbHlTNi05d2dVWEIyY0hFcllCcWxhZGtHSlI4LVlIbktGT1h6SjhsTm5yUGZHWG9uaW03ZHVBNF82aDdqVjB0QW9DM196MFI4cWdZZHFkM0tPNWs5eEdmS183NXZLSULSAd4BQVVfeXFMUFRqQmthSnphVkY2NGR2MFZDV0hVS1NvYnJsQjJoa1JKTGduQ2VVeW1zcEh2bGJXYUoxd1htdlh2Y3B1ZGJ3dDdidE5pN0JWSXNGWWpqNk91OTBWRVFxWDFlOHJRbWxXb204YTZDM1UxYlR3ZDJBemVwTG54RGg5WnpvZGxNTGF2NDBjYmZtYzVVSG94R3hfaVJkVlRzWDNqcEk1UVdrWkpEZHdvbWkxNWx6akNqQ0JtWVZiUGVsbDJsSXJaMWNPRlI2NHpkOGEzcmVxZWdwY3ROSnYtVFV3?oc=5",
+      "status": "PUBLISHED",
+      "isBreaking": false,
+      "categoryId": "cat-up",
+      "district": "lucknow",
+      "pointers": [
+        "12 राज्यों में बारिश का अलर्ट, पहाड़ों पर बर्फबारी",
+        "दिल्ली-UP-बिहार में बढ़ेगी ठंड, पढ़ें मौसम अपडेट्स  India TV Hindi"
+      ],
+      "publishedAt": "2026-11-22T02:58:11.000Z",
+      "tags": [
+        "उत्तर प्रदेश मुख्य समाचार",
+        "UTTAR-PRADESH",
+        "LUCKNOW"
+      ],
+      "id": "art-1795394400806-xspzjj",
+      "viewsCount": 0,
+      "createdAt": "2026-11-23T00:40:00.806Z"
+    },
+    {
+      "title": "Aaj Ka Mausam: मौसम का बदला मिजाज, पूर्वोत्तर में भारी बारिश, दिल्ली-यूपी में कोहरा; कई राज्यों में बदला मौसम",
+      "slug": "aaj-ka-mausam---x23mw",
+      "summary": "Aaj Ka Mausam: मौसम का बदला मिजाज, पूर्वोत्तर में भारी बारिश, दिल्ली-यूपी में कोहरा; कई राज्यों में बदला मौसम  Navbharat Live",
+      "content": "<p>Aaj Ka Mausam: मौसम का बदला मिजाज, पूर्वोत्तर में भारी बारिश, दिल्ली-यूपी में कोहरा; कई राज्यों में बदला मौसम  Navbharat Live</p>",
+      "featuredImage": "https://images.unsplash.com/photo-1548013146-72479768bada?w=1200&auto=format&fit=crop&q=80",
+      "sourceType": "API",
+      "sourceName": "उत्तर प्रदेश मुख्य समाचार",
+      "externalUrl": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPSjg0QWI3LVV6M3M5QVR5dV96MGJWV1RJZmg5dkR6MGd1UE9ETS1IaWNYVUxSd19Kbi1tRnM4TWtLbFQ3eVNFRjVkV2FBX25LYlVJTFctamNqT2Y2emdsVzBuQjF4V1dlQUZQVHZTLUJKWG5yaFBuMDd0RWVYU1pBeG90Skt5d3ZTcVI0WGZ5YmJOTXN4Z3NrZGRyQUgwbVM0ZWU0WDRBRl83LXNLY0tKenRCSWJ1bjBmRnNBTXJWUlUtNWlmanhv0gHUAUFVX3lxTE4yVDc2YzU0VE11d25jUl9JekhuV1doenhiOWhMQWZwV2lneEVmVlZnQTdoNGZVRGtndDRKTE50YWJScVJuYTExVGl6d1E2emZiSjJTTDYxampPam8yNHQzR3FsVzRHT2U0aGtldTd0MXVMSzYyNWtQdkgxaU1qcS13Ykl1NmNBa3FVdk9Mem9fYVNMb3cwYUp0Rmh5ZGh4V0M3TWhlSC1OejhuS3hESWVoc21CcjFBaWZFRXVlUk91R1g2dGZsQTVGTG4yUG9ZbnR6eEFv?oc=5",
+      "status": "PUBLISHED",
+      "isBreaking": false,
+      "categoryId": "cat-up",
+      "district": "lucknow",
+      "pointers": [
+        "Aaj Ka Mausam: मौसम का बदला मिजाज, पूर्वोत्तर में भारी बारिश, दिल्ली-यूपी में कोहरा",
+        "कई राज्यों में बदला मौसम  Navbharat Live"
+      ],
+      "publishedAt": "2026-11-22T03:32:33.000Z",
+      "tags": [
+        "उत्तर प्रदेश मुख्य समाचार",
+        "UTTAR-PRADESH",
+        "LUCKNOW"
+      ],
+      "id": "art-1795394400772-stxz3p",
+      "viewsCount": 0,
+      "createdAt": "2026-11-23T00:40:00.773Z"
+    },
+    {
+      "title": "Deal with EU not dependent on tuition fees agreement, Miliband says",
+      "slug": "deal-with-eu-not-dependent-on-tuition-fees-agreement-miliband-says-zxcfd",
+      "summary": "Brussels sources had previously suggested the bloc might not apply the wider deal until fees were lowered for EU students in Britain.",
+      "content": "<p>Brussels sources had previously suggested the bloc might not apply the wider deal until fees were lowered for EU students in Britain.</p>",
+      "featuredImage": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d218/live/12a1fc40-e531-11f1-a67d-39d55c7178b0.jpg",
+      "sourceType": "API",
+      "sourceName": "BBC World News",
+      "externalUrl": "https://www.bbc.co.uk/news/articles/cm9w9p4geke8o?at_medium=RSS&at_campaign=rss",
+      "status": "PUBLISHED",
+      "isBreaking": false,
+      "categoryId": "cat-1",
+      "publishedAt": "2026-11-21T09:40:55.000Z",
+      "tags": [
+        "BBC World News",
+        "WORLD"
+      ],
+      "id": "art-1795360123919-u46pm9",
+      "viewsCount": 0,
+      "createdAt": "2026-11-22T15:08:43.919Z"
+    },
+    {
+      "title": "Lock of former US President George Washington's hair sells for $4,000",
+      "slug": "lock-of-former-us-president-george-washingtons-hair-sells-for-4000-rdgky",
+      "summary": "The hair was given as a sign of friendship shortly before Washington's death in 1799, according to a descendent of its former owner.",
+      "content": "<p>The hair was given as a sign of friendship shortly before Washington's death in 1799, according to a descendent of its former owner.</p>",
+      "featuredImage": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5138/live/c4d4d0c0-e5ec-11f1-ad4d-5dd9d517a6dd.jpg",
+      "sourceType": "API",
+      "sourceName": "BBC World News",
+      "externalUrl": "https://www.bbc.co.uk/news/articles/cwe9k23dpz0do?at_medium=RSS&at_campaign=rss",
+      "status": "PUBLISHED",
+      "isBreaking": false,
+      "categoryId": "cat-1",
+      "publishedAt": "2026-11-21T22:01:19.000Z",
+      "tags": [
+        "BBC World News",
+        "WORLD"
+      ],
+      "id": "art-1795360123916-0b0b8k",
+      "viewsCount": 0,
+      "createdAt": "2026-11-22T15:08:43.916Z"
+    },
+    {
+      "title": "Man convicted of starting Palisades fire in Los Angeles",
+      "slug": "man-convicted-of-starting-palisades-fire-in-los-angeles-9x65d",
+      "summary": "The 30-year-old LA resident was convicted of arson leading to wildfires that killed 12 people and destroyed more than 6,800 buildings.",
+      "content": "<p>The 30-year-old LA resident was convicted of arson leading to wildfires that killed 12 people and destroyed more than 6,800 buildings.</p>",
+      "featuredImage": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8053/live/b01bb4f0-e556-11f1-ad51-c3505e495cd9.jpg",
+      "sourceType": "API",
+      "sourceName": "BBC World News",
+      "externalUrl": "https://www.bbc.co.uk/news/articles/c64gn0gy8rj3o?at_medium=RSS&at_campaign=rss",
+      "status": "PUBLISHED",
+      "isBreaking": false,
+      "categoryId": "cat-1",
+      "publishedAt": "2026-11-21T04:34:00.000Z",
+      "tags": [
+        "BBC World News",
+        "WORLD"
+      ],
+      "id": "art-1795360123913-ii8jfj",
+      "viewsCount": 0,
+      "createdAt": "2026-11-22T15:08:43.913Z"
+    },
+    {
+      "title": "FBI reportedly investigating apparent hack of its criminal database",
+      "slug": "fbi-reportedly-investigating-apparent-hack-of-its-criminal-database-z9sjm",
+      "summary": "The National Crime Information Center database is used by federal and local law enforcement to share information.",
+      "content": "<p>The National Crime Information Center database is used by federal and local law enforcement to share information.</p>",
+      "featuredImage": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3fd7/live/9009b220-e58d-11f1-99a1-253766e7ad8b.jpg",
+      "sourceType": "API",
+      "sourceName": "BBC World News",
+      "externalUrl": "https://www.bbc.co.uk/news/articles/cvze7de86pk3o?at_medium=RSS&at_campaign=rss",
+      "status": "PUBLISHED",
+      "isBreaking": false,
+      "categoryId": "cat-1",
+      "publishedAt": "2026-11-22T00:10:44.000Z",
+      "tags": [
+        "BBC World News",
+        "WORLD"
+      ],
+      "id": "art-1795360123910-edu55j",
+      "viewsCount": 0,
+      "createdAt": "2026-11-22T15:08:43.910Z"
+    },
+    {
+      "title": "Zelensky says Crimean Bridge strikes 'fair response' as he meets UK's Streeting",
+      "slug": "zelensky-says-crimean-bridge-strikes-fair-response-as-he-meets-uks-streeting-scvpw",
+      "summary": "Ukraine's president says Kyiv acted after 109 separate Russian aerial attacks on bridges in Ukraine.",
+      "content": "<p>Ukraine's president says Kyiv acted after 109 separate Russian aerial attacks on bridges in Ukraine.</p>",
+      "featuredImage": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3686/live/9ee585d0-e5a6-11f1-99b6-a35a62fa4264.jpg",
+      "sourceType": "API",
+      "sourceName": "BBC World News",
+      "externalUrl": "https://www.bbc.co.uk/news/articles/c6wy0qj7w5zqo?at_medium=RSS&at_campaign=rss",
+      "status": "PUBLISHED",
+      "isBreaking": false,
+      "categoryId": "cat-1",
+      "publishedAt": "2026-11-21T13:17:38.000Z",
+      "tags": [
+        "BBC World News",
+        "WORLD"
+      ],
+      "id": "art-1795360123906-ms25sg",
+      "viewsCount": 0,
+      "createdAt": "2026-11-22T15:08:43.906Z"
+    },
+    {
+      "title": "Italian jeweller and businessman Paolo Bulgari dies aged 89",
+      "slug": "italian-jeweller-and-businessman-paolo-bulgari-dies-aged-89-8qbsq",
+      "summary": "In a statement to Italian media, his family remember him as \"the greatest jeweller of our time\".",
+      "content": "<p>In a statement to Italian media, his family remember him as \"the greatest jeweller of our time\".</p>",
+      "featuredImage": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/11c4/live/b30a2e00-e635-11f1-bcaa-b74b42067918.jpg",
+      "sourceType": "API",
+      "sourceName": "BBC World News",
+      "externalUrl": "https://www.bbc.co.uk/news/articles/c8e39qk5vrpdo?at_medium=RSS&at_campaign=rss",
+      "status": "PUBLISHED",
+      "isBreaking": false,
+      "categoryId": "cat-1",
+      "publishedAt": "2026-11-22T07:12:41.000Z",
+      "tags": [
+        "BBC World News",
+        "WORLD"
+      ],
+      "id": "art-1795360123902-m94tha",
+      "viewsCount": 0,
+      "createdAt": "2026-11-22T15:08:43.902Z"
+    },
+    {
+      "title": "Three killed and dozens missing after fire at Indonesian factory",
+      "slug": "three-killed-and-dozens-missing-after-fire-at-indonesian-factory-zxnbm",
+      "summary": "At least three people were killed and many more feared dead after a fire at a confectionary factory.",
+      "content": "<p>At least three people were killed and many more feared dead after a fire at a confectionary factory.</p>",
+      "featuredImage": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0675/live/85d2f2e0-e62c-11f1-b2ea-350d14ed1ad7.jpg",
+      "sourceType": "API",
+      "sourceName": "BBC World News",
+      "externalUrl": "https://www.bbc.co.uk/news/articles/cw8dvg5pgm0eo?at_medium=RSS&at_campaign=rss",
+      "status": "PUBLISHED",
+      "isBreaking": false,
+      "categoryId": "cat-1",
+      "publishedAt": "2026-11-22T14:05:20.000Z",
+      "tags": [
+        "BBC World News",
+        "WORLD"
+      ],
+      "id": "art-1795360123899-xuc2rd",
+      "viewsCount": 0,
+      "createdAt": "2026-11-22T15:08:43.899Z"
+    },
+    {
+      "title": "Mexican drug lord on FBI's 10 most wanted list arrested in shoot-out",
+      "slug": "mexican-drug-lord-on-fbis-10-most-wanted-list-arrested-in-shoot-vq5us",
+      "summary": "Fausto Isidro \"Chapo Idisro\" Meza Flores, who is accused of drug trafficking and torture, is detained after gun fight with authorities.",
+      "content": "<p>Fausto Isidro \"Chapo Idisro\" Meza Flores, who is accused of drug trafficking and torture, is detained after gun fight with authorities.</p>",
+      "featuredImage": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5701/live/7ac9e270-e5ad-11f1-99a1-253766e7ad8b.jpg",
+      "sourceType": "API",
+      "sourceName": "BBC World News",
+      "externalUrl": "https://www.bbc.co.uk/news/articles/ckz749ey0r75o?at_medium=RSS&at_campaign=rss",
+      "status": "PUBLISHED",
+      "isBreaking": false,
+      "categoryId": "cat-1",
+      "publishedAt": "2026-11-22T01:25:03.000Z",
+      "tags": [
+        "BBC World News",
+        "WORLD"
+      ],
+      "id": "art-1795360123896-mrki0b",
+      "viewsCount": 0,
+      "createdAt": "2026-11-22T15:08:43.896Z"
+    },
+    {
+      "title": "Russia-bound ship still on fire after attack in Gulf of Finland",
+      "slug": "russia-jzz7e",
+      "summary": "Finnish defence forces say that Ukraine was likely behind the drone attack on the vessel.",
+      "content": "<p>Finnish defence forces say that Ukraine was likely behind the drone attack on the vessel.</p>",
+      "featuredImage": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d6f9/live/a55b16b0-e66d-11f1-9e24-791c5321ff0f.jpg",
+      "sourceType": "API",
+      "sourceName": "BBC World News",
+      "externalUrl": "https://www.bbc.co.uk/news/articles/cj752ddve27ko?at_medium=RSS&at_campaign=rss",
+      "status": "PUBLISHED",
+      "isBreaking": false,
+      "categoryId": "cat-1",
+      "publishedAt": "2026-11-22T11:25:14.000Z",
+      "tags": [
+        "BBC World News",
+        "WORLD"
+      ],
+      "id": "art-1795360123893-5rtixy",
+      "viewsCount": 0,
+      "createdAt": "2026-11-22T15:08:43.893Z"
+    },
+    {
+      "title": "South Korea education minister resigns over exam cheating scandal",
+      "slug": "south-korea-education-minister-resigns-over-exam-cheating-scandal-pved7",
+      "summary": "Choi Kyo-jin admits last-minute measures to stop AI-assisted cheating during the college entrance exam caused chaos.",
+      "content": "<p>Choi Kyo-jin admits last-minute measures to stop AI-assisted cheating during the college entrance exam caused chaos.</p>",
+      "featuredImage": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dc28/live/9c42c760-e66a-11f1-99b6-a35a62fa4264.jpg",
+      "sourceType": "API",
+      "sourceName": "BBC World News",
+      "externalUrl": "https://www.bbc.co.uk/news/articles/cw3dgk29d37no?at_medium=RSS&at_campaign=rss",
+      "status": "PUBLISHED",
+      "isBreaking": false,
+      "categoryId": "cat-1",
+      "publishedAt": "2026-11-22T09:20:45.000Z",
+      "tags": [
+        "BBC World News",
+        "WORLD"
+      ],
+      "id": "art-1795360123889-6lbq3c",
+      "viewsCount": 0,
+      "createdAt": "2026-11-22T15:08:43.889Z"
+    },
+    {
+      "title": "The Dark Side of the Moon Was the Brightest Part of 2026",
+      "slug": "the-dark-side-of-the-moon-was-the-brightest-part-of-2026-hng0m",
+      "summary": "Through personality clashes, blaring smoke detectors, and a broken pee vent, the Artemis II astronauts made history—and bonded for life.",
+      "content": "<p>Through personality clashes, blaring smoke detectors, and a broken pee vent, the Artemis II astronauts made history—and bonded for life.</p>",
+      "featuredImage": "https://media.wired.com/photos/6afb64c4d5ce52bfaa9da9f8/master/pass/SH010_WIRED_FRAMES_ARTEMIS_16x9_SINGLE_v04.gif",
+      "sourceType": "API",
+      "sourceName": "Wired Science",
+      "externalUrl": "https://www.wired.com/story/wired-yearbook-2026-artemis-crew/",
+      "status": "PUBLISHED",
+      "isBreaking": false,
+      "categoryId": "cat-4",
+      "publishedAt": "2026-11-17T11:00:00.000Z",
+      "tags": [
+        "Wired Science",
+        "SCIENCE"
+      ],
+      "id": "art-1795358630300-in5pnl",
+      "viewsCount": 0,
+      "createdAt": "2026-11-22T14:43:50.300Z"
+    },
+    {
+      "title": "Voyager 1 Beat the Odds and Is Still Working a Light-Day Away From Earth",
+      "slug": "voyager-1-beat-the-odds-and-is-still-working-a-light-jjcjk",
+      "summary": "The spacecraft stores data on an eight-track tape, but it’s managed to stay in contact with scientists for decades. Now, it’s the first human-made object to travel a light-day away from Earth.",
+      "content": "<p>The spacecraft stores data on an eight-track tape, but it’s managed to stay in contact with scientists for decades. Now, it’s the first human-made object to travel a light-day away from Earth.</p>",
+      "featuredImage": "https://media.wired.com/photos/6afc240b2a6df42cc7084204/master/pass/pia17462.jpg",
+      "sourceType": "API",
+      "sourceName": "Wired Science",
+      "externalUrl": "https://www.wired.com/story/voyager-1-beat-still-working-light-day-away/",
+      "status": "PUBLISHED",
+      "isBreaking": false,
+      "categoryId": "cat-4",
+      "publishedAt": "2026-11-18T11:15:00.000Z",
+      "tags": [
+        "Wired Science",
+        "SCIENCE"
+      ],
+      "id": "art-1795358630297-xgl6r8",
+      "viewsCount": 0,
+      "createdAt": "2026-11-22T14:43:50.297Z"
+    },
+    {
+      "title": "The US Lost Its Measles Elimination Status. It’ll Take Years to Get It Back",
+      "slug": "the-us-lost-its-measles-elimination-status-itll-take-years-to-get-it-back-mrcw3",
+      "summary": "The highly contagious disease is spreading across the country, and “may even be gaining speed.”",
+      "content": "<p>The highly contagious disease is spreading across the country, and “may even be gaining speed.”</p>",
+      "featuredImage": "https://media.wired.com/photos/6afcff5af77d006ac6e61e11/master/pass/science_us_measles_free_status.jpg",
+      "sourceType": "API",
+      "sourceName": "Wired Science",
+      "externalUrl": "https://www.wired.com/story/us-lost-measles-elimination-status-years-to-recover/",
+      "status": "PUBLISHED",
+      "isBreaking": false,
+      "categoryId": "cat-4",
+      "publishedAt": "2026-11-18T17:53:08.000Z",
+      "tags": [
+        "Wired Science",
+        "SCIENCE"
+      ],
+      "id": "art-1795358630294-hn9jc4",
+      "viewsCount": 0,
+      "createdAt": "2026-11-22T14:43:50.294Z"
+    },
+    {
+      "title": "Australia’s Plan to Manage Neil the Unruly Seal Involves ‘Hazing’ and ‘Seal Enrichment’",
+      "slug": "australias-plan-to-manage-neil-the-unruly-seal-involves-hazing-and-seal-enrichme-ufo1g",
+      "summary": "The new 27-page document lays out how to keep the Tasmania’s viral marine mammal from wreaking havoc when he comes ashore.",
+      "content": "<p>The new 27-page document lays out how to keep the Tasmania’s viral marine mammal from wreaking havoc when he comes ashore.</p>",
+      "featuredImage": "https://media.wired.com/photos/6afdf5886a27dda013bf5998/master/pass/2026-07-06T063630Z_730025260_MT1AAP000JVGO6Y_RTRMADP_3_NEIL-THE-SEAL.jpg",
+      "sourceType": "API",
+      "sourceName": "Wired Science",
+      "externalUrl": "https://www.wired.com/story/australia-neil-the-seal-management-plan/",
+      "status": "PUBLISHED",
+      "isBreaking": false,
+      "categoryId": "cat-4",
+      "publishedAt": "2026-11-18T19:59:15.000Z",
+      "tags": [
+        "Wired Science",
+        "SCIENCE"
+      ],
+      "id": "art-1795358630291-c2w7w5",
+      "viewsCount": 0,
+      "createdAt": "2026-11-22T14:43:50.291Z"
+    },
+    {
+      "title": "Voyager Is a Light-Day Away. Here’s How Far That Really Is",
+      "slug": "voyager-is-a-light-day-away-heres-how-far-that-really-is-qp9bo",
+      "summary": "The distance and forces shaping the venerable craft’s trajectory are mind-boggling reminders of the vastness of space.",
+      "content": "<p>The distance and forces shaping the venerable craft’s trajectory are mind-boggling reminders of the vastness of space.</p>",
+      "featuredImage": "https://media.wired.com/photos/6afd6967d7198704b1746983/master/pass/1LD%20Social%20Graphics_Shine%20Bright%20-%20Web%20Hero%20copy%202.jpg",
+      "sourceType": "API",
+      "sourceName": "Wired Science",
+      "externalUrl": "https://www.wired.com/story/voyager-light-day-away-how-far-that-really-is/",
+      "status": "PUBLISHED",
+      "isBreaking": false,
+      "categoryId": "cat-4",
+      "publishedAt": "2026-11-19T12:00:00.000Z",
+      "tags": [
+        "Wired Science",
+        "SCIENCE"
+      ],
+      "id": "art-1795358630289-gx6lir",
+      "viewsCount": 0,
+      "createdAt": "2026-11-22T14:43:50.289Z"
+    },
+    {
+      "title": "Fiona the Hippo Died After Eating a Hat. But How Does a Hat Kill a Hippo?",
+      "slug": "fiona-the-hippo-died-after-eating-a-hat-but-how-does-a-hat-kill-a-hippo-p1fd8",
+      "summary": "The beloved 9-year-old hippo at the Cincinnati Zoo was famous for surviving premature birth. Veterinary experts explain how a 2,500-pound animal can succumb to a knit hat.",
+      "content": "<p>The beloved 9-year-old hippo at the Cincinnati Zoo was famous for surviving premature birth. Veterinary experts explain how a 2,500-pound animal can succumb to a knit hat.</p>",
+      "featuredImage": "https://media.wired.com/photos/6aff6de3747e1608ed3c9a9a/master/pass/RIP-Fiona-the-Hippo-Business-1230298782.jpg",
+      "sourceType": "API",
+      "sourceName": "Wired Science",
+      "externalUrl": "https://www.wired.com/story/fiona-the-hippo-died-after-eating-a-hat-but-how-does-a-hat-kill-a-hippo/",
+      "status": "PUBLISHED",
+      "isBreaking": false,
+      "categoryId": "cat-4",
+      "publishedAt": "2026-11-20T02:39:47.000Z",
+      "tags": [
+        "Wired Science",
+        "SCIENCE"
+      ],
+      "id": "art-1795358630286-ihzcgo",
+      "viewsCount": 0,
+      "createdAt": "2026-11-22T14:43:50.286Z"
+    },
+    {
+      "title": "El Niño Is Driving a Record Marine Heat Wave Off the California Coast",
+      "slug": "el-nio-is-driving-a-record-marine-heat-wave-off-the-california-coast-g77ul",
+      "summary": "The extreme heat extends hundreds of meters below the ocean’s surface and is fueling severe storms and abnormally high seas.",
+      "content": "<p>The extreme heat extends hundreds of meters below the ocean’s surface and is fueling severe storms and abnormally high seas.</p>",
+      "featuredImage": "https://media.wired.com/photos/6afc5d41fa103e595fff7d88/master/pass/GettyImages-2305167906.jpg",
+      "sourceType": "API",
+      "sourceName": "Wired Science",
+      "externalUrl": "https://www.wired.com/story/el-nino-record-california-marine-heat-wave/",
+      "status": "PUBLISHED",
+      "isBreaking": false,
+      "categoryId": "cat-4",
+      "publishedAt": "2026-11-20T10:30:00.000Z",
+      "tags": [
+        "Wired Science",
+        "SCIENCE"
+      ],
+      "id": "art-1795358630283-6x4ua5",
+      "viewsCount": 0,
+      "createdAt": "2026-11-22T14:43:50.284Z"
+    },
+    {
+      "title": "A Space Probe Returns to Asteroids Where NASA Tested Planetary Defense Systems",
+      "slug": "a-space-probe-returns-to-asteroids-where-nasa-tested-planetary-defense-systems-ef028",
+      "summary": "Several years ago, NASA tested systems for deterring dangerous space rocks. Now, a probe from the European Space Agency is returning to the scene to investigate.",
+      "content": "<p>Several years ago, NASA tested systems for deterring dangerous space rocks. Now, a probe from the European Space Agency is returning to the scene to investigate.</p>",
+      "featuredImage": "https://media.wired.com/photos/6b0013b54b02437d9d07344e/master/pass/Hera_her_CubeSats_and_their_rocky_target.png",
+      "sourceType": "API",
+      "sourceName": "Wired Science",
+      "externalUrl": "https://www.wired.com/story/a-space-probe-returns-to-astroids-where-nasa-tested-planetary-defense-systems/",
+      "status": "PUBLISHED",
+      "isBreaking": false,
+      "categoryId": "cat-4",
+      "publishedAt": "2026-11-21T12:00:00.000Z",
+      "tags": [
+        "Wired Science",
+        "SCIENCE"
+      ],
+      "id": "art-1795358630281-l0imka",
+      "viewsCount": 0,
+      "createdAt": "2026-11-22T14:43:50.281Z"
+    },
+    {
+      "title": "How This Year’s Super El Niño Will Worsen Global Hunger",
+      "slug": "how-this-years-super-el-nio-will-worsen-global-hunger-goirx",
+      "summary": "While some regions get wetter, others face massive drought. On top of wars and cuts to foreign aid, the weather phenomenon could leave millions of people in vulnerable countries without enough to eat.",
+      "content": "<p>While some regions get wetter, others face massive drought. On top of wars and cuts to foreign aid, the weather phenomenon could leave millions of people in vulnerable countries without enough to eat.</p>",
+      "featuredImage": "https://media.wired.com/photos/6b00ddb2631c13f3e234776c/master/pass/How-This-Years-Super-El-Nino-Will-Worsen-Global-Hunger-Science-2297395830.jpg",
+      "sourceType": "API",
+      "sourceName": "Wired Science",
+      "externalUrl": "https://www.wired.com/story/how-this-years-super-el-nino-will-worsen-global-hunger/",
+      "status": "PUBLISHED",
+      "isBreaking": false,
+      "categoryId": "cat-4",
+      "publishedAt": "2026-11-22T10:00:00.000Z",
+      "tags": [
+        "Wired Science",
+        "SCIENCE"
+      ],
+      "id": "art-1795358630278-9bwe28",
+      "viewsCount": 0,
+      "createdAt": "2026-11-22T14:43:50.278Z"
+    },
+    {
+      "title": "Scientists Tried to Kill This Dirt, but It Wouldn’t Die",
+      "slug": "scientists-tried-to-kill-this-dirt-but-it-wouldnt-die-udb9x",
+      "summary": "Biologically important chemical reactions persisted in the sterilized soil for six years—offering clues to how life on Earth may have gotten its start.",
+      "content": "<p>Biologically important chemical reactions persisted in the sterilized soil for six years—offering clues to how life on Earth may have gotten its start.</p>",
+      "featuredImage": "https://media.wired.com/photos/6afec80a658c126f4fca9f94/master/pass/Abiotic-metabolism%20cr-Samuel%20Velasco-Lede.jpg",
+      "sourceType": "API",
+      "sourceName": "Wired Science",
+      "externalUrl": "https://www.wired.com/story/scientists-tried-to-kill-this-dirt-but-it-wouldnt-die/",
+      "status": "PUBLISHED",
+      "isBreaking": false,
+      "categoryId": "cat-4",
+      "publishedAt": "2026-11-22T10:30:00.000Z",
+      "tags": [
+        "Wired Science",
+        "SCIENCE"
+      ],
+      "id": "art-1795358630276-zkhlsk",
+      "viewsCount": 0,
+      "createdAt": "2026-11-22T14:43:50.276Z"
+    },
+    {
+      "title": "AI claimed a solution to the 167-year-old Riemann hypothesis — and a human did, too",
+      "slug": "ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too-9shn3",
+      "summary": "Mathematicians are having their minds blown by the latest AI-driven result — and there's a competing human solution, too.",
+      "content": "<p>Mathematicians are having their minds blown by the latest AI-driven result — and there's a competing human solution, too.</p>",
+      "featuredImage": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1000&auto=format&fit=crop&q=80",
+      "sourceType": "API",
+      "sourceName": "TechCrunch",
+      "externalUrl": "https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/",
+      "status": "PUBLISHED",
+      "isBreaking": false,
+      "categoryId": "cat-2",
+      "publishedAt": "2026-11-20T19:32:08.000Z",
+      "tags": [
+        "TechCrunch",
+        "TECHNOLOGY"
+      ],
+      "id": "art-1795358626478-7ju3zt",
+      "viewsCount": 0,
+      "createdAt": "2026-11-22T14:43:46.478Z"
+    },
+    {
+      "title": "Daniel Ek backs AI researcher&#8217;s fusion power startup. Here&#8217;s what they&#8217;re building.",
+      "slug": "daniel-ek-backs-ai-researcher8217s-fusion-power-startup-here8217s-what-they8217r-txz7v",
+      "summary": "Spotify founder Daniel Ek is backing Europa Fusion, a fusion power startup founded by an AI researcher. Here's what the startup is building.",
+      "content": "<p>Spotify founder Daniel Ek is backing Europa Fusion, a fusion power startup founded by an AI researcher. Here's what the startup is building.</p>",
+      "featuredImage": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1000&auto=format&fit=crop&q=80",
+      "sourceType": "API",
+      "sourceName": "TechCrunch",
+      "externalUrl": "https://techcrunch.com/2026/11/20/daniel-ek-backs-ai-researchers-fusion-power-startup-heres-what-theyre-building/",
+      "status": "PUBLISHED",
+      "isBreaking": false,
+      "categoryId": "cat-2",
+      "publishedAt": "2026-11-20T19:53:41.000Z",
+      "tags": [
+        "TechCrunch",
+        "TECHNOLOGY"
+      ],
+      "id": "art-1795358626475-s7wk5m",
+      "viewsCount": 0,
+      "createdAt": "2026-11-22T14:43:46.476Z"
+    },
+    {
+      "title": "Experts warn: Nearly everyone in AI is susceptible to a honey-trap scheme right now",
+      "slug": "experts-warn-nearly-everyone-in-ai-is-susceptible-to-a-honey-acx02",
+      "summary": "Techies are building technology that can advance all aspects of the world — but can they protect their hearts? That's the vulnerability that honey pots exploit.",
+      "content": "<p>Techies are building technology that can advance all aspects of the world — but can they protect their hearts? That's the vulnerability that honey pots exploit.</p>",
+      "featuredImage": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1000&auto=format&fit=crop&q=80",
+      "sourceType": "API",
+      "sourceName": "TechCrunch",
+      "externalUrl": "https://techcrunch.com/2026/11/20/experts-warn-nearly-everyone-in-ai-is-susceptible-to-a-honey-trap-scheme-right-now/",
+      "status": "PUBLISHED",
+      "isBreaking": false,
+      "categoryId": "cat-2",
+      "publishedAt": "2026-11-20T20:58:29.000Z",
+      "tags": [
+        "TechCrunch",
+        "TECHNOLOGY"
+      ],
+      "id": "art-1795358626472-w0ww0u",
+      "viewsCount": 0,
+      "createdAt": "2026-11-22T14:43:46.472Z"
+    },
+    {
+      "title": "Startup sues Apple in India over tap-to-share contacts feature",
+      "slug": "startup-sues-apple-in-india-over-tap-to-tqvsy",
+      "summary": "A U.S. startup is seeking $162 million in damages and an injunction to impact iPhone and Apple Watch imports to India.",
+      "content": "<p>A U.S. startup is seeking $162 million in damages and an injunction to impact iPhone and Apple Watch imports to India.</p>",
+      "featuredImage": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1000&auto=format&fit=crop&q=80",
+      "sourceType": "API",
+      "sourceName": "TechCrunch",
+      "externalUrl": "https://techcrunch.com/2026/11/20/startup-sues-apple-in-india-over-tap-to-share-contacts-feature/",
+      "status": "PUBLISHED",
+      "isBreaking": false,
+      "categoryId": "cat-2",
+      "publishedAt": "2026-11-21T04:00:00.000Z",
+      "tags": [
+        "TechCrunch",
+        "TECHNOLOGY"
+      ],
+      "id": "art-1795358626470-13gdgw",
+      "viewsCount": 0,
+      "createdAt": "2026-11-22T14:43:46.470Z"
+    },
+    {
+      "title": "Alaska, your next governor is a Wikipedia nerd",
+      "slug": "alaska-your-next-governor-is-a-wikipedia-nerd-0zkci",
+      "summary": "Jonathan Kreiss-Tomkins, Alaska's governor-elect, has made more than 13,000 WIkipedia edits.",
+      "content": "<p>Jonathan Kreiss-Tomkins, Alaska's governor-elect, has made more than 13,000 WIkipedia edits.</p>",
+      "featuredImage": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1000&auto=format&fit=crop&q=80",
+      "sourceType": "API",
+      "sourceName": "TechCrunch",
+      "externalUrl": "https://techcrunch.com/2026/11/21/alaska-your-next-governor-is-a-wikipedia-nerd/",
+      "status": "PUBLISHED",
+      "isBreaking": false,
+      "categoryId": "cat-2",
+      "publishedAt": "2026-11-21T15:18:29.000Z",
+      "tags": [
+        "TechCrunch",
+        "TECHNOLOGY"
+      ],
+      "id": "art-1795358626468-s3eqs0",
+      "viewsCount": 0,
+      "createdAt": "2026-11-22T14:43:46.468Z"
+    },
+    {
+      "title": "Is selling an AI version of your face to this microdrama startup the future of Hollywood?",
+      "slug": "is-selling-an-ai-version-of-your-face-to-this-microdrama-startup-the-future-of-h-pzewr",
+      "summary": "An actor has licensed his face to a microdrama startup — in a trend that's already popular in China. Experts question the long-term consequences if this becomes a trend in Hollywood, too.",
+      "content": "<p>An actor has licensed his face to a microdrama startup — in a trend that's already popular in China. Experts question the long-term consequences if this becomes a trend in Hollywood, too.</p>",
+      "featuredImage": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1000&auto=format&fit=crop&q=80",
+      "sourceType": "API",
+      "sourceName": "TechCrunch",
+      "externalUrl": "https://techcrunch.com/2026/11/21/is-selling-an-ai-version-of-your-face-to-this-microdrama-startup-the-future-of-hollywood/",
+      "status": "PUBLISHED",
+      "isBreaking": false,
+      "categoryId": "cat-2",
+      "publishedAt": "2026-11-21T16:00:00.000Z",
+      "tags": [
+        "TechCrunch",
+        "TECHNOLOGY"
+      ],
+      "id": "art-1795358626466-d0jsje",
+      "viewsCount": 0,
+      "createdAt": "2026-11-22T14:43:46.466Z"
+    },
+    {
+      "title": "Here are the top AI agents that can live in your text messages",
+      "slug": "here-are-the-top-ai-agents-that-can-live-in-your-text-messages-ttkjm",
+      "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
+      "content": "<p>We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.</p>",
+      "featuredImage": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1000&auto=format&fit=crop&q=80",
+      "sourceType": "API",
+      "sourceName": "TechCrunch",
+      "externalUrl": "https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/",
+      "status": "PUBLISHED",
+      "isBreaking": false,
+      "categoryId": "cat-2",
+      "publishedAt": "2026-11-21T17:00:00.000Z",
+      "tags": [
+        "TechCrunch",
+        "TECHNOLOGY"
+      ],
+      "id": "art-1795358626464-lb6086",
+      "viewsCount": 0,
+      "createdAt": "2026-11-22T14:43:46.464Z"
+    },
+    {
+      "title": "Trump says reported FBI database hack is ‘not good’",
+      "slug": "trump-says-reported-fbi-database-hack-is-not-good-62k9j",
+      "summary": "The FBI is reportedly investigating a hack of the National Crime Information Center.",
+      "content": "<p>The FBI is reportedly investigating a hack of the National Crime Information Center.</p>",
+      "featuredImage": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1000&auto=format&fit=crop&q=80",
+      "sourceType": "API",
+      "sourceName": "TechCrunch",
+      "externalUrl": "https://techcrunch.com/2026/11/21/trump-says-reported-fbi-database-hack-is-not-good/",
+      "status": "PUBLISHED",
+      "isBreaking": false,
+      "categoryId": "cat-2",
+      "publishedAt": "2026-11-21T18:44:53.000Z",
+      "tags": [
+        "TechCrunch",
+        "TECHNOLOGY"
+      ],
+      "id": "art-1795358626462-67zt7i",
+      "viewsCount": 0,
+      "createdAt": "2026-11-22T14:43:46.462Z"
+    },
+    {
+      "title": "A tale of two Nvidias",
+      "slug": "a-tale-of-two-nvidias-3k476",
+      "summary": "We got two very different pictures of Nvidia —  the company’s latest earnings report vs. the tech executives loudly calling for Jensen Huang’s return.",
+      "content": "<p>We got two very different pictures of Nvidia —  the company’s latest earnings report vs. the tech executives loudly calling for Jensen Huang’s return.</p>",
+      "featuredImage": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1000&auto=format&fit=crop&q=80",
+      "sourceType": "API",
+      "sourceName": "TechCrunch",
+      "externalUrl": "https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias/",
+      "status": "PUBLISHED",
+      "isBreaking": false,
+      "categoryId": "cat-2",
+      "publishedAt": "2026-11-21T21:07:42.000Z",
+      "tags": [
+        "TechCrunch",
+        "TECHNOLOGY"
+      ],
+      "id": "art-1795358626460-wvroms",
+      "viewsCount": 0,
+      "createdAt": "2026-11-22T14:43:46.460Z"
+    },
+    {
+      "title": "Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance",
+      "slug": "signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-sur-3m0dp",
+      "summary": "Signal is limiting users' ability to take screenshots in both its Android and iOS apps.",
+      "content": "<p>Signal is limiting users' ability to take screenshots in both its Android and iOS apps.</p>",
+      "featuredImage": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1000&auto=format&fit=crop&q=80",
+      "sourceType": "API",
+      "sourceName": "TechCrunch",
+      "externalUrl": "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/",
+      "status": "PUBLISHED",
+      "isBreaking": false,
+      "categoryId": "cat-2",
+      "publishedAt": "2026-11-21T21:37:10.000Z",
+      "tags": [
+        "TechCrunch",
+        "TECHNOLOGY"
+      ],
+      "id": "art-1795358626455-ri7244",
+      "viewsCount": 2,
+      "createdAt": "2026-11-22T14:43:46.455Z"
+    },
+    {
+      "id": "art-lead-1",
+      "title": "Global Energy Summit Ratifies Historic Treaty on Next-Generation Clean Grids",
+      "slug": "global-energy-summit-ratifies-historic-treaty-clean-grids",
+      "summary": "Delegates from 64 nations conclude bilateral negotiations, committing $320B toward cross-border resilient HVDC grids and automated power distribution networks.",
+      "content": "<p>In what diplomatic observers are calling the most ambitious cross-border infrastructure pact of the decade, delegates from 64 countries formally ratified the International Intergrid Protocol in Geneva today.</p>\n<p>The agreement outlines a binding commitment of <strong>$320 billion over eight years</strong> to co-fund high-voltage direct current (HVDC) transmission lines connecting continental solar corridors with offshore wind hubs.</p>\n<blockquote>\"We are moving from intermittent localized renewable experiments to an interconnected planetary baseload,\" stated Chief Energy Commissioner Elena Rostova during the final press briefing.</blockquote>\n<h3>Key Tenets of the Geneva Treaty</h3>\n<ul>\n  <li><strong>Universal Transmission Standardization:</strong> Harmonizing smart sub-station switching protocols to minimize packet loss across 10,000-kilometer lines.</li>\n  <li><strong>Sovereign Energy Reserve Sharing:</strong> Automated load-balancing between adjacent countries during peak heatwave and arctic blast anomalies.</li>\n  <li><strong>Critical Mineral Supply Safeguards:</strong> Collective stockpiling agreements for neodymium, lithium, and rare-earth magnetic alloys.</li>\n</ul>\n<p>Construction on the first multinational corridor—spanning North Africa to Southern Europe—is scheduled to commence early next quarter.</p>",
+      "featuredImage": "https://images.unsplash.com/photo-1473341304170-971dccb5ac1e?w=1200&auto=format&fit=crop&q=80",
+      "sourceType": "MANUAL",
+      "sourceName": "Nexus Editorial",
+      "status": "PUBLISHED",
+      "isBreaking": true,
+      "viewsCount": 14204,
+      "authorId": "user-admin",
+      "categoryId": "cat-4",
+      "tags": [
+        "Energy",
+        "Climate",
+        "Global Policy",
+        "Infrastructure"
+      ],
+      "publishedAt": "2026-11-22T12:34:14.443Z",
+      "createdAt": "2026-11-22T11:49:14.443Z"
+    },
+    {
+      "id": "art-tech-1",
+      "title": "Breakthrough Optical Neural Chips Demonstrate 100x Efficiency in Real-Time Inference",
+      "slug": "breakthrough-optical-neural-chips-demonstrate-100x-efficiency",
+      "summary": "Photonic computing architecture bypasses copper interconnect heat walls, enabling billion-parameter model executions at fractions of standard wattage.",
+      "content": "<p>Researchers have unveiled a commercial-scale silicon photonics accelerator capable of matrix multiplication using guided wave light beams rather than electron transistors.</p>\n<p>The architecture reduces thermal throttling by over 90%, opening new horizons for localized edge inference without massive data center cooling requirements.</p>",
+      "featuredImage": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1200&auto=format&fit=crop&q=80",
+      "sourceType": "MANUAL",
+      "sourceName": "Nexus Tech Desk",
+      "status": "PUBLISHED",
+      "isBreaking": false,
+      "viewsCount": 8930,
+      "authorId": "user-tech",
+      "categoryId": "cat-2",
+      "tags": [
+        "AI",
+        "Hardware",
+        "Photonics",
+        "Deep Tech"
+      ],
+      "publishedAt": "2026-11-22T10:19:14.443Z",
+      "createdAt": "2026-11-22T09:19:14.443Z"
+    },
+    {
+      "id": "art-biz-1",
+      "title": "Central Banks Pioneer Unified Cross-Border Settlement Rail with Instant Liquidity Pools",
+      "slug": "central-banks-pioneer-unified-cross-border-settlement-rail",
+      "summary": "A consortium of top financial authorities completes trial transfers slashing multi-day correspondent banking delays down to 400 milliseconds.",
+      "content": "<p>The long-standing frictions of international remittance and multi-currency foreign exchange settlement took a major step toward obsolescence this morning.</p>\n<p>The consortium demonstrated seamless high-volume settlements without requiring intermediate liquidity hoarding across foreign custodian vaults.</p>",
+      "featuredImage": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=1200&auto=format&fit=crop&q=80",
+      "sourceType": "MANUAL",
+      "sourceName": "Nexus Financial Desk",
+      "status": "PUBLISHED",
+      "isBreaking": false,
+      "viewsCount": 6510,
+      "authorId": "user-admin",
+      "categoryId": "cat-3",
+      "tags": [
+        "Economy",
+        "Banking",
+        "Fintech",
+        "Markets"
+      ],
+      "publishedAt": "2026-11-22T07:19:14.443Z",
+      "createdAt": "2026-11-22T06:19:14.443Z"
+    },
+    {
+      "id": "art-api-demo-1",
+      "title": "Autonomous Ocean Mapping Drones Complete First Comprehensive Trench Topography",
+      "slug": "autonomous-ocean-mapping-drones-complete-first-trench-topography",
+      "summary": "Sub-surface robotic fleets map previously unreachable seabed fault lines, revealing surprising hydrothermal vent biological clusters.",
+      "content": "<p>A synchronized swarm of deep-sea unmanned exploratory vessels has surfaced with over 40 terabytes of multi-beam bathymetric scans from the Kermadec Trench.</p>\n<p>The automated dataset provides unprecedented clarity on seismic subduction zones and deep ocean thermal vents.</p>",
+      "featuredImage": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=1200&auto=format&fit=crop&q=80",
+      "sourceType": "API",
+      "sourceName": "Reuters Science Wire",
+      "externalUrl": "https://www.reuters.com/science",
+      "status": "PUBLISHED",
+      "isBreaking": false,
+      "viewsCount": 4120,
+      "categoryId": "cat-4",
+      "tags": [
+        "Oceanography",
+        "Robotics",
+        "Science Wire"
+      ],
+      "publishedAt": "2026-11-22T04:59:14.443Z",
+      "createdAt": "2026-11-22T04:39:14.443Z"
+    }
+  ],
+  "jobs": [
+    {
+      "id": "job-up-police-constable",
+      "title": "UP Police Constable & PAC 60,244 Posts Recruitment 2026",
+      "titleHindi": "यूपी पुलिस कांस्टेबल एवं पीएसी 60,244 पद सीधी भर्ती",
+      "organization": "Uttar Pradesh Police Recruitment and Promotion Board (UPPRPB)",
+      "orgShort": "UPPRPB",
+      "category": "police_defense",
+      "regionType": "up_state",
+      "countryOrState": "उत्तर प्रदेश (UP State)",
+      "countryCode": "IN-UP",
+      "totalVacancies": 60244,
+      "qualification": "10+2 (Intermediate)",
+      "qualificationHindi": "12वीं (इंटरमीडिएट) पास",
+      "ageLimit": "18 से 25 वर्ष (नियमानुसार छूट)",
+      "salaryRange": "₹21,700 - ₹69,100 (पे मैट्रिक्स लेवल-3)",
+      "applicationDeadline": "2026-12-18",
+      "status": "ACTIVE",
+      "applicationFee": "सामान्य / ओबीसी: ₹400, एससी / एसटी: ₹400",
+      "officialNotificationUrl": "http://uppbpb.gov.in",
+      "applyUrl": "http://uppbpb.gov.in",
+      "postedAt": "2026-11-20",
+      "featured": true,
+      "description": "उत्तर प्रदेश पुलिस भर्ती एवं प्रोन्नति बोर्ड द्वारा आरक्षी नागरिक पुलिस एवं पीएसी के 60 हजार से अधिक पदों पर बंपर भर्ती प्रक्रिया सक्रिय है। गाजीपुर, लखनऊ, वाराणसी सहित सभी जिलों के अभ्यर्थी पात्र हैं।",
+      "selectionProcess": [
+        "लिखित परीक्षा (ओएमआर आधारित)",
+        "दस्तावेज सत्यापन एवं शारीरिक मानक परीक्षण (PST)",
+        "शारीरिक दक्षता परीक्षा (PET दौड़)",
+        "अंतिम मेरिट सूची"
+      ],
+      "keyDates": [
+        {
+          "label": "आवेदन शुरू",
+          "date": "2026-11-01"
+        },
+        {
+          "label": "अंतिम तिथि",
+          "date": "2026-12-18"
+        },
+        {
+          "label": "परीक्षा तिथि",
+          "date": "जनवरी 2027 (प्रस्तावित)"
+        }
+      ]
+    },
+    {
+      "id": "job-up-lekhpal",
+      "title": "UPSSSC Rajasva Lekhpal 8,085 Vacancies Recruitment 2026",
+      "titleHindi": "यूपीएसएसएससी राजस्व लेखपाल 8,085 पदों पर भर्ती",
+      "organization": "Uttar Pradesh Subordinate Services Selection Commission (UPSSSC)",
+      "orgShort": "UPSSSC",
+      "category": "government",
+      "regionType": "up_state",
+      "countryOrState": "उत्तर प्रदेश (UP State)",
+      "countryCode": "IN-UP",
+      "totalVacancies": 8085,
+      "qualification": "12th Pass + UP PET Qualified",
+      "qualificationHindi": "12वीं पास + यूपी पीईटी (PET) वैध स्कोर",
+      "ageLimit": "18 से 40 वर्ष",
+      "salaryRange": "₹5,200 - ₹20,200 (ग्रेड पे ₹2,000)",
+      "applicationDeadline": "2026-12-05",
+      "status": "CLOSING_SOON",
+      "applicationFee": "सामान्य / ओबीसी: ₹25 (प्रारंभिक शुल्क), मुख्य परीक्षा शुल्क अलग से",
+      "officialNotificationUrl": "http://upsssc.gov.in",
+      "applyUrl": "http://upsssc.gov.in",
+      "postedAt": "2026-11-15",
+      "featured": true,
+      "description": "उत्तर प्रदेश राजस्व विभाग में लेखपाल के पदों पर भर्ती हेतु आवेदन आमंत्रित किए गए हैं। ग्रामीण भूमि पैमाइश, चकबंदी व राजस्व रिकॉर्ड प्रबंधन हेतु महत्वपूर्ण भर्ती।",
+      "selectionProcess": [
+        "पीईटी स्कोर शॉर्टलिस्टिंग",
+        "मुख्य लिखित परीक्षा",
+        "दस्तावेज सत्यापन"
+      ],
+      "keyDates": [
+        {
+          "label": "आवेदन शुरू",
+          "date": "2026-11-10"
+        },
+        {
+          "label": "अंतिम तिथि",
+          "date": "2026-12-05"
+        }
+      ]
+    },
+    {
+      "id": "job-up-teachers",
+      "title": "UP Basic Education Council 51,000 Primary Teachers Recruitment",
+      "titleHindi": "यूपी बेसिक शिक्षा परिषद 51,000 प्राथमिक शिक्षक (Super TET) भर्ती",
+      "organization": "UP Basic Education Board, Prayagraj",
+      "orgShort": "UPBEB",
+      "category": "teaching",
+      "regionType": "up_state",
+      "countryOrState": "उत्तर प्रदेश (UP State)",
+      "countryCode": "IN-UP",
+      "totalVacancies": 51000,
+      "qualification": "D.El.Ed / B.Ed + UPTET / CTET Pass",
+      "qualificationHindi": "स्नातक + डीएलएड/बीएड + यूपीटीईटी / सीटीईटी उत्तीर्ण",
+      "ageLimit": "21 से 40 वर्ष",
+      "salaryRange": "₹35,400 - ₹1,12,400 (लेवल-6)",
+      "applicationDeadline": "2026-12-30",
+      "status": "ACTIVE",
+      "applicationFee": "सामान्य / ओबीसी: ₹700, एससी / एसटी: ₹500",
+      "officialNotificationUrl": "https://updeled.gov.in",
+      "applyUrl": "https://updeled.gov.in",
+      "postedAt": "2026-11-18",
+      "featured": true,
+      "description": "उत्तर प्रदेश के प्राथमिक व उच्च प्राथमिक विद्यालयों में शिक्षकों के रिक्त पदों पर बंपर भर्ती प्रक्रिया का शासनादेश। सभी जिलों में काउंसिलिंग के आधार पर पोस्टिंग होगी।",
+      "selectionProcess": [
+        "सुपर टीईटी (Super TET) लिखित परीक्षा",
+        "अकादमिक मेरिट (10वीं, 12वीं, स्नातक, प्रशिक्षण)",
+        "जिला स्तरीय काउंसिलिंग"
+      ]
+    },
+    {
+      "id": "job-ssc-gd",
+      "title": "SSC GD Constable in BSF, CISF, CRPF, ITBP 45,284 Vacancies",
+      "titleHindi": "एसएससी जीडी कांस्टेबल (बीएसएफ, सीआईएसएफ, सीआरपीएफ) 45,284 पद",
+      "organization": "Staff Selection Commission (SSC)",
+      "orgShort": "SSC",
+      "category": "police_defense",
+      "regionType": "all_india",
+      "countryOrState": "All India (केन्द्रीय सरकार)",
+      "countryCode": "IN",
+      "totalVacancies": 45284,
+      "qualification": "10th Class (Matriculation)",
+      "qualificationHindi": "10वीं (हाईस्कूल) पास",
+      "ageLimit": "18 से 23 वर्ष (आरक्षित वर्गों को 5 वर्ष तक छूट)",
+      "salaryRange": "₹21,700 - ₹69,100 (लेवल-3)",
+      "applicationDeadline": "2026-12-25",
+      "status": "ACTIVE",
+      "applicationFee": "सामान्य / ओबीसी: ₹100, महिला / एससी / एसटी: ₹0",
+      "officialNotificationUrl": "https://ssc.gov.in",
+      "applyUrl": "https://ssc.gov.in",
+      "postedAt": "2026-11-21",
+      "featured": true,
+      "description": "केंद्रीय अर्धसैनिक बलों (BSF, CISF, CRPF, SSB, ITBP, AR, SSF) में सिपाही जीडी के पदों पर अखिल भारतीय स्तर पर भर्ती। कंप्यूटर आधारित परीक्षा हिंदी व अंग्रेजी सहित 13 क्षेत्रीय भाषाओं में आयोजित होगी।",
+      "selectionProcess": [
+        "कंप्यूटर आधारित परीक्षा (CBE)",
+        "शारीरिक मानक व दक्षता परीक्षा (PST/PET)",
+        "चिकित्सा परीक्षण (DME/RME)"
+      ]
+    },
+    {
+      "id": "job-rrb-railway",
+      "title": "Indian Railways RRB Technician & Assistant Loco Pilot 18,799 Posts",
+      "titleHindi": "भारतीय रेलवे (RRB) सहायक लोको पायलट व तकनीशियन 18,799 पद",
+      "organization": "Railway Recruitment Boards (RRB)",
+      "orgShort": "RRB",
+      "category": "railways",
+      "regionType": "all_india",
+      "countryOrState": "All India (भारतीय रेल)",
+      "countryCode": "IN",
+      "totalVacancies": 18799,
+      "qualification": "10th + ITI / Diploma in Engineering",
+      "qualificationHindi": "10वीं पास + संबंधित ट्रेड में आईटीआई या इंजीनियरिंग डिप्लोमा",
+      "ageLimit": "18 से 30 वर्ष",
+      "salaryRange": "₹19,900 - ₹63,200 (लेवल-2) + रनिंग अलाउंस",
+      "applicationDeadline": "2026-12-10",
+      "status": "CLOSING_SOON",
+      "applicationFee": "सामान्य / ओबीसी: ₹500 (सीबीटी देने पर ₹400 रिफंड), एससी / एसटी: ₹250",
+      "officialNotificationUrl": "https://rrbcdg.gov.in",
+      "applyUrl": "https://rrbcdg.gov.in",
+      "postedAt": "2026-11-12",
+      "featured": true,
+      "description": "भारतीय रेलवे के विभिन्न जोनों में ट्रेन संचालन और रखरखाव के लिए लोको पायलट और तकनीशियनों की बड़े पैमाने पर भर्ती। पूर्वांचल व उत्तर रेलवे के अभ्यर्थी बड़ी संख्या में आवेदन कर सकते हैं।",
+      "selectionProcess": [
+        "सीबीटी चरण-1 (Screening)",
+        "सीबीटी चरण-2 (Technical + Non-Tech)",
+        "कंप्यूटर आधारित योग्यता परीक्षा (CBAT/Psycho)",
+        "दस्तावेज एवं मेडिकल"
+      ]
+    },
+    {
+      "id": "job-sbi-po",
+      "title": "State Bank of India (SBI) Probationary Officers (PO) 2,000 Posts",
+      "titleHindi": "स्टेट बैंक ऑफ इंडिया (SBI) प्रोबेशनरी ऑफिसर (PO) 2,000 पद",
+      "organization": "State Bank of India",
+      "orgShort": "SBI",
+      "category": "banking",
+      "regionType": "all_india",
+      "countryOrState": "All India (बैंकिंग)",
+      "countryCode": "IN",
+      "totalVacancies": 2000,
+      "qualification": "Graduation in Any Discipline",
+      "qualificationHindi": "किसी भी मान्यता प्राप्त विश्वविद्यालय से स्नातक (ग्रेजुएशन)",
+      "ageLimit": "21 से 30 वर्ष",
+      "salaryRange": "₹65,000+ प्रतिमाह (सकल परिलब्धियां + आवास भत्ता)",
+      "applicationDeadline": "2026-12-08",
+      "status": "ACTIVE",
+      "applicationFee": "सामान्य / ओबीसी / ईडब्ल्यूएस: ₹750, एससी / एसटी / दिव्यांग: ₹0",
+      "officialNotificationUrl": "https://sbi.co.in/careers",
+      "applyUrl": "https://sbi.co.in/careers",
+      "postedAt": "2026-11-17",
+      "featured": false,
+      "description": "देश के सबसे बड़े सरकारी बैंक में मैनेजमेंट कैडर के तहत पीओ पदों पर भर्ती। आकर्षक वेतनमान, देश-विदेश में पोस्टिंग के अवसर एवं तेज पदोन्नति नीति।"
+    },
+    {
+      "id": "job-gulf-uae-nurses",
+      "title": "UAE & Gulf Ministry of Health Certified Staff Nurses & Healthcare Technicians",
+      "titleHindi": "दुबई एवं संयुक्त अरब अमीरात (UAE) स्वास्थ्य मंत्रालय स्टाफ नर्स व पैरामेडिकल भर्ती",
+      "organization": "Ministry of Health & Prevention (MOHAP) UAE / Gulf Overseas Council",
+      "orgShort": "MOHAP UAE",
+      "category": "healthcare",
+      "regionType": "international",
+      "countryOrState": "संयुक्त अरब अमीरात (UAE / Dubai / Abu Dhabi)",
+      "countryCode": "AE",
+      "totalVacancies": 1250,
+      "qualification": "B.Sc Nursing / GNM + 2 Yrs Exp (DHA/MOH License Support)",
+      "qualificationHindi": "बीएससी नर्सिंग / जीएनएम डिप्लोमा + 2 वर्ष क्लिनिकल अनुभव",
+      "ageLimit": "22 से 40 वर्ष",
+      "salaryRange": "AED 8,500 - 16,000 / माह (लगभग ₹1,95,000 - ₹3,65,000 टैक्स-फ्री) + आवास",
+      "applicationDeadline": "2027-01-15",
+      "status": "ACTIVE",
+      "applicationFee": "निःशुल्क सरकारी पंजीकरण (Government Certified Agency Protocol)",
+      "officialNotificationUrl": "https://www.mohap.gov.ae/en/services/careers",
+      "applyUrl": "https://www.mohap.gov.ae/en/services/careers",
+      "postedAt": "2026-11-19",
+      "featured": true,
+      "description": "दुबई, अबू धाबी एवं शारजाह के सरकारी व सुपर स्पेशियलिटी अस्पतालों में भारतीय नर्सों और मेडिकल लैब टेक्नीशियनों की सीधी भर्ती। चयनित उम्मीदवारों को निःशुल्क कार्य वीजा, हवाई टिकट और फैमिली स्पॉन्सरशिप की सुविधा मिलेगी।",
+      "selectionProcess": [
+        "दस्तावेज व नर्सिंग काउंसिल सत्यापन",
+        "ऑनलाइन वीडियो साक्षात्कार (MS Teams)",
+        "डीएचए/एमओएच परीक्षा सहायता",
+        "वीजा व वर्क परमिट जारी"
+      ],
+      "keyDates": [
+        {
+          "label": "आवेदन प्रक्रिया सक्रिय",
+          "date": "2026-11-15"
+        },
+        {
+          "label": "साक्षात्कार चरण",
+          "date": "दिसंबर 2026 - जनवरी 2027"
+        }
+      ]
+    },
+    {
+      "id": "job-saudi-neom-engineers",
+      "title": "Saudi Arabia Mega Projects (NEOM & Metro) Civil & Electrical Supervisors",
+      "titleHindi": "सऊदी अरब (NEOM एवं रियाद मेट्रो) सिविल व इलेक्ट्रिकल इंजीनियर व सुपरवाइजर",
+      "organization": "NEOM Infrastructure Authority / NSDC International Partner",
+      "orgShort": "NEOM KSA",
+      "category": "tech",
+      "regionType": "international",
+      "countryOrState": "सऊदी अरब (Saudi Arabia / Neom City)",
+      "countryCode": "SA",
+      "totalVacancies": 680,
+      "qualification": "B.Tech / Diploma in Civil / Electrical / Safety Engineering",
+      "qualificationHindi": "बीटेक या 3 वर्षीय पॉलीटेक्निक डिप्लोमा (सिविल / इलेक्ट्रिकल / सेफ्टी)",
+      "ageLimit": "23 से 45 वर्ष",
+      "salaryRange": "SAR 7,000 - 14,000 / माह (लगभग ₹1,55,000 - ₹3,10,000) + भोजन व आवास",
+      "applicationDeadline": "2026-12-28",
+      "status": "ACTIVE",
+      "applicationFee": "विदेश मंत्रालय (MEA India) अनुबंधित भर्ती नीति",
+      "officialNotificationUrl": "https://www.neom.com/en-us/careers",
+      "applyUrl": "https://www.neom.com/en-us/careers",
+      "postedAt": "2026-11-14",
+      "featured": true,
+      "description": "दुनिया के सबसे बड़े स्मार्ट सिटी प्रोजेक्ट \"नियोम\" और रियाद इंफ्रास्ट्रक्चर नेटवर्क के लिए भारतीय इंजीनियरों, सर्वेयरों व सेफ्टी अधिकारियों की भर्ती। भारत सरकार के ई-माइग्रेट (e-Migrate) पोर्टल द्वारा प्रमाणित।",
+      "selectionProcess": [
+        "तकनीकी सीवी शॉर्टलिस्टिंग",
+        "फेस-टू-फेस / वीडियो इंटरव्यू",
+        "मेडिकल फिटनेस (GAMCA)",
+        "ई-माइग्रेट वर्क वीजा स्टैम्पिंग"
+      ]
+    },
+    {
+      "id": "job-germany-chancenkarte",
+      "title": "Germany Opportunity Card (Chancenkarte) Skilled IT & Engineering Talent 2026",
+      "titleHindi": "जर्मनी ऑपर्च्युनिटी कार्ड (Chancenkarte) कुशल आईटी, ऑटोमेशन व टेक जॉब्स",
+      "organization": "Federal Employment Agency of Germany (Bundesagentur für Arbeit)",
+      "orgShort": "BA Germany",
+      "category": "tech",
+      "regionType": "international",
+      "countryOrState": "जर्मनी / यूरोप (Germany / EU)",
+      "countryCode": "DE",
+      "totalVacancies": 4500,
+      "qualification": "Degree in Engineering / Computer Science / Vocational Training + Basic German or English",
+      "qualificationHindi": "इंजीनियरिंग / कंप्यूटर साइंस में डिग्री या मान्यता प्राप्त तकनीकी प्रशिक्षण",
+      "ageLimit": "21 से 40 वर्ष",
+      "salaryRange": "€4,200 - €7,500 / माह (लगभग ₹3,80,000 - ₹6,80,000)",
+      "applicationDeadline": "2027-02-28",
+      "status": "ACTIVE",
+      "applicationFee": "जर्मन दूतावास वीज़ा शुल्क: €75",
+      "officialNotificationUrl": "https://www.make-it-in-germany.com",
+      "applyUrl": "https://www.make-it-in-germany.com",
+      "postedAt": "2026-11-16",
+      "featured": true,
+      "description": "जर्मनी सरकार के नए \"ऑपर्च्युनिटी कार्ड\" कानून के तहत भारतीय तकनीकी स्नातकों को बिना पहले से जॉब ऑफर के भी जर्मनी में रहकर नौकरी खोजने का वैध 1 वर्ष का वर्क वीजा मिल रहा है। आईटी, मैकेनिकल और एआई पेशेवरों के लिए सुनहरा अवसर।",
+      "selectionProcess": [
+        "पॉइंट्स कैलकुलेटर मूल्यांकन (भाषा, आयु, योग्यता)",
+        "जर्मन दूतावास वीजा साक्षात्कार",
+        "जर्मनी में ऑन-साइट जॉब मैचिंग"
+      ]
+    },
+    {
+      "id": "job-japan-titp",
+      "title": "Japan TITP & SSW Technical Interns & Construction Specialists (TITP Japan)",
+      "titleHindi": "जापान तकनीकी इंटर्न व विनिर्माण विशेषज्ञ (NSDC इंटरनेशनल सहयोग)",
+      "organization": "Japan International Training Cooperation Organization (JITCO)",
+      "orgShort": "JITCO Japan",
+      "category": "international",
+      "regionType": "international",
+      "countryOrState": "जापान (Japan - Tokyo & Osaka)",
+      "countryCode": "JP",
+      "totalVacancies": 350,
+      "qualification": "10th / 12th / ITI + Japanese Language N5/N4 Training",
+      "qualificationHindi": "10वीं / 12वीं / आईटीआई + जापानी भाषा एन5/एन4 प्रारंभिक ज्ञान",
+      "ageLimit": "18 से 32 वर्ष",
+      "salaryRange": "JPY 180,000 - 260,000 / माह (लगभग ₹1,10,000 - ₹1,65,000)",
+      "applicationDeadline": "2027-01-30",
+      "status": "ACTIVE",
+      "officialNotificationUrl": "https://nsdcinternational.com",
+      "applyUrl": "https://nsdcinternational.com",
+      "postedAt": "2026-11-10",
+      "featured": false,
+      "description": "जापान सरकार और भारत सरकार के कौशल विकास मंत्रालय के तत्वावधान में जापानी कंपनियों में 3 से 5 वर्ष के लिए उच्च-वेतन तकनीकी इंटर्नशिप। प्रशिक्षण अवधि के दौरान पूर्ण छात्रवृत्ति व हवाई टिकट।"
+    },
+    {
+      "id": "job-global-remote-tech",
+      "title": "Global Remote Software Engineers & Generative AI Data Specialists (Work from Home)",
+      "titleHindi": "ग्लोबल रिमोट सॉफ्टवेयर व जेनरेटिव एआई डेटा विशेषज्ञ (वर्क फ्रॉम होम)",
+      "organization": "Apex Global Tech Consortium / Remote Horizon",
+      "orgShort": "Apex Tech",
+      "category": "tech",
+      "regionType": "international",
+      "countryOrState": "ग्लोबल रिमोट (Global Remote / US & Europe)",
+      "countryCode": "US",
+      "totalVacancies": 180,
+      "qualification": "Proficiency in Python / React / Data Engineering / LLMs",
+      "qualificationHindi": "कंप्यूटर साइंस स्नातक या कोडिंग/एआई में उत्कृष्ट कौशल",
+      "ageLimit": "18+ वर्ष",
+      "salaryRange": "$2,500 - $5,000 / माह (लगभग ₹2,10,000 - ₹4,20,000) फुल टाइम रिमोट",
+      "applicationDeadline": "2026-12-31",
+      "status": "ACTIVE",
+      "officialNotificationUrl": "https://remotehorizon.io",
+      "applyUrl": "https://remotehorizon.io",
+      "postedAt": "2026-11-22",
+      "featured": false,
+      "description": "घर बैठे अमेरिका व यूरोप की शीर्ष टेक कंपनियों के लिए रिमोट काम करने का अवसर। लचीले घंटे, अंतर्राष्ट्रीय डॉलर भुगतान और नवीनतम एआई सिस्टम पर कार्य का अनुभव।"
+    },
+    {
+      "id": "job-bihar-bpsc-tre",
+      "title": "Bihar BPSC Teacher Recruitment Phase-4 (TRE 4.0) 87,000 Posts",
+      "titleHindi": "बिहार लोक सेवा आयोग (BPSC) शिक्षक भर्ती फेज-4 (TRE 4.0) 87,000 पद",
+      "organization": "Bihar Public Service Commission (BPSC)",
+      "orgShort": "BPSC",
+      "category": "teaching",
+      "regionType": "other_states",
+      "countryOrState": "बिहार (Bihar State)",
+      "countryCode": "IN-BR",
+      "totalVacancies": 87000,
+      "qualification": "Graduation + B.Ed/D.El.Ed + CTET/STET Qualified",
+      "qualificationHindi": "स्नातक + प्रशिक्षण + सीटीईटी/एसटीईटी उत्तीर्ण (यूपी के अभ्यर्थी भी सामान्य श्रेणी में पात्र)",
+      "ageLimit": "21 से 37 वर्ष",
+      "salaryRange": "₹35,000 - ₹50,000 प्रतिमाह",
+      "applicationDeadline": "2026-12-20",
+      "status": "ACTIVE",
+      "officialNotificationUrl": "https://bpsc.bih.nic.in",
+      "applyUrl": "https://bpsc.bih.nic.in",
+      "postedAt": "2026-11-15",
+      "featured": false,
+      "description": "बिहार राज्य के विद्यालयों में प्राथमिक, माध्यमिक व उच्च माध्यमिक अध्यापकों के 87 हजार पदों पर भर्ती। उत्तर प्रदेश व पूर्वांचल सीमावर्ती जिलों के युवा भी आवेदन के पात्र हैं।"
+    }
+  ]
+}

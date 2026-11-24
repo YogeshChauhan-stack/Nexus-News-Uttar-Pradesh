@@ -1,11 +1,14 @@
 /** @type {import('next').NextConfig} */
+const isAndroidOrTermux = process.platform === 'android' || Boolean(process.env.TERMUX_VERSION);
+
 const nextConfig = {
   reactStrictMode: true,
-  // NOTE: Remove 'experimental.useWasmBinary' before deploying to production (Vercel/Render).
-  // This is only needed for Termux/Android local development.
-  experimental: {
-    useWasmBinary: true
-  },
+  // Only use wasm binary on Android/Termux environments where native SWC is unavailable
+  ...(isAndroidOrTermux ? {
+    experimental: {
+      useWasmBinary: true
+    }
+  } : {}),
   // Security headers for production
   async headers() {
     return [

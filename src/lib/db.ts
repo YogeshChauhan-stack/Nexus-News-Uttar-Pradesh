@@ -3,8 +3,10 @@ import path from 'path';
 import { Article, Category, User, Tag } from './types';
 import { JobNotification, SAMPLE_JOBS } from './jobs';
 
-const DATA_DIR = path.join(process.cwd(), 'data');
+const isVercel = Boolean(process.env.VERCEL);
+const DATA_DIR = isVercel ? path.join('/tmp', 'nexus-data') : path.join(process.cwd(), 'data');
 const DB_FILE = path.join(DATA_DIR, 'db.json');
+const SEED_FILE = path.join(process.cwd(), 'data', 'db.json');
 
 interface DatabaseSchema {
   users: User[];
@@ -133,8 +135,17 @@ const DEFAULT_ARTICLES: Article[] = [
 ];
 
 function ensureDataFile(): DatabaseSchema {
-  if (!fs.existsSync(DATA_DIR)) {
-    fs.mkdirSync(DATA_DIR, { recursive: true });
+  try {
+    if (!fs.existsSync(DATA_DIR)) {
+      fs.mkdirSync(DATA_DIR, { recursive: true });
+    }
+  } catch {}
+
+  // If on Vercel and /tmp file not copied yet, copy seed db.json
+  if (isVercel && !fs.existsSync(DB_FILE) && fs.existsSync(SEED_FILE)) {
+    try {
+      fs.copyFileSync(SEED_FILE, DB_FILE);
+    } catch {}
   }
 
   if (!fs.existsSync(DB_FILE)) {
@@ -143,8 +154,11 @@ function ensureDataFile(): DatabaseSchema {
       categories: DEFAULT_CATEGORIES,
       tags: [],
       articles: DEFAULT_ARTICLES,
+      jobs: [...SAMPLE_JOBS],
     };
-    fs.writeFileSync(DB_FILE, JSON.stringify(initialData, null, 2), 'utf-8');
+    try {
+      fs.writeFileSync(DB_FILE, JSON.stringify(initialData, null, 2), 'utf-8');
+    } catch {}
     return initialData;
   }
 
@@ -170,10 +184,14 @@ function ensureDataFile(): DatabaseSchema {
 }
 
 function saveDatabase(data: DatabaseSchema) {
-  if (!fs.existsSync(DATA_DIR)) {
-    fs.mkdirSync(DATA_DIR, { recursive: true });
+  try {
+    if (!fs.existsSync(DATA_DIR)) {
+      fs.mkdirSync(DATA_DIR, { recursive: true });
+    }
+    fs.writeFileSync(DB_FILE, JSON.stringify(data, null, 2), 'utf-8');
+  } catch (err) {
+    console.warn('Failed to persist database file:', err);
   }
-  fs.writeFileSync(DB_FILE, JSON.stringify(data, null, 2), 'utf-8');
 }
 
 export const db = {
