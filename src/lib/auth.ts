@@ -16,9 +16,9 @@ async function getHmacHex(data: string, secret: string): Promise<string> {
     .join('');
 }
 
-export async function createAdminSessionToken(username: string): Promise<string> {
+export async function createAdminSessionToken(userIdentifier: string): Promise<string> {
   const timestamp = Date.now().toString();
-  const payload = `${username}:${timestamp}`;
+  const payload = `${userIdentifier}:${timestamp}`;
   const hmacHex = await getHmacHex(payload, SESSION_SECRET);
   // Base64 encode for cookie safety
   const rawString = `${payload}:${hmacHex}`;
@@ -41,12 +41,11 @@ export async function verifyAdminSessionToken(token: string | undefined | null):
     const parts = decoded.split(':');
     if (parts.length < 3) return false;
 
-    const username = parts[0];
+    const userIdentifier = parts[0];
     const timestampStr = parts[1];
     const signature = parts.slice(2).join(':');
 
-    const expectedUsername = process.env.ADMIN_USERNAME || 'admin';
-    if (username !== expectedUsername) return false;
+    if (!userIdentifier) return false;
 
     const timestamp = parseInt(timestampStr, 10);
     // 7 days expiration
@@ -55,7 +54,7 @@ export async function verifyAdminSessionToken(token: string | undefined | null):
       return false;
     }
 
-    const payload = `${username}:${timestampStr}`;
+    const payload = `${userIdentifier}:${timestampStr}`;
     const expectedHmac = await getHmacHex(payload, SESSION_SECRET);
 
     return signature === expectedHmac;

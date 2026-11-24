@@ -11,6 +11,7 @@
     "sync": "node -e \"require('./src/lib/pipeline/syncWorker.js')\""
   },
   "dependencies": {
+    "@supabase/supabase-js": "^2.119.2",
     "clsx": "^2.1.1",
     "fast-xml-parser": "^4.5.3",
     "lucide-react": "^0.475.0",
