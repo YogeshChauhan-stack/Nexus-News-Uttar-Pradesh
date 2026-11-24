@@ -1,0 +1,143 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --foreground-rgb: 15, 23, 42;
+  --background-rgb: 255, 255, 255;
+}
+
+body {
+  color: rgb(var(--foreground-rgb));
+  background-color: #fafafa;
+  font-feature-settings: "cv02", "cv03", "cv04", "cv11";
+}
+
+/* Custom newspaper typography rules */
+.font-editorial {
+  font-family: "Georgia", "Cambria", "Times New Roman", Times, serif;
+}
+
+.article-content p {
+  margin-bottom: 1.25rem;
+  line-height: 1.8;
+  font-size: 1.125rem;
+  color: #334155;
+}
+
+.article-content h2 {
+  font-size: 1.75rem;
+  font-weight: 700;
+  margin-top: 2rem;
+  margin-bottom: 1rem;
+  color: #0f172a;
+}
+
+.article-content h3 {
+  font-size: 1.35rem;
+  font-weight: 600;
+  margin-top: 1.5rem;
+  margin-bottom: 0.75rem;
+  color: #1e293b;
+}
+
+.article-content blockquote {
+  border-left: 4px solid #ef4444;
+  padding-left: 1.25rem;
+  font-style: italic;
+  font-size: 1.2rem;
+  color: #1e293b;
+  margin: 1.75rem 0;
+}
+
+.article-content ul {
+  list-style-type: disc;
+  margin-left: 1.5rem;
+  margin-bottom: 1.25rem;
+}
+
+.article-content li {
+  margin-bottom: 0.5rem;
+  line-height: 1.6;
+}
+
+/* ============================================================
+   DARK MODE — applied when <html class="dark"> is present
+   ============================================================ */
+
+.dark body {
+  background-color: #111111;
+  color: #e5e5e5;
+}
+
+.dark header {
+  background-color: #1a1a1a;
+  border-color: #2e2e2e;
+}
+
+.dark .bg-white {
+  background-color: #1a1a1a !important;
+}
+
+.dark .bg-neutral-50 {
+  background-color: #141414 !important;
+}
+
+.dark .bg-amber-50\/70,
+.dark .bg-amber-50 {
+  background-color: #1c1a12 !important;
+}
+
+.dark .text-neutral-900,
+.dark .text-neutral-800,
+.dark .text-neutral-700 {
+  color: #d4d4d4 !important;
+}
+
+.dark .text-neutral-600 {
+  color: #a3a3a3 !important;
+}
+
+.dark .text-neutral-500 {
+  color: #737373 !important;
+}
+
+.dark .border-neutral-200,
+.dark .border-neutral-100 {
+  border-color: #2e2e2e !important;
+}
+
+.dark .border-amber-200 {
+  border-color: #3b2f10 !important;
+}
+
+.dark .article-content {
+  color: #d1d5db;
+}
+
+.dark .article-content h1,
+.dark .article-content h2,
+.dark .article-content h3 {
+  color: #f3f4f6;
+}
+
+.dark .article-content blockquote {
+  color: #d1d5db;
+}
+
+.dark .bg-red-50\/60 {
+  background-color: #2d0808 !important;
+}
+
+.dark .bg-amber-100\/80 {
+  background-color: #2a2000 !important;
+}
+
+.dark .hover\:bg-neutral-100:hover {
+  background-color: #2a2a2a !important;
+}
+
+/* Smooth dark mode transition */
+html {
+  transition: background-color 0.25s ease, color 0.15s ease;
+}

@@ -1,0 +1,33 @@
+# Nexus News Platform — Git Ignore
+
+# Environment & Secrets
+.env
+.env.local
+.env.production
+.env.staging
+
+# Local Database (JSON file store)
+data/
+
+# Next.js build output
+.next/
+out/
+
+# Node dependencies
+node_modules/
+
+# pnpm
+.pnpm-store/
+
+# Debug logs
+*.log
+npm-debug.log*
+pnpm-debug.log*
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# TypeScript build info
+*.tsbuildinfo
+next-env.d.ts

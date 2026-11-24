@@ -1,0 +1,111 @@
+// Prisma Schema for Professional Hybrid News Platform
+// Supports both PostgreSQL (production) and SQLite (local development)
+
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+enum Role {
+  ADMIN
+  EDITOR
+  AUTHOR
+  USER
+}
+
+enum SourceType {
+  MANUAL
+  API
+}
+
+enum ArticleStatus {
+  DRAFT
+  IN_REVIEW
+  PUBLISHED
+  SCHEDULED
+}
+
+model User {
+  id            String    @id @default(cuid())
+  name          String
+  email         String    @unique
+  passwordHash  String?
+  role          Role      @default(USER)
+  bio           String?
+  avatarUrl     String?
+  createdAt     DateTime  @default(now())
+  updatedAt     DateTime  @updatedAt
+  articles      Article[]
+
+  @@map("users")
+}
+
+model Category {
+  id          String     @id @default(cuid())
+  name        String
+  slug        String     @unique
+  description String?
+  parentId    String?
+  parent      Category?  @relation("SubCategories", fields: [parentId], references: [id])
+  children    Category[] @relation("SubCategories")
+  articles    Article[]
+  createdAt   DateTime   @default(now())
+
+  @@map("categories")
+}
+
+model Tag {
+  id        String       @id @default(cuid())
+  name      String
+  slug      String       @unique
+  articles  ArticleTag[]
+  createdAt DateTime     @default(now())
+
+  @@map("tags")
+}
+
+model Article {
+  id            String        @id @default(cuid())
+  title         String
+  slug          String        @unique
+  summary       String
+  content       String        // HTML or structured JSON
+  featuredImage String?
+  sourceType    SourceType    @default(MANUAL)
+  sourceName    String        @default("Nexus Editorial")
+  externalUrl   String?       // Required for API news compliance
+  status        ArticleStatus @default(DRAFT)
+  isBreaking    Boolean       @default(false)
+  viewsCount    Int           @default(0)
+  
+  // Relations
+  authorId      String?
+  author        User?         @relation(fields: [authorId], references: [id])
+  categoryId    String?
+  category      Category?     @relation(fields: [categoryId], references: [id])
+  tags          ArticleTag[]
+
+  publishedAt   DateTime?
+  createdAt     DateTime      @default(now())
+  updatedAt     DateTime      @updatedAt
+
+  @@index([slug])
+  @@index([status, publishedAt])
+  @@index([categoryId])
+  @@index([isBreaking])
+  @@map("articles")
+}
+
+model ArticleTag {
+  articleId String
+  tagId     String
+  article   Article @relation(fields: [articleId], references: [id], onDelete: Cascade)
+  tag       Tag     @relation(fields: [tagId], references: [id], onDelete: Cascade)
+
+  @@id([articleId, tagId])
+  @@map("article_tags")
+}
